@@ -1,0 +1,316 @@
+{
+  "schId": "307",
+  "学校名称": "南京农业大学",
+  "列表信息": {
+    "schId": "307",
+    "学校代码": "10307",
+    "学校名称": "南京农业大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/307",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 76,
+    "页码": 4,
+    "所在地": "江苏",
+    "教育行政主管部门": "教育部",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科",
+      "“双一流”建设高校"
+    ],
+    "满意度": "4.4"
+  },
+  "网站字段": {
+    "官方网址": "http://www.fjnu.edu.cn/",
+    "招生网址": "https://zsb.fjnu.edu.cn/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "http://www.fjnu.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zsb.fjnu.edu.cn/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/307",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "307"
+      },
+      "标题": "南京农业大学",
+      "原始文本": "院校库\n福建师范大学\n1245人关注\n教育行政主管部门：\n福建省教育厅\n所在地：福建\n详细地址：福建省福州市仓山区上三路8号福建师范大学仓山校区(350007) 福建省福州市闽侯县上街镇乌龙江中大道18号福建师范大学旗山校区(350117)\n官方网址：\nhttp://www.fjnu.edu.cn/\n招生网址：\nhttps://zsb.fjnu.edu.cn/\n官方电话：0591-22867412、22867413、22860731、22860873\n高招咨询\n招生章程\n高校专业选科要求\n招办访谈\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n宣传视频\n有福师大\n微信\n微博\n百家号\n新媒体\n名称：福建师范大学本科招生\n微信号：fjnuzsb\n院校满意度\n4.3\n6781人\n综合满意度\n4.5\n7238人\n环境满意度\n4.1\n6474人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n运动训练\n4.8\n(60人)\n2\n体育教育\n4.7\n(308人)\n3\n舞蹈学\n4.7\n(54人)\n4\n工商管理类\n4.6\n(20人)\n5\n音乐学\n4.6\n(179人)\n6\n计算机应用技术\n4.6\n(112人)\n7\n音乐表演\n4.6\n(27人)\n8\n美术学\n4.6\n(164人)\n9\n学前教育\n4.6\n(887人)\n10\n小学教育\n4.5\n(161人)\n查看更多\n考生咨询\nQ\n红绿色盲\nQ\n物化地，打算报考：汉学与中国学\nQ\n关于填报志愿问题\nQ\n关于转专业问题\nQ\n日语能否代替英语学习及毕业？\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "福建师范大学",
+        "1245人关注",
+        "教育行政主管部门：",
+        "福建省教育厅",
+        "所在地：福建",
+        "详细地址：福建省福州市仓山区上三路8号福建师范大学仓山校区(350007) 福建省福州市闽侯县上街镇乌龙江中大道18号福建师范大学旗山校区(350117)",
+        "官方网址：",
+        "http://www.fjnu.edu.cn/",
+        "招生网址：",
+        "https://zsb.fjnu.edu.cn/",
+        "官方电话：0591-22867412、22867413、22860731、22860873",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "招办访谈",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "宣传视频",
+        "有福师大",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：福建师范大学本科招生",
+        "微信号：fjnuzsb",
+        "院校满意度",
+        "4.3",
+        "6781人",
+        "综合满意度",
+        "4.5",
+        "7238人",
+        "环境满意度",
+        "4.1",
+        "6474人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "运动训练",
+        "4.8",
+        "(60人)",
+        "2",
+        "体育教育",
+        "4.7",
+        "(308人)",
+        "3",
+        "舞蹈学",
+        "4.7",
+        "(54人)",
+        "4",
+        "工商管理类",
+        "4.6",
+        "(20人)",
+        "5",
+        "音乐学",
+        "4.6",
+        "(179人)",
+        "6",
+        "计算机应用技术",
+        "4.6",
+        "(112人)",
+        "7",
+        "音乐表演",
+        "4.6",
+        "(27人)",
+        "8",
+        "美术学",
+        "4.6",
+        "(164人)",
+        "9",
+        "学前教育",
+        "4.6",
+        "(887人)",
+        "10",
+        "小学教育",
+        "4.5",
+        "(161人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "红绿色盲",
+        "Q",
+        "物化地，打算报考：汉学与中国学",
+        "Q",
+        "关于填报志愿问题",
+        "Q",
+        "关于转专业问题",
+        "Q",
+        "日语能否代替英语学习及毕业？",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "福建"
+        ],
+        "详细地址": [
+          "福建省福州市仓山区上三路8号福建师范大学仓山校区(350007) 福建省福州市闽侯县上街镇乌龙江中大道18号福建师范大学旗山校区(350117)"
+        ],
+        "http": [
+          "//www.fjnu.edu.cn/"
+        ],
+        "https": [
+          "//zsb.fjnu.edu.cn/"
+        ],
+        "官方电话": [
+          "0591-22867412、22867413、22860731、22860873"
+        ],
+        "名称": [
+          "福建师范大学本科招生"
+        ],
+        "微信号": [
+          "fjnuzsb"
+        ],
+        "物化地，打算报考": [
+          "汉学与中国学"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/xh/10394.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10394/or90c3e5vh0ngiao"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "http://www.fjnu.edu.cn/",
+          "链接": "http://www.fjnu.edu.cn/"
+        },
+        {
+          "名称": "https://zsb.fjnu.edu.cn/",
+          "链接": "https://zsb.fjnu.edu.cn/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "运动训练",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395676&specId=73383335"
+        },
+        {
+          "名称": "体育教育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395676&specId=73383331"
+        },
+        {
+          "名称": "舞蹈学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395676&specId=73383659"
+        },
+        {
+          "名称": "工商管理类",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395676&specId=73385272"
+        },
+        {
+          "名称": "音乐学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395676&specId=73383627"
+        },
+        {
+          "名称": "音乐表演",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395676&specId=73383635"
+        },
+        {
+          "名称": "美术学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395676&specId=73383647"
+        },
+        {
+          "名称": "学前教育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395676&specId=73383291"
+        },
+        {
+          "名称": "小学教育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395676&specId=73383303"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=9080"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "http://www.fjnu.edu.cn/",
+        "招生网址": "https://zsb.fjnu.edu.cn/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "http://www.fjnu.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zsb.fjnu.edu.cn/"
+        }
+      ],
+      "官方电话": "0591-22867412、22867413、22860731、22860873",
+      "抓取时间": "2026-11-07T00:30:54.201867+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:30:54.201867+08:00"
+}

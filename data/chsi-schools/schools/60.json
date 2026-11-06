@@ -1,0 +1,308 @@
+{
+  "schId": "60",
+  "学校名称": "天津理工大学",
+  "列表信息": {
+    "schId": "60",
+    "学校代码": "10060",
+    "学校名称": "天津理工大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/60",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 10,
+    "页码": 1,
+    "所在地": "天津",
+    "教育行政主管部门": "天津市教育委员会",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.0"
+  },
+  "网站字段": {
+    "官方网址": "https://www.tjcu.edu.cn/",
+    "招生网址": "https://zs.tjcu.edu.cn/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.tjcu.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zs.tjcu.edu.cn/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/60",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "60"
+      },
+      "标题": "天津理工大学",
+      "原始文本": "院校库\n天津商业大学\n1742人关注\n教育行政主管部门：\n天津市教育委员会\n所在地：天津\n详细地址：天津市北辰区光荣道409号\n官方网址：\nhttps://www.tjcu.edu.cn/\n招生网址：\nhttps://zs.tjcu.edu.cn/\n官方电话：022-26656785\n高招咨询\n招生章程\n高校专业选科要求\n招办访谈\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：天津商业大学本科招生\n微信号：TS022-26656785\n院校满意度\n4.1\n3465人\n综合满意度\n4.1\n4275人\n环境满意度\n3.8\n3388人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n应用统计学\n4.7\n(10人)\n2\n能源与动力工程\n4.7\n(62人)\n3\n旅游管理类\n4.6\n(16人)\n4\n人力资源管理\n4.6\n(245人)\n5\n会计学\n4.6\n(729人)\n6\n市场营销\n4.5\n(181人)\n7\n工商管理\n4.5\n(598人)\n8\n统计学类\n4.5\n(13人)\n9\n数学与应用数学\n4.5\n(53人)\n10\n金融学\n4.4\n(527人)\n查看更多\n考生咨询\nQ\n是否能被录取？\nQ\n提问\nQ\n四川\nQ\n咨询\nQ\n礼貌提问\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "天津商业大学",
+        "1742人关注",
+        "教育行政主管部门：",
+        "天津市教育委员会",
+        "所在地：天津",
+        "详细地址：天津市北辰区光荣道409号",
+        "官方网址：",
+        "https://www.tjcu.edu.cn/",
+        "招生网址：",
+        "https://zs.tjcu.edu.cn/",
+        "官方电话：022-26656785",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "招办访谈",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：天津商业大学本科招生",
+        "微信号：TS022-26656785",
+        "院校满意度",
+        "4.1",
+        "3465人",
+        "综合满意度",
+        "4.1",
+        "4275人",
+        "环境满意度",
+        "3.8",
+        "3388人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "应用统计学",
+        "4.7",
+        "(10人)",
+        "2",
+        "能源与动力工程",
+        "4.7",
+        "(62人)",
+        "3",
+        "旅游管理类",
+        "4.6",
+        "(16人)",
+        "4",
+        "人力资源管理",
+        "4.6",
+        "(245人)",
+        "5",
+        "会计学",
+        "4.6",
+        "(729人)",
+        "6",
+        "市场营销",
+        "4.5",
+        "(181人)",
+        "7",
+        "工商管理",
+        "4.5",
+        "(598人)",
+        "8",
+        "统计学类",
+        "4.5",
+        "(13人)",
+        "9",
+        "数学与应用数学",
+        "4.5",
+        "(53人)",
+        "10",
+        "金融学",
+        "4.4",
+        "(527人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "是否能被录取？",
+        "Q",
+        "提问",
+        "Q",
+        "四川",
+        "Q",
+        "咨询",
+        "Q",
+        "礼貌提问",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "天津"
+        ],
+        "详细地址": [
+          "天津市北辰区光荣道409号"
+        ],
+        "https": [
+          "//www.tjcu.edu.cn/",
+          "//zs.tjcu.edu.cn/"
+        ],
+        "官方电话": [
+          "022-26656785"
+        ],
+        "名称": [
+          "天津商业大学本科招生"
+        ],
+        "微信号": [
+          "TS022-26656785"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t4.chei.com.cn/common/xh/10069.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10069/if7sqw8a3depcvrc"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.tjcu.edu.cn/",
+          "链接": "https://www.tjcu.edu.cn/"
+        },
+        {
+          "名称": "https://zs.tjcu.edu.cn/",
+          "链接": "https://zs.tjcu.edu.cn/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "应用统计学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394727&specId=437286976"
+        },
+        {
+          "名称": "能源与动力工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394727&specId=437286996"
+        },
+        {
+          "名称": "旅游管理类",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394727&specId=433435716"
+        },
+        {
+          "名称": "人力资源管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394727&specId=73385292"
+        },
+        {
+          "名称": "会计学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394727&specId=73385284"
+        },
+        {
+          "名称": "市场营销",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394727&specId=73385280"
+        },
+        {
+          "名称": "工商管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394727&specId=73385276"
+        },
+        {
+          "名称": "数学与应用数学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394727&specId=73383775"
+        },
+        {
+          "名称": "金融学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394727&specId=73381091"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=33060"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.tjcu.edu.cn/",
+        "招生网址": "https://zs.tjcu.edu.cn/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.tjcu.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zs.tjcu.edu.cn/"
+        }
+      ],
+      "官方电话": "022-26656785",
+      "抓取时间": "2026-11-07T00:13:52.358432+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:13:52.358432+08:00"
+}

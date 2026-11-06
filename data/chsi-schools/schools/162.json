@@ -1,0 +1,316 @@
+{
+  "schId": "162",
+  "学校名称": "辽宁中医药大学",
+  "列表信息": {
+    "schId": "162",
+    "学校代码": "10162",
+    "学校名称": "辽宁中医药大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/162",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 43,
+    "页码": 3,
+    "所在地": "辽宁",
+    "教育行政主管部门": "辽宁省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.0"
+  },
+  "网站字段": {
+    "官方网址": "https://www.ccucm.edu.cn",
+    "招生网址": "https://zhaosheng.ccucm.edu.cn"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.ccucm.edu.cn"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zhaosheng.ccucm.edu.cn"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/162",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "162"
+      },
+      "标题": "辽宁中医药大学",
+      "原始文本": "院校库\n长春中医药大学\n525人关注\n教育行政主管部门：\n吉林省教育厅\n所在地：吉林\n详细地址：\n地址：吉林省长春市净月国家高新技术产业开发区博硕路1035号\n邮编：130117\n官方网址：\nhttps://www.ccucm.edu.cn\n招生网址：\nhttps://zhaosheng.ccucm.edu.cn\n官方电话：0431-89989234\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：长春中医药大学招生\n微信号：ccucmzs\n院校满意度\n3.9\n1031人\n综合满意度\n4\n1300人\n环境满意度\n3.6\n987人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n针灸推拿学\n4.6\n(168人)\n2\n中药学\n4.5\n(46人)\n3\n药物制剂\n4.4\n(17人)\n4\n护理\n4.3\n(25人)\n5\n中医学\n4.3\n(263人)\n6\n制药工程\n4.2\n(51人)\n7\n护理学\n4.2\n(73人)\n8\n中西医临床医学\n4.2\n(19人)\n9\n英语\n4.1\n(15人)\n10\n临床医学\n4.0\n(99人)\n查看更多\n考生咨询\nQ\n保研\nQ\n证\nQ\n四川考生咨询\nQ\n云南考生\nQ\n中医学5+3一体化，体检24.25条限制可以报吗\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "长春中医药大学",
+        "525人关注",
+        "教育行政主管部门：",
+        "吉林省教育厅",
+        "所在地：吉林",
+        "详细地址：",
+        "地址：吉林省长春市净月国家高新技术产业开发区博硕路1035号",
+        "邮编：130117",
+        "官方网址：",
+        "https://www.ccucm.edu.cn",
+        "招生网址：",
+        "https://zhaosheng.ccucm.edu.cn",
+        "官方电话：0431-89989234",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：长春中医药大学招生",
+        "微信号：ccucmzs",
+        "院校满意度",
+        "3.9",
+        "1031人",
+        "综合满意度",
+        "4",
+        "1300人",
+        "环境满意度",
+        "3.6",
+        "987人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "针灸推拿学",
+        "4.6",
+        "(168人)",
+        "2",
+        "中药学",
+        "4.5",
+        "(46人)",
+        "3",
+        "药物制剂",
+        "4.4",
+        "(17人)",
+        "4",
+        "护理",
+        "4.3",
+        "(25人)",
+        "5",
+        "中医学",
+        "4.3",
+        "(263人)",
+        "6",
+        "制药工程",
+        "4.2",
+        "(51人)",
+        "7",
+        "护理学",
+        "4.2",
+        "(73人)",
+        "8",
+        "中西医临床医学",
+        "4.2",
+        "(19人)",
+        "9",
+        "英语",
+        "4.1",
+        "(15人)",
+        "10",
+        "临床医学",
+        "4.0",
+        "(99人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "保研",
+        "Q",
+        "证",
+        "Q",
+        "四川考生咨询",
+        "Q",
+        "云南考生",
+        "Q",
+        "中医学5+3一体化，体检24.25条限制可以报吗",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "吉林"
+        ],
+        "地址": [
+          "吉林省长春市净月国家高新技术产业开发区博硕路1035号"
+        ],
+        "邮编": [
+          "130117"
+        ],
+        "https": [
+          "//www.ccucm.edu.cn",
+          "//zhaosheng.ccucm.edu.cn"
+        ],
+        "官方电话": [
+          "0431-89989234"
+        ],
+        "名称": [
+          "长春中医药大学招生"
+        ],
+        "微信号": [
+          "ccucmzs"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t4.chei.com.cn/common/xh/10199.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10199/hp8ualcfh7azbn0n"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.ccucm.edu.cn",
+          "链接": "https://www.ccucm.edu.cn"
+        },
+        {
+          "名称": "https://zhaosheng.ccucm.edu.cn",
+          "链接": "https://zhaosheng.ccucm.edu.cn"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "针灸推拿学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395124&specId=73385144"
+        },
+        {
+          "名称": "中药学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395124&specId=73385192"
+        },
+        {
+          "名称": "药物制剂",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395124&specId=73385196"
+        },
+        {
+          "名称": "护理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395124&specId=73387873"
+        },
+        {
+          "名称": "中医学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395124&specId=73385140"
+        },
+        {
+          "名称": "制药工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395124&specId=73384600"
+        },
+        {
+          "名称": "护理学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395124&specId=73385172"
+        },
+        {
+          "名称": "中西医临床医学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395124&specId=73385156"
+        },
+        {
+          "名称": "英语",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395124&specId=73383483"
+        },
+        {
+          "名称": "临床医学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395124&specId=73385072"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=88830"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.ccucm.edu.cn",
+        "招生网址": "https://zhaosheng.ccucm.edu.cn"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.ccucm.edu.cn"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zhaosheng.ccucm.edu.cn"
+        }
+      ],
+      "官方电话": "0431-89989234",
+      "抓取时间": "2026-11-07T00:22:25.495303+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:22:25.495303+08:00"
+}

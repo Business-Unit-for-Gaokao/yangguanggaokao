@@ -1,0 +1,308 @@
+{
+  "schId": "458",
+  "学校名称": "山东艺术学院",
+  "列表信息": {
+    "schId": "458",
+    "学校代码": "10458",
+    "学校名称": "山东艺术学院",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/458",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 139,
+    "页码": 7,
+    "所在地": "山东",
+    "教育行政主管部门": "山东省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.3"
+  },
+  "网站字段": {
+    "官方网址": "https://www.ymun.edu.cn/",
+    "招生网址": "https://yyzs.ymun.edu.cn/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.ymun.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://yyzs.ymun.edu.cn/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/458",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "458"
+      },
+      "标题": "山东艺术学院",
+      "原始文本": "院校库\n右江民族医学院\n151人关注\n教育行政主管部门：\n广西壮族自治区教育厅\n所在地：广西\n详细地址：学校地址：广西百色市城乡路98号\n邮编：533000\n联系部门：招生就业工作处\n官方网址：\nhttps://www.ymun.edu.cn/\n招生网址：\nhttps://yyzs.ymun.edu.cn/\n官方电话：0776-2853922，2848860\n高招咨询\n招生章程\n高校专业选科要求\n直播信息\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n院校满意度\n4\n859人\n综合满意度\n3.9\n1230人\n环境满意度\n3.8\n798人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n口腔医学\n4.4\n(140人)\n2\n助产\n4.4\n(108人)\n3\n护理\n4.3\n(504人)\n4\n医学影像学\n4.3\n(196人)\n5\n临床医学\n4.2\n(1066人)\n6\n康复治疗技术\n4.2\n(24人)\n7\n中药学\n4.2\n(18人)\n8\n医学检验技术\n4.2\n(132人)\n9\n康复治疗学\n4.1\n(15人)\n10\n医学影像技术\n4.0\n(55人)\n查看更多\n考生咨询\nQ\n录取\nQ\n录取\nQ\n翻译专业\nQ\n广西本地考生\nQ\n录取\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "右江民族医学院",
+        "151人关注",
+        "教育行政主管部门：",
+        "广西壮族自治区教育厅",
+        "所在地：广西",
+        "详细地址：学校地址：广西百色市城乡路98号",
+        "邮编：533000",
+        "联系部门：招生就业工作处",
+        "官方网址：",
+        "https://www.ymun.edu.cn/",
+        "招生网址：",
+        "https://yyzs.ymun.edu.cn/",
+        "官方电话：0776-2853922，2848860",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "直播信息",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "院校满意度",
+        "4",
+        "859人",
+        "综合满意度",
+        "3.9",
+        "1230人",
+        "环境满意度",
+        "3.8",
+        "798人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "口腔医学",
+        "4.4",
+        "(140人)",
+        "2",
+        "助产",
+        "4.4",
+        "(108人)",
+        "3",
+        "护理",
+        "4.3",
+        "(504人)",
+        "4",
+        "医学影像学",
+        "4.3",
+        "(196人)",
+        "5",
+        "临床医学",
+        "4.2",
+        "(1066人)",
+        "6",
+        "康复治疗技术",
+        "4.2",
+        "(24人)",
+        "7",
+        "中药学",
+        "4.2",
+        "(18人)",
+        "8",
+        "医学检验技术",
+        "4.2",
+        "(132人)",
+        "9",
+        "康复治疗学",
+        "4.1",
+        "(15人)",
+        "10",
+        "医学影像技术",
+        "4.0",
+        "(55人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "录取",
+        "Q",
+        "录取",
+        "Q",
+        "翻译专业",
+        "Q",
+        "广西本地考生",
+        "Q",
+        "录取",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "广西"
+        ],
+        "详细地址": [
+          "学校地址：广西百色市城乡路98号"
+        ],
+        "邮编": [
+          "533000"
+        ],
+        "联系部门": [
+          "招生就业工作处"
+        ],
+        "https": [
+          "//www.ymun.edu.cn/",
+          "//yyzs.ymun.edu.cn/"
+        ],
+        "官方电话": [
+          "0776-2853922，2848860"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t4.chei.com.cn/common/xh/10599.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/gaokao/2026/wap/assets/images/yxxx_header_zb.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.ymun.edu.cn/",
+          "链接": "https://www.ymun.edu.cn/"
+        },
+        {
+          "名称": "https://yyzs.ymun.edu.cn/",
+          "链接": "https://yyzs.ymun.edu.cn/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "口腔医学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396265&specId=73385128"
+        },
+        {
+          "名称": "助产",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396265&specId=73387877"
+        },
+        {
+          "名称": "护理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396265&specId=73387873"
+        },
+        {
+          "名称": "医学影像学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396265&specId=73385080"
+        },
+        {
+          "名称": "临床医学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396265&specId=73385072"
+        },
+        {
+          "名称": "康复治疗技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396265&specId=73387933"
+        },
+        {
+          "名称": "中药学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396265&specId=73387893"
+        },
+        {
+          "名称": "医学检验技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396265&specId=73385084"
+        },
+        {
+          "名称": "康复治疗学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396265&specId=73385096"
+        },
+        {
+          "名称": "医学影像技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396265&specId=73387925"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=1351075"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.ymun.edu.cn/",
+        "招生网址": "https://yyzs.ymun.edu.cn/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.ymun.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://yyzs.ymun.edu.cn/"
+        }
+      ],
+      "官方电话": "0776-2853922，2848860",
+      "抓取时间": "2026-11-07T00:47:19.473673+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:47:19.473673+08:00"
+}

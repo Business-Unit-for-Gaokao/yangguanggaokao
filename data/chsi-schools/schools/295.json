@@ -1,0 +1,317 @@
+{
+  "schId": "295",
+  "学校名称": "江南大学",
+  "列表信息": {
+    "schId": "295",
+    "学校代码": "10295",
+    "学校名称": "江南大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/295",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 75,
+    "页码": 4,
+    "所在地": "江苏",
+    "教育行政主管部门": "教育部",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科",
+      "“双一流”建设高校"
+    ],
+    "满意度": "4.4"
+  },
+  "网站字段": {
+    "官方网址": "https://www.ahszu.edu.cn/",
+    "招生网址": "https://www.ahszu.edu.cn/zs/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.ahszu.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://www.ahszu.edu.cn/zs/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/295",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "295"
+      },
+      "标题": "江南大学",
+      "原始文本": "院校库\n宿州学院\n142人关注\n教育行政主管部门：\n安徽省教育厅\n所在地：安徽\n详细地址：招生咨询方式 邮政编码：234000 地址： 教育园区校区：安徽省宿州市学府大道1769号； 汴河路校区：安徽省宿州市汴河中路49号 招生咨询电话：0557-2875025 0557-3685022（暑假期间） 校园网主页：https://www.ahszu.edu.cn/ 招生网主页：https://www.ahszu.edu.cn/zs/ 招生咨询电子邮箱：szxyzjc@ahszu.edu.cn\n官方网址：\nhttps://www.ahszu.edu.cn/\n招生网址：\nhttps://www.ahszu.edu.cn/zs/\n官方电话：0557-2875025\n高招咨询\n招生章程\n高校专业选科要求\n招办访谈\n直播信息\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n宣传视频\n宿州学院宣传视频\n宿州学院考研学子讲述心路历程\n微信\n微博\n百家号\n新媒体\n名称：宿州学院招生办\n微信号：szxy_zsb\n院校满意度\n4.1\n2482人\n综合满意度\n4.1\n3308人\n环境满意度\n3.8\n2346人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n大数据与会计\n4.7\n(22人)\n2\n地理科学\n4.7\n(80人)\n3\n小学语文教育\n4.7\n(115人)\n4\n体育教育\n4.7\n(182人)\n5\n现代物流管理\n4.6\n(45人)\n6\n地质工程\n4.6\n(75人)\n7\n汉语言文学\n4.6\n(220人)\n8\n文化产业管理\n4.5\n(29人)\n9\n学前教育\n4.5\n(43人)\n10\n音乐学\n4.5\n(143人)\n查看更多\n考生咨询\nQ\n报考\nQ\n报考\nQ\n录 取\nQ\n湖北考生大理503排名101011~101848上工科的概率\nQ\n录取\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "宿州学院",
+        "142人关注",
+        "教育行政主管部门：",
+        "安徽省教育厅",
+        "所在地：安徽",
+        "详细地址：招生咨询方式 邮政编码：234000 地址： 教育园区校区：安徽省宿州市学府大道1769号； 汴河路校区：安徽省宿州市汴河中路49号 招生咨询电话：0557-2875025 0557-3685022（暑假期间） 校园网主页：https://www.ahszu.edu.cn/ 招生网主页：https://www.ahszu.edu.cn/zs/ 招生咨询电子邮箱：szxyzjc@ahszu.edu.cn",
+        "官方网址：",
+        "https://www.ahszu.edu.cn/",
+        "招生网址：",
+        "https://www.ahszu.edu.cn/zs/",
+        "官方电话：0557-2875025",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "招办访谈",
+        "直播信息",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "宣传视频",
+        "宿州学院宣传视频",
+        "宿州学院考研学子讲述心路历程",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：宿州学院招生办",
+        "微信号：szxy_zsb",
+        "院校满意度",
+        "4.1",
+        "2482人",
+        "综合满意度",
+        "4.1",
+        "3308人",
+        "环境满意度",
+        "3.8",
+        "2346人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "大数据与会计",
+        "4.7",
+        "(22人)",
+        "2",
+        "地理科学",
+        "4.7",
+        "(80人)",
+        "3",
+        "小学语文教育",
+        "4.7",
+        "(115人)",
+        "4",
+        "体育教育",
+        "4.7",
+        "(182人)",
+        "5",
+        "现代物流管理",
+        "4.6",
+        "(45人)",
+        "6",
+        "地质工程",
+        "4.6",
+        "(75人)",
+        "7",
+        "汉语言文学",
+        "4.6",
+        "(220人)",
+        "8",
+        "文化产业管理",
+        "4.5",
+        "(29人)",
+        "9",
+        "学前教育",
+        "4.5",
+        "(43人)",
+        "10",
+        "音乐学",
+        "4.5",
+        "(143人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "报考",
+        "Q",
+        "报考",
+        "Q",
+        "录 取",
+        "Q",
+        "湖北考生大理503排名101011~101848上工科的概率",
+        "Q",
+        "录取",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "安徽"
+        ],
+        "详细地址": [
+          "招生咨询方式 邮政编码：234000 地址： 教育园区校区：安徽省宿州市学府大道1769号； 汴河路校区：安徽省宿州市汴河中路49号 招生咨询电话：0557-2875025 0557-3685022（暑假期间） 校园网主页：https://www.ahszu.edu.cn/ 招生网主页：https://www.ahszu.edu.cn/zs/ 招生咨询电子邮箱：szxyzjc@ahszu.edu.cn"
+        ],
+        "https": [
+          "//www.ahszu.edu.cn/",
+          "//www.ahszu.edu.cn/zs/"
+        ],
+        "官方电话": [
+          "0557-2875025"
+        ],
+        "名称": [
+          "宿州学院招生办"
+        ],
+        "微信号": [
+          "szxy_zsb"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t4.chei.com.cn/common/xh/10379.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/gaokao/2026/wap/assets/images/yxxx_header_zb.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10379/mu4jfcjwjsa6p3qf"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.ahszu.edu.cn/",
+          "链接": "https://www.ahszu.edu.cn/"
+        },
+        {
+          "名称": "https://www.ahszu.edu.cn/zs/",
+          "链接": "https://www.ahszu.edu.cn/zs/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "地理科学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395636&specId=73383923"
+        },
+        {
+          "名称": "小学语文教育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395636&specId=73388321"
+        },
+        {
+          "名称": "体育教育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395636&specId=73383331"
+        },
+        {
+          "名称": "现代物流管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395636&specId=73387805"
+        },
+        {
+          "名称": "地质工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395636&specId=73384120"
+        },
+        {
+          "名称": "汉语言文学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395636&specId=73383455"
+        },
+        {
+          "名称": "文化产业管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395636&specId=73385388"
+        },
+        {
+          "名称": "学前教育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395636&specId=73383291"
+        },
+        {
+          "名称": "音乐学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395636&specId=73383627"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=54458"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.ahszu.edu.cn/",
+        "招生网址": "https://www.ahszu.edu.cn/zs/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.ahszu.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://www.ahszu.edu.cn/zs/"
+        }
+      ],
+      "官方电话": "0557-2875025",
+      "抓取时间": "2026-11-07T00:30:43.289926+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:30:43.289926+08:00"
+}

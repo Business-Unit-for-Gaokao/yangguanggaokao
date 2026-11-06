@@ -1,0 +1,316 @@
+{
+  "schId": "413",
+  "学校名称": "赣南医科大学",
+  "列表信息": {
+    "schId": "413",
+    "学校代码": "10413",
+    "学校名称": "赣南医科大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/413",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 125,
+    "页码": 7,
+    "所在地": "江西",
+    "教育行政主管部门": "江西省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "3.7"
+  },
+  "网站字段": {
+    "官方网址": "https://www.csust.edu.cn/",
+    "招生网址": "https://www.csust.edu.cn/zsw/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.csust.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://www.csust.edu.cn/zsw/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/413",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "413"
+      },
+      "标题": "赣南医科大学",
+      "原始文本": "院校库\n长沙理工大学\n2008人关注\n教育行政主管部门：\n湖南省教育厅\n所在地：湖南\n详细地址：云塘校区地址：湖南省长沙市（天心区）万家丽南路二段960号 邮编：410114 金盆岭校区地址：湖南省长沙市（天心区）赤岭路45号 邮编：410076\n官方网址：\nhttps://www.csust.edu.cn/\n招生网址：\nhttps://www.csust.edu.cn/zsw/\n官方电话：0731-85834715\n高招咨询\n招生章程\n高校专业选科要求\n直播信息\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：长沙理工本科招生\n微信号：cslgygzs\n院校满意度\n4.2\n5406人\n综合满意度\n4.3\n6452人\n环境满意度\n3.8\n5216人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n电气工程及其自动化\n4.6\n(679人)\n2\n工程管理\n4.4\n(235人)\n3\n交通运输类\n4.4\n(14人)\n4\n会计学\n4.4\n(573人)\n5\n软件工程\n4.4\n(101人)\n6\n港口航道与海岸工程\n4.4\n(289人)\n7\n水利类\n4.4\n(127人)\n8\n财务管理\n4.4\n(185人)\n9\n土木工程\n4.3\n(1310人)\n10\n水利水电工程\n4.3\n(258人)\n查看更多\n考生咨询\nQ\n外语语种限制\nQ\n志愿填报\nQ\n能源与动力工程\nQ\n转专业\nQ\n专业代码28和29，这两个班的区别是什么？\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "长沙理工大学",
+        "2008人关注",
+        "教育行政主管部门：",
+        "湖南省教育厅",
+        "所在地：湖南",
+        "详细地址：云塘校区地址：湖南省长沙市（天心区）万家丽南路二段960号 邮编：410114 金盆岭校区地址：湖南省长沙市（天心区）赤岭路45号 邮编：410076",
+        "官方网址：",
+        "https://www.csust.edu.cn/",
+        "招生网址：",
+        "https://www.csust.edu.cn/zsw/",
+        "官方电话：0731-85834715",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "直播信息",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：长沙理工本科招生",
+        "微信号：cslgygzs",
+        "院校满意度",
+        "4.2",
+        "5406人",
+        "综合满意度",
+        "4.3",
+        "6452人",
+        "环境满意度",
+        "3.8",
+        "5216人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "电气工程及其自动化",
+        "4.6",
+        "(679人)",
+        "2",
+        "工程管理",
+        "4.4",
+        "(235人)",
+        "3",
+        "交通运输类",
+        "4.4",
+        "(14人)",
+        "4",
+        "会计学",
+        "4.4",
+        "(573人)",
+        "5",
+        "软件工程",
+        "4.4",
+        "(101人)",
+        "6",
+        "港口航道与海岸工程",
+        "4.4",
+        "(289人)",
+        "7",
+        "水利类",
+        "4.4",
+        "(127人)",
+        "8",
+        "财务管理",
+        "4.4",
+        "(185人)",
+        "9",
+        "土木工程",
+        "4.3",
+        "(1310人)",
+        "10",
+        "水利水电工程",
+        "4.3",
+        "(258人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "外语语种限制",
+        "Q",
+        "志愿填报",
+        "Q",
+        "能源与动力工程",
+        "Q",
+        "转专业",
+        "Q",
+        "专业代码28和29，这两个班的区别是什么？",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "湖南"
+        ],
+        "详细地址": [
+          "云塘校区地址：湖南省长沙市（天心区）万家丽南路二段960号 邮编：410114 金盆岭校区地址：湖南省长沙市（天心区）赤岭路45号 邮编：410076"
+        ],
+        "https": [
+          "//www.csust.edu.cn/",
+          "//www.csust.edu.cn/zsw/"
+        ],
+        "官方电话": [
+          "0731-85834715"
+        ],
+        "名称": [
+          "长沙理工本科招生"
+        ],
+        "微信号": [
+          "cslgygzs"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t3.chei.com.cn/common/xh/10536.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/gaokao/2026/wap/assets/images/yxxx_header_zb.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10536/n9f99c8pm45h0x0a"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.csust.edu.cn/",
+          "链接": "https://www.csust.edu.cn/"
+        },
+        {
+          "名称": "https://www.csust.edu.cn/zsw/",
+          "链接": "https://www.csust.edu.cn/zsw/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "电气工程及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396089&specId=73384320"
+        },
+        {
+          "名称": "工程管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396089&specId=73385248"
+        },
+        {
+          "名称": "交通运输类",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396089&specId=73384620"
+        },
+        {
+          "名称": "会计学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396089&specId=73385284"
+        },
+        {
+          "名称": "软件工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396089&specId=73384356"
+        },
+        {
+          "名称": "港口航道与海岸工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396089&specId=73384536"
+        },
+        {
+          "名称": "水利类",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396089&specId=73384524"
+        },
+        {
+          "名称": "财务管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396089&specId=73385288"
+        },
+        {
+          "名称": "土木工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396089&specId=73384468"
+        },
+        {
+          "名称": "水利水电工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396089&specId=73384528"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=86479"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.csust.edu.cn/",
+        "招生网址": "https://www.csust.edu.cn/zsw/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.csust.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://www.csust.edu.cn/zsw/"
+        }
+      ],
+      "官方电话": "0731-85834715",
+      "抓取时间": "2026-11-07T00:43:37.560485+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:43:37.560485+08:00"
+}

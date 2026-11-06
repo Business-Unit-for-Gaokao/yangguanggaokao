@@ -1,0 +1,313 @@
+{
+  "schId": "165",
+  "学校名称": "辽宁师范大学",
+  "列表信息": {
+    "schId": "165",
+    "学校代码": "10165",
+    "学校名称": "辽宁师范大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/165",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 43,
+    "页码": 3,
+    "所在地": "辽宁",
+    "教育行政主管部门": "辽宁省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.1"
+  },
+  "网站字段": {
+    "官方网址": "https://www.thnu.edu.cn/",
+    "招生网址": "http://admissions.thnu.edu.cn/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.thnu.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "http://admissions.thnu.edu.cn/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/165",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "165"
+      },
+      "标题": "辽宁师范大学",
+      "原始文本": "院校库\n通化师范学院\n122人关注\n教育行政主管部门：\n吉林省教育厅\n所在地：吉林\n详细地址：吉林省通化市东昌区育才路950号\n官方网址：\nhttps://www.thnu.edu.cn/\n招生网址：\nhttp://admissions.thnu.edu.cn/\n官方电话：035-3209788\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：通化师范学院招生就业处\n微信号：thnu_zsb\n院校满意度\n4\n1318人\n综合满意度\n4.1\n1656人\n环境满意度\n3.7\n1238人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n化学\n5.0\n(42人)\n2\n行政管理\n5.0\n(20人)\n3\n历史学\n4.8\n(27人)\n4\n体育教育\n4.7\n(42人)\n5\n学前教育\n4.7\n(21人)\n6\n数学与应用数学\n4.7\n(54人)\n7\n计算机科学与技术\n4.6\n(50人)\n8\n思想政治教育\n4.6\n(31人)\n9\n物理学\n4.6\n(48人)\n10\n信息管理与信息系统\n4.5\n(26人)\n查看更多\n考生咨询\nQ\n报考咨询\nQ\n考研率\nQ\n数学和物理分较低，适合读数学或物理相关专业吗\nQ\n报考\nQ\n报考贵校英语专业有无单科成绩要求\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "通化师范学院",
+        "122人关注",
+        "教育行政主管部门：",
+        "吉林省教育厅",
+        "所在地：吉林",
+        "详细地址：吉林省通化市东昌区育才路950号",
+        "官方网址：",
+        "https://www.thnu.edu.cn/",
+        "招生网址：",
+        "http://admissions.thnu.edu.cn/",
+        "官方电话：035-3209788",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：通化师范学院招生就业处",
+        "微信号：thnu_zsb",
+        "院校满意度",
+        "4",
+        "1318人",
+        "综合满意度",
+        "4.1",
+        "1656人",
+        "环境满意度",
+        "3.7",
+        "1238人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "化学",
+        "5.0",
+        "(42人)",
+        "2",
+        "行政管理",
+        "5.0",
+        "(20人)",
+        "3",
+        "历史学",
+        "4.8",
+        "(27人)",
+        "4",
+        "体育教育",
+        "4.7",
+        "(42人)",
+        "5",
+        "学前教育",
+        "4.7",
+        "(21人)",
+        "6",
+        "数学与应用数学",
+        "4.7",
+        "(54人)",
+        "7",
+        "计算机科学与技术",
+        "4.6",
+        "(50人)",
+        "8",
+        "思想政治教育",
+        "4.6",
+        "(31人)",
+        "9",
+        "物理学",
+        "4.6",
+        "(48人)",
+        "10",
+        "信息管理与信息系统",
+        "4.5",
+        "(26人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "报考咨询",
+        "Q",
+        "考研率",
+        "Q",
+        "数学和物理分较低，适合读数学或物理相关专业吗",
+        "Q",
+        "报考",
+        "Q",
+        "报考贵校英语专业有无单科成绩要求",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "吉林"
+        ],
+        "详细地址": [
+          "吉林省通化市东昌区育才路950号"
+        ],
+        "https": [
+          "//www.thnu.edu.cn/"
+        ],
+        "http": [
+          "//admissions.thnu.edu.cn/"
+        ],
+        "官方电话": [
+          "035-3209788"
+        ],
+        "名称": [
+          "通化师范学院招生就业处"
+        ],
+        "微信号": [
+          "thnu_zsb"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/xh/10202.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10202/wllxmvwq1o8ks5yk"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.thnu.edu.cn/",
+          "链接": "https://www.thnu.edu.cn/"
+        },
+        {
+          "名称": "http://admissions.thnu.edu.cn/",
+          "链接": "http://admissions.thnu.edu.cn/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "化学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395136&specId=73383819"
+        },
+        {
+          "名称": "行政管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395136&specId=73385356"
+        },
+        {
+          "名称": "历史学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395136&specId=73383743"
+        },
+        {
+          "名称": "体育教育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395136&specId=73383331"
+        },
+        {
+          "名称": "学前教育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395136&specId=73383291"
+        },
+        {
+          "名称": "数学与应用数学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395136&specId=73383775"
+        },
+        {
+          "名称": "计算机科学与技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395136&specId=73384336"
+        },
+        {
+          "名称": "思想政治教育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395136&specId=73383215"
+        },
+        {
+          "名称": "物理学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395136&specId=73383799"
+        },
+        {
+          "名称": "信息管理与信息系统",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395136&specId=73385240"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=5393385"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.thnu.edu.cn/",
+        "招生网址": "http://admissions.thnu.edu.cn/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.thnu.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "http://admissions.thnu.edu.cn/"
+        }
+      ],
+      "官方电话": "035-3209788",
+      "抓取时间": "2026-11-07T00:22:30.153926+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:22:30.153926+08:00"
+}

@@ -1,0 +1,252 @@
+{
+  "schId": "39",
+  "学校名称": "中国消防救援学院",
+  "列表信息": {
+    "schId": "39",
+    "学校代码": "10039",
+    "学校名称": "中国消防救援学院",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/39",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 3,
+    "页码": 1,
+    "所在地": "北京",
+    "教育行政主管部门": "国家消防救援局",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "3.8"
+  },
+  "网站字段": {
+    "官方网址": "http://www.ccom.edu.cn/",
+    "招生网址": "http://zhaoban.ccom.edu.cn/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "http://www.ccom.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "http://zhaoban.ccom.edu.cn/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/39",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "39"
+      },
+      "标题": "中国消防救援学院",
+      "原始文本": "院校库\n中央音乐学院\n432人关注\n教育行政主管部门：\n教育部\n“双一流”建设高校\n所在地：北京\n详细地址：北京市西城区鲍家街43号\n官方网址：\nhttp://www.ccom.edu.cn/\n招生网址：\nhttp://zhaoban.ccom.edu.cn/\n官方电话：010-66425504,66425818\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：中央音乐学院招生办\n微信号：ccomzhaoban\n院校满意度\n投票人数较少，暂不显示数据\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n音乐表演\n4.5\n(31人)\n2\n音乐学\n4.5\n(22人)\n3\n作曲与作曲技术理论\n3.7\n(11人)\n查看更多\n考生咨询\nQ\n中央音乐学院\nQ\n录取\nQ\n咨询\nQ\n音乐表演专业\nQ\n文化课过艺术本科线？\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "中央音乐学院",
+        "432人关注",
+        "教育行政主管部门：",
+        "教育部",
+        "“双一流”建设高校",
+        "所在地：北京",
+        "详细地址：北京市西城区鲍家街43号",
+        "官方网址：",
+        "http://www.ccom.edu.cn/",
+        "招生网址：",
+        "http://zhaoban.ccom.edu.cn/",
+        "官方电话：010-66425504,66425818",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：中央音乐学院招生办",
+        "微信号：ccomzhaoban",
+        "院校满意度",
+        "投票人数较少，暂不显示数据",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "音乐表演",
+        "4.5",
+        "(31人)",
+        "2",
+        "音乐学",
+        "4.5",
+        "(22人)",
+        "3",
+        "作曲与作曲技术理论",
+        "3.7",
+        "(11人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "中央音乐学院",
+        "Q",
+        "录取",
+        "Q",
+        "咨询",
+        "Q",
+        "音乐表演专业",
+        "Q",
+        "文化课过艺术本科线？",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "北京"
+        ],
+        "详细地址": [
+          "北京市西城区鲍家街43号"
+        ],
+        "http": [
+          "//www.ccom.edu.cn/",
+          "//zhaoban.ccom.edu.cn/"
+        ],
+        "官方电话": [
+          "010-66425504,66425818"
+        ],
+        "名称": [
+          "中央音乐学院招生办"
+        ],
+        "微信号": [
+          "ccomzhaoban"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t3.chei.com.cn/common/xh/10045.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10045/5fl5ouhou66gjftc"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/empty.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "http://www.ccom.edu.cn/",
+          "链接": "http://www.ccom.edu.cn/"
+        },
+        {
+          "名称": "http://zhaoban.ccom.edu.cn/",
+          "链接": "http://zhaoban.ccom.edu.cn/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "音乐表演",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394158&specId=73383635"
+        },
+        {
+          "名称": "音乐学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394158&specId=73383627"
+        },
+        {
+          "名称": "作曲与作曲技术理论",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394158&specId=73383631"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=387682"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "http://www.ccom.edu.cn/",
+        "招生网址": "http://zhaoban.ccom.edu.cn/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "http://www.ccom.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "http://zhaoban.ccom.edu.cn/"
+        }
+      ],
+      "官方电话": "010-66425504,66425818",
+      "抓取时间": "2026-11-07T00:12:10.181013+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:12:10.181013+08:00"
+}

@@ -1,0 +1,307 @@
+{
+  "schId": "9",
+  "学校名称": "北方工业大学",
+  "列表信息": {
+    "schId": "9",
+    "学校代码": "10009",
+    "学校名称": "北方工业大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/9",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 0,
+    "页码": 1,
+    "所在地": "北京",
+    "教育行政主管部门": "北京市教育委员会",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.5"
+  },
+  "网站字段": {
+    "官方网址": "http://www.ncut.edu.cn",
+    "招生网址": "http://bkzs.ncut.edu.cn"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "http://www.ncut.edu.cn"
+    },
+    {
+      "site_type": "admissions",
+      "url": "http://bkzs.ncut.edu.cn"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/9",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "9"
+      },
+      "标题": "北方工业大学",
+      "原始文本": "院校库\n北方工业大学\n3060人关注\n教育行政主管部门：\n北京市教育委员会\n所在地：北京\n详细地址：北京市石景山区晋元庄路5号\n官方网址：\nhttp://www.ncut.edu.cn\n招生网址：\nhttp://bkzs.ncut.edu.cn\n官方电话：010-88802786\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：-\n微信号：-\n院校满意度\n4.5\n1204人\n综合满意度\n4.7\n1434人\n环境满意度\n4.5\n1161人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n自动化\n4.9\n(35人)\n2\n工商管理\n4.6\n(32人)\n3\n建筑学\n4.6\n(25人)\n4\n会计学\n4.6\n(45人)\n5\n机械设计制造及其自动化\n4.6\n(56人)\n6\n电气工程及其自动化\n4.5\n(42人)\n7\n电子信息工程\n4.4\n(46人)\n8\n统计学\n4.4\n(15人)\n9\n法学\n4.4\n(29人)\n10\n信息与计算科学\n4.3\n(11人)\n查看更多\n考生咨询\nQ\n北京考生咨询\nQ\n北京考生\nQ\n北京考生\nQ\n红绿色盲\nQ\n中外合作办学\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "北方工业大学",
+        "3060人关注",
+        "教育行政主管部门：",
+        "北京市教育委员会",
+        "所在地：北京",
+        "详细地址：北京市石景山区晋元庄路5号",
+        "官方网址：",
+        "http://www.ncut.edu.cn",
+        "招生网址：",
+        "http://bkzs.ncut.edu.cn",
+        "官方电话：010-88802786",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：-",
+        "微信号：-",
+        "院校满意度",
+        "4.5",
+        "1204人",
+        "综合满意度",
+        "4.7",
+        "1434人",
+        "环境满意度",
+        "4.5",
+        "1161人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "自动化",
+        "4.9",
+        "(35人)",
+        "2",
+        "工商管理",
+        "4.6",
+        "(32人)",
+        "3",
+        "建筑学",
+        "4.6",
+        "(25人)",
+        "4",
+        "会计学",
+        "4.6",
+        "(45人)",
+        "5",
+        "机械设计制造及其自动化",
+        "4.6",
+        "(56人)",
+        "6",
+        "电气工程及其自动化",
+        "4.5",
+        "(42人)",
+        "7",
+        "电子信息工程",
+        "4.4",
+        "(46人)",
+        "8",
+        "统计学",
+        "4.4",
+        "(15人)",
+        "9",
+        "法学",
+        "4.4",
+        "(29人)",
+        "10",
+        "信息与计算科学",
+        "4.3",
+        "(11人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "北京考生咨询",
+        "Q",
+        "北京考生",
+        "Q",
+        "北京考生",
+        "Q",
+        "红绿色盲",
+        "Q",
+        "中外合作办学",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "北京"
+        ],
+        "详细地址": [
+          "北京市石景山区晋元庄路5号"
+        ],
+        "http": [
+          "//www.ncut.edu.cn",
+          "//bkzs.ncut.edu.cn"
+        ],
+        "官方电话": [
+          "010-88802786"
+        ],
+        "名称": [
+          "-"
+        ],
+        "微信号": [
+          "-"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t4.chei.com.cn/common/xh/10009.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "http://www.ncut.edu.cn",
+          "链接": "http://www.ncut.edu.cn"
+        },
+        {
+          "名称": "http://bkzs.ncut.edu.cn",
+          "链接": "http://bkzs.ncut.edu.cn"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394550&specId=73384324"
+        },
+        {
+          "名称": "工商管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394550&specId=73385276"
+        },
+        {
+          "名称": "建筑学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394550&specId=73384460"
+        },
+        {
+          "名称": "会计学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394550&specId=73385284"
+        },
+        {
+          "名称": "机械设计制造及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394550&specId=73384204"
+        },
+        {
+          "名称": "电气工程及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394550&specId=73384320"
+        },
+        {
+          "名称": "电子信息工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394550&specId=73384328"
+        },
+        {
+          "名称": "统计学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394550&specId=73384088"
+        },
+        {
+          "名称": "法学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394550&specId=73381155"
+        },
+        {
+          "名称": "信息与计算科学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394550&specId=73383779"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=17893"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "http://www.ncut.edu.cn",
+        "招生网址": "http://bkzs.ncut.edu.cn"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "http://www.ncut.edu.cn"
+        },
+        {
+          "site_type": "admissions",
+          "url": "http://bkzs.ncut.edu.cn"
+        }
+      ],
+      "官方电话": "010-88802786",
+      "抓取时间": "2026-11-07T00:11:29.932030+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:11:29.932030+08:00"
+}

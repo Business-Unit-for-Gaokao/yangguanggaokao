@@ -1,0 +1,323 @@
+{
+  "schId": "512",
+  "学校名称": "湖北大学",
+  "列表信息": {
+    "schId": "512",
+    "学校代码": "10512",
+    "学校名称": "湖北大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/512",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 173,
+    "页码": 9,
+    "所在地": "湖北",
+    "教育行政主管部门": "湖北省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.1"
+  },
+  "网站字段": {
+    "官方网址": "https://gzy.edu.com.cn",
+    "招生网址": "https://zs.edu.com.cn"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://gzy.edu.com.cn"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zs.edu.com.cn"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/512",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "512"
+      },
+      "标题": "湖北大学",
+      "原始文本": "院校库\n贵州中医药大学\n249人关注\n教育行政主管部门：\n贵州省教育厅\n所在地：贵州\n详细地址：甲秀校区地址：贵州省贵阳市市东路50号\n甲秀校区邮编：550002\n花溪校区地址：贵阳市贵安新区花溪大学城内\n花溪校区邮编：550025\n官方网址：\nhttps://gzy.edu.com.cn\n招生网址：\nhttps://zs.edu.com.cn\n官方电话：0851883308474\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：贵中医学生处\n微信号：GZY-XSC\n院校满意度\n3.8\n1622人\n综合满意度\n3.8\n2177人\n环境满意度\n3.6\n1494人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n康复治疗学\n4.4\n(29人)\n2\n针灸推拿学\n4.3\n(216人)\n3\n中药制药\n4.1\n(22人)\n4\n中药学\n4.0\n(322人)\n5\n应用心理学\n3.9\n(50人)\n6\n药学\n3.9\n(41人)\n7\n护理学\n3.9\n(295人)\n8\n中医学\n3.9\n(473人)\n9\n生物制药\n3.8\n(25人)\n10\n法学\n3.7\n(106人)\n查看更多\n考生咨询\nQ\n录取可能\nQ\n志愿填报咨询\nQ\n报考咨询\nQ\n报考咨询\nQ\n报考咨询\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "贵州中医药大学",
+        "249人关注",
+        "教育行政主管部门：",
+        "贵州省教育厅",
+        "所在地：贵州",
+        "详细地址：甲秀校区地址：贵州省贵阳市市东路50号",
+        "甲秀校区邮编：550002",
+        "花溪校区地址：贵阳市贵安新区花溪大学城内",
+        "花溪校区邮编：550025",
+        "官方网址：",
+        "https://gzy.edu.com.cn",
+        "招生网址：",
+        "https://zs.edu.com.cn",
+        "官方电话：0851883308474",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：贵中医学生处",
+        "微信号：GZY-XSC",
+        "院校满意度",
+        "3.8",
+        "1622人",
+        "综合满意度",
+        "3.8",
+        "2177人",
+        "环境满意度",
+        "3.6",
+        "1494人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "康复治疗学",
+        "4.4",
+        "(29人)",
+        "2",
+        "针灸推拿学",
+        "4.3",
+        "(216人)",
+        "3",
+        "中药制药",
+        "4.1",
+        "(22人)",
+        "4",
+        "中药学",
+        "4.0",
+        "(322人)",
+        "5",
+        "应用心理学",
+        "3.9",
+        "(50人)",
+        "6",
+        "药学",
+        "3.9",
+        "(41人)",
+        "7",
+        "护理学",
+        "3.9",
+        "(295人)",
+        "8",
+        "中医学",
+        "3.9",
+        "(473人)",
+        "9",
+        "生物制药",
+        "3.8",
+        "(25人)",
+        "10",
+        "法学",
+        "3.7",
+        "(106人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "录取可能",
+        "Q",
+        "志愿填报咨询",
+        "Q",
+        "报考咨询",
+        "Q",
+        "报考咨询",
+        "Q",
+        "报考咨询",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "贵州"
+        ],
+        "详细地址": [
+          "甲秀校区地址：贵州省贵阳市市东路50号"
+        ],
+        "甲秀校区邮编": [
+          "550002"
+        ],
+        "花溪校区地址": [
+          "贵阳市贵安新区花溪大学城内"
+        ],
+        "花溪校区邮编": [
+          "550025"
+        ],
+        "https": [
+          "//gzy.edu.com.cn",
+          "//zs.edu.com.cn"
+        ],
+        "官方电话": [
+          "0851883308474"
+        ],
+        "名称": [
+          "贵中医学生处"
+        ],
+        "微信号": [
+          "GZY-XSC"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/xh/10662.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10662/pkun3fsocdl6kys2"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://gzy.edu.com.cn",
+          "链接": "https://gzy.edu.com.cn"
+        },
+        {
+          "名称": "https://zs.edu.com.cn",
+          "链接": "https://zs.edu.com.cn"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "康复治疗学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396477&specId=73385096"
+        },
+        {
+          "名称": "针灸推拿学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396477&specId=73385144"
+        },
+        {
+          "名称": "中药制药",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396477&specId=164242631"
+        },
+        {
+          "名称": "中药学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396477&specId=73385192"
+        },
+        {
+          "名称": "应用心理学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396477&specId=73384080"
+        },
+        {
+          "名称": "药学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396477&specId=73385188"
+        },
+        {
+          "名称": "护理学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396477&specId=73385172"
+        },
+        {
+          "名称": "中医学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396477&specId=73385140"
+        },
+        {
+          "名称": "生物制药",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396477&specId=164210703"
+        },
+        {
+          "名称": "法学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396477&specId=73381155"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=27145"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://gzy.edu.com.cn",
+        "招生网址": "https://zs.edu.com.cn"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://gzy.edu.com.cn"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zs.edu.com.cn"
+        }
+      ],
+      "官方电话": "0851883308474",
+      "抓取时间": "2026-11-07T00:56:00.142372+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:56:00.142372+08:00"
+}

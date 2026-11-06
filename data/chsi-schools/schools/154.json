@@ -1,0 +1,298 @@
+{
+  "schId": "154",
+  "学校名称": "辽宁工业大学",
+  "列表信息": {
+    "schId": "154",
+    "学校代码": "10154",
+    "学校名称": "辽宁工业大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/154",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 43,
+    "页码": 3,
+    "所在地": "辽宁",
+    "教育行政主管部门": "辽宁省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.1"
+  },
+  "网站字段": {
+    "官方网址": "https://www.jlu.edu.cn",
+    "招生网址": "http://zsb.jlu.edu.cn"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.jlu.edu.cn"
+    },
+    {
+      "site_type": "admissions",
+      "url": "http://zsb.jlu.edu.cn"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/154",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "154"
+      },
+      "标题": "辽宁工业大学",
+      "原始文本": "院校库\n吉林大学\n7790人关注\n教育行政主管部门：\n教育部\n“双一流”建设高校\n所在地：吉林\n详细地址：长春市前进大街2699号 邮编：130012\n官方网址：\nhttps://www.jlu.edu.cn\n招生网址：\nhttp://zsb.jlu.edu.cn\n官方电话：043185166420\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：吉大招生\n微信号：jlu_zb\n院校满意度\n4.5\n10636人\n综合满意度\n4.4\n12087人\n环境满意度\n4.2\n10217人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n电子信息类\n5.0\n(23人)\n2\n化学类\n5.0\n(10人)\n3\n计算机网络技术\n4.9\n(32人)\n4\n经济学类\n4.9\n(30人)\n5\n财务管理\n4.8\n(77人)\n6\n运动训练\n4.8\n(34人)\n7\n工程力学\n4.7\n(50人)\n8\n信用管理\n4.7\n(91人)\n9\n行政管理\n4.7\n(257人)\n10\n物理学类\n4.7\n(32人)\n查看更多\n考生咨询\nQ\n色弱报考\nQ\n河南\nQ\n北京考生报吉林大学\nQ\n退档问题\nQ\n未参加口试报考小语种专业\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "吉林大学",
+        "7790人关注",
+        "教育行政主管部门：",
+        "教育部",
+        "“双一流”建设高校",
+        "所在地：吉林",
+        "详细地址：长春市前进大街2699号 邮编：130012",
+        "官方网址：",
+        "https://www.jlu.edu.cn",
+        "招生网址：",
+        "http://zsb.jlu.edu.cn",
+        "官方电话：043185166420",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：吉大招生",
+        "微信号：jlu_zb",
+        "院校满意度",
+        "4.5",
+        "10636人",
+        "综合满意度",
+        "4.4",
+        "12087人",
+        "环境满意度",
+        "4.2",
+        "10217人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "电子信息类",
+        "5.0",
+        "(23人)",
+        "2",
+        "化学类",
+        "5.0",
+        "(10人)",
+        "3",
+        "计算机网络技术",
+        "4.9",
+        "(32人)",
+        "4",
+        "经济学类",
+        "4.9",
+        "(30人)",
+        "5",
+        "财务管理",
+        "4.8",
+        "(77人)",
+        "6",
+        "运动训练",
+        "4.8",
+        "(34人)",
+        "7",
+        "工程力学",
+        "4.7",
+        "(50人)",
+        "8",
+        "信用管理",
+        "4.7",
+        "(91人)",
+        "9",
+        "行政管理",
+        "4.7",
+        "(257人)",
+        "10",
+        "物理学类",
+        "4.7",
+        "(32人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "色弱报考",
+        "Q",
+        "河南",
+        "Q",
+        "北京考生报吉林大学",
+        "Q",
+        "退档问题",
+        "Q",
+        "未参加口试报考小语种专业",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "吉林"
+        ],
+        "详细地址": [
+          "长春市前进大街2699号 邮编：130012"
+        ],
+        "https": [
+          "//www.jlu.edu.cn"
+        ],
+        "http": [
+          "//zsb.jlu.edu.cn"
+        ],
+        "官方电话": [
+          "043185166420"
+        ],
+        "名称": [
+          "吉大招生"
+        ],
+        "微信号": [
+          "jlu_zb"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/xh/10183.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10183/xkt06yr9y93seu3d"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.jlu.edu.cn",
+          "链接": "https://www.jlu.edu.cn"
+        },
+        {
+          "名称": "http://zsb.jlu.edu.cn",
+          "链接": "http://zsb.jlu.edu.cn"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "计算机网络技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395092&specId=73387052"
+        },
+        {
+          "名称": "财务管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395092&specId=73385288"
+        },
+        {
+          "名称": "运动训练",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395092&specId=73383335"
+        },
+        {
+          "名称": "工程力学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395092&specId=73384816"
+        },
+        {
+          "名称": "信用管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395092&specId=73381115"
+        },
+        {
+          "名称": "行政管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395092&specId=73385356"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=32229"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.jlu.edu.cn",
+        "招生网址": "http://zsb.jlu.edu.cn"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.jlu.edu.cn"
+        },
+        {
+          "site_type": "admissions",
+          "url": "http://zsb.jlu.edu.cn"
+        }
+      ],
+      "官方电话": "043185166420",
+      "抓取时间": "2026-11-07T00:22:16.022827+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:22:16.022827+08:00"
+}

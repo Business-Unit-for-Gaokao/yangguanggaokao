@@ -1,0 +1,314 @@
+{
+  "schId": "71",
+  "学校名称": "天津体育学院",
+  "列表信息": {
+    "schId": "71",
+    "学校代码": "10071",
+    "学校名称": "天津体育学院",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/71",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 10,
+    "页码": 1,
+    "所在地": "天津",
+    "教育行政主管部门": "天津市教育委员会",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.3"
+  },
+  "网站字段": {
+    "官方网址": "http://www.ncst.edu.cn",
+    "招生网址": "https://zsjyc.ncst.edu.cn/col/1589180017916/index.html"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "http://www.ncst.edu.cn"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zsjyc.ncst.edu.cn/col/1589180017916/index.html"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/71",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "71"
+      },
+      "标题": "天津体育学院",
+      "原始文本": "院校库\n华北理工大学\n1058人关注\n教育行政主管部门：\n河北省教育厅\n所在地：河北\n详细地址：河北省唐山市曹妃甸新城渤海大道21号，邮编063210.\n官方网址：\nhttp://www.ncst.edu.cn\n招生网址：\nhttps://zsjyc.ncst.edu.cn/col/1589180017916/index.html\n官方电话：0315－8816666 8805354\n高招咨询\n招生章程\n高校专业选科要求\n招办访谈\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：华北理工大学招就处\n微信号：gh_9e9e7fe38127\n院校满意度\n4.1\n3452人\n综合满意度\n4.1\n4957人\n环境满意度\n3.8\n3348人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n材料工程技术\n4.8\n(10人)\n2\n绘画\n4.8\n(12人)\n3\n数学与应用数学\n4.8\n(26人)\n4\n护理学\n4.7\n(588人)\n5\n口腔医学\n4.7\n(127人)\n6\n信息管理与信息系统\n4.7\n(124人)\n7\n麻醉学\n4.7\n(55人)\n8\n预防医学\n4.7\n(80人)\n9\n护理\n4.7\n(157人)\n10\n医学影像学\n4.7\n(146人)\n查看更多\n考生咨询\nQ\n咨询中外合办\nQ\n内蒙古物化生男\nQ\n咨询中外合办\nQ\n转专业\nQ\n宿舍\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "华北理工大学",
+        "1058人关注",
+        "教育行政主管部门：",
+        "河北省教育厅",
+        "所在地：河北",
+        "详细地址：河北省唐山市曹妃甸新城渤海大道21号，邮编063210.",
+        "官方网址：",
+        "http://www.ncst.edu.cn",
+        "招生网址：",
+        "https://zsjyc.ncst.edu.cn/col/1589180017916/index.html",
+        "官方电话：0315－8816666 8805354",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "招办访谈",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：华北理工大学招就处",
+        "微信号：gh_9e9e7fe38127",
+        "院校满意度",
+        "4.1",
+        "3452人",
+        "综合满意度",
+        "4.1",
+        "4957人",
+        "环境满意度",
+        "3.8",
+        "3348人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "材料工程技术",
+        "4.8",
+        "(10人)",
+        "2",
+        "绘画",
+        "4.8",
+        "(12人)",
+        "3",
+        "数学与应用数学",
+        "4.8",
+        "(26人)",
+        "4",
+        "护理学",
+        "4.7",
+        "(588人)",
+        "5",
+        "口腔医学",
+        "4.7",
+        "(127人)",
+        "6",
+        "信息管理与信息系统",
+        "4.7",
+        "(124人)",
+        "7",
+        "麻醉学",
+        "4.7",
+        "(55人)",
+        "8",
+        "预防医学",
+        "4.7",
+        "(80人)",
+        "9",
+        "护理",
+        "4.7",
+        "(157人)",
+        "10",
+        "医学影像学",
+        "4.7",
+        "(146人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "咨询中外合办",
+        "Q",
+        "内蒙古物化生男",
+        "Q",
+        "咨询中外合办",
+        "Q",
+        "转专业",
+        "Q",
+        "宿舍",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "河北"
+        ],
+        "详细地址": [
+          "河北省唐山市曹妃甸新城渤海大道21号，邮编063210."
+        ],
+        "http": [
+          "//www.ncst.edu.cn"
+        ],
+        "https": [
+          "//zsjyc.ncst.edu.cn/col/1589180017916/index.html"
+        ],
+        "官方电话": [
+          "0315－8816666 8805354"
+        ],
+        "名称": [
+          "华北理工大学招就处"
+        ],
+        "微信号": [
+          "gh_9e9e7fe38127"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/xh/10081.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10081/pme8pep54h632s4o"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "http://www.ncst.edu.cn",
+          "链接": "http://www.ncst.edu.cn"
+        },
+        {
+          "名称": "https://zsjyc.ncst.edu.cn/col/1589180017916/index.html",
+          "链接": "https://zsjyc.ncst.edu.cn/col/1589180017916/index.html"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "材料工程技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394768&specId=73386384"
+        },
+        {
+          "名称": "绘画",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394768&specId=73383639"
+        },
+        {
+          "名称": "数学与应用数学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394768&specId=73383775"
+        },
+        {
+          "名称": "护理学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394768&specId=73385172"
+        },
+        {
+          "名称": "口腔医学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394768&specId=73385128"
+        },
+        {
+          "名称": "信息管理与信息系统",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394768&specId=73385240"
+        },
+        {
+          "名称": "麻醉学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394768&specId=73385076"
+        },
+        {
+          "名称": "预防医学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394768&specId=73385052"
+        },
+        {
+          "名称": "护理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394768&specId=73387873"
+        },
+        {
+          "名称": "医学影像学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394768&specId=73385080"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=49968"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "http://www.ncst.edu.cn",
+        "招生网址": "https://zsjyc.ncst.edu.cn/col/1589180017916/index.html"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "http://www.ncst.edu.cn"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zsjyc.ncst.edu.cn/col/1589180017916/index.html"
+        }
+      ],
+      "官方电话": "0315－8816666 8805354",
+      "抓取时间": "2026-11-07T00:14:06.186584+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:14:06.186584+08:00"
+}

@@ -1,0 +1,147 @@
+{
+  "schId": "868",
+  "学校名称": "青岛滨海学院",
+  "列表信息": {
+    "schId": "868",
+    "学校代码": "10868",
+    "学校名称": "青岛滨海学院",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/868",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 139,
+    "页码": 7,
+    "所在地": "山东",
+    "教育行政主管部门": "山东省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.1"
+  },
+  "网站字段": {
+    "官方网址": "",
+    "招生网址": ""
+  },
+  "网站链接": [],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/868",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "868"
+      },
+      "标题": "青岛滨海学院",
+      "原始文本": "院校库\n-人关注\n教育行政主管部门：\n-\n所在地：-\n详细地址：-\n官方网址：\n-\n招生网址：\n-\n官方电话：-\n招生章程\n高校专业选科要求\n学校首页\n院校满意度\n投票人数较少，暂不显示数据\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n投票人数较少，暂不显示\n考生咨询\n暂时还没有数据或尚未回答问题\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...\n参数错误，获取不到单位信息",
+      "文本行": [
+        "院校库",
+        "-人关注",
+        "教育行政主管部门：",
+        "-",
+        "所在地：-",
+        "详细地址：-",
+        "官方网址：",
+        "-",
+        "招生网址：",
+        "-",
+        "官方电话：-",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "院校满意度",
+        "投票人数较少，暂不显示数据",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "投票人数较少，暂不显示",
+        "考生咨询",
+        "暂时还没有数据或尚未回答问题",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中...",
+        "参数错误，获取不到单位信息"
+      ],
+      "结构化字段": {
+        "所在地": [
+          "-"
+        ],
+        "详细地址": [
+          "-"
+        ],
+        "官方电话": [
+          "-"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/xh/default.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/empty.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "",
+        "招生网址": ""
+      },
+      "网站链接": [],
+      "官方电话": "-",
+      "抓取时间": "2026-11-07T00:47:24.031971+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:47:24.031971+08:00"
+}

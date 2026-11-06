@@ -1,0 +1,317 @@
+{
+  "schId": "181",
+  "学校名称": "营口职业技术学院",
+  "列表信息": {
+    "schId": "181",
+    "学校代码": "10181",
+    "学校名称": "营口职业技术学院",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/181",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 45,
+    "页码": 3,
+    "所在地": "辽宁",
+    "教育行政主管部门": "辽宁省教育厅",
+    "办学层次": "高职(专科)",
+    "院校特性": [
+      "高职(专科)"
+    ],
+    "满意度": "3.7"
+  },
+  "网站字段": {
+    "官方网址": "http://www.byau.edu.cn/",
+    "招生网址": "http://zhaosheng.byau.edu.cn/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "http://www.byau.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "http://zhaosheng.byau.edu.cn/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/181",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "181"
+      },
+      "标题": "营口职业技术学院",
+      "原始文本": "院校库\n黑龙江八一农垦大学\n342人关注\n教育行政主管部门：\n黑龙江省教育厅\n所在地：黑龙江\n详细地址： 学校地址：黑龙江省大庆市高新技术产业开发区新风路5号\n邮政编码：163319\n官方网址：\nhttp://www.byau.edu.cn/\n招生网址：\nhttp://zhaosheng.byau.edu.cn/\n官方电话：4006819043\n高招咨询\n招生章程\n高校专业选科要求\n招办访谈\n直播信息\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：八一农大本科招生\n微信号：hbauzs\n院校满意度\n4.3\n3085人\n综合满意度\n4.5\n3670人\n环境满意度\n4.1\n2979人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n机械类\n4.8\n(12人)\n2\n会计学\n4.6\n(641人)\n3\n动物医学\n4.6\n(307人)\n4\n园林\n4.6\n(137人)\n5\n植物保护\n4.6\n(75人)\n6\n电气工程及其自动化\n4.5\n(409人)\n7\n人力资源管理\n4.5\n(126人)\n8\n电子信息工程\n4.5\n(101人)\n9\n农学\n4.5\n(267人)\n10\n土木工程\n4.5\n(347人)\n查看更多\n考生咨询\nQ\n黑农录取\nQ\n湖北考生大理503排名101011~101848上工科的概率\nQ\n转专业\nQ\n海南\nQ\n专业\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "黑龙江八一农垦大学",
+        "342人关注",
+        "教育行政主管部门：",
+        "黑龙江省教育厅",
+        "所在地：黑龙江",
+        "详细地址： 学校地址：黑龙江省大庆市高新技术产业开发区新风路5号",
+        "邮政编码：163319",
+        "官方网址：",
+        "http://www.byau.edu.cn/",
+        "招生网址：",
+        "http://zhaosheng.byau.edu.cn/",
+        "官方电话：4006819043",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "招办访谈",
+        "直播信息",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：八一农大本科招生",
+        "微信号：hbauzs",
+        "院校满意度",
+        "4.3",
+        "3085人",
+        "综合满意度",
+        "4.5",
+        "3670人",
+        "环境满意度",
+        "4.1",
+        "2979人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "机械类",
+        "4.8",
+        "(12人)",
+        "2",
+        "会计学",
+        "4.6",
+        "(641人)",
+        "3",
+        "动物医学",
+        "4.6",
+        "(307人)",
+        "4",
+        "园林",
+        "4.6",
+        "(137人)",
+        "5",
+        "植物保护",
+        "4.6",
+        "(75人)",
+        "6",
+        "电气工程及其自动化",
+        "4.5",
+        "(409人)",
+        "7",
+        "人力资源管理",
+        "4.5",
+        "(126人)",
+        "8",
+        "电子信息工程",
+        "4.5",
+        "(101人)",
+        "9",
+        "农学",
+        "4.5",
+        "(267人)",
+        "10",
+        "土木工程",
+        "4.5",
+        "(347人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "黑农录取",
+        "Q",
+        "湖北考生大理503排名101011~101848上工科的概率",
+        "Q",
+        "转专业",
+        "Q",
+        "海南",
+        "Q",
+        "专业",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "黑龙江"
+        ],
+        "详细地址": [
+          "学校地址：黑龙江省大庆市高新技术产业开发区新风路5号"
+        ],
+        "邮政编码": [
+          "163319"
+        ],
+        "http": [
+          "//www.byau.edu.cn/",
+          "//zhaosheng.byau.edu.cn/"
+        ],
+        "官方电话": [
+          "4006819043"
+        ],
+        "名称": [
+          "八一农大本科招生"
+        ],
+        "微信号": [
+          "hbauzs"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/xh/10223.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/gaokao/2026/wap/assets/images/yxxx_header_zb.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10223/xgap25unoq5hqxcr"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "http://www.byau.edu.cn/",
+          "链接": "http://www.byau.edu.cn/"
+        },
+        {
+          "名称": "http://zhaosheng.byau.edu.cn/",
+          "链接": "http://zhaosheng.byau.edu.cn/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "会计学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395200&specId=73385284"
+        },
+        {
+          "名称": "动物医学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395200&specId=73385016"
+        },
+        {
+          "名称": "园林",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395200&specId=73384980"
+        },
+        {
+          "名称": "植物保护",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395200&specId=73384912"
+        },
+        {
+          "名称": "电气工程及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395200&specId=73384320"
+        },
+        {
+          "名称": "人力资源管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395200&specId=73385292"
+        },
+        {
+          "名称": "电子信息工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395200&specId=73384328"
+        },
+        {
+          "名称": "农学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395200&specId=73384904"
+        },
+        {
+          "名称": "土木工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395200&specId=73384468"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=10097"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "http://www.byau.edu.cn/",
+        "招生网址": "http://zhaosheng.byau.edu.cn/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "http://www.byau.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "http://zhaosheng.byau.edu.cn/"
+        }
+      ],
+      "官方电话": "4006819043",
+      "抓取时间": "2026-11-07T00:22:50.786595+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:22:50.786595+08:00"
+}

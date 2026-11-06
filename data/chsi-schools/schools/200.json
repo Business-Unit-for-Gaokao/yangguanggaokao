@@ -1,0 +1,313 @@
+{
+  "schId": "200",
+  "学校名称": "东北师范大学",
+  "列表信息": {
+    "schId": "200",
+    "学校代码": "10200",
+    "学校名称": "东北师范大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/200",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 53,
+    "页码": 3,
+    "所在地": "吉林",
+    "教育行政主管部门": "教育部",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科",
+      "“双一流”建设高校"
+    ],
+    "满意度": "4.6"
+  },
+  "网站字段": {
+    "官方网址": "https://www.ecust.edu.cn/",
+    "招生网址": "https://zsb.ecust.edu.cn/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.ecust.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zsb.ecust.edu.cn/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/200",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "200"
+      },
+      "标题": "东北师范大学",
+      "原始文本": "院校库\n华东理工大学\n11028人关注\n教育行政主管部门：\n教育部\n“双一流”建设高校\n所在地：上海\n详细地址：学校地址： 上海市徐汇区梅陇路130号（邮编：200237，徐汇校区） 上海市奉贤区海思路999号（邮编：201424，奉贤校区）\n官方网址：\nhttps://www.ecust.edu.cn/\n招生网址：\nhttps://zsb.ecust.edu.cn/\n官方电话：021-64252763\n高招咨询\n招生章程\n高校专业选科要求\n招办访谈\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n宣传视频\n华东理工大学本科招生宣传视频\n热忱欢迎广大考生报考华东理工大学！\n微信\n微博\n百家号\n新媒体\n名称：华东理工招生\n微信号：joinECUST\n院校满意度\n4.1\n2144人\n综合满意度\n4\n2561人\n环境满意度\n3.6\n2164人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n市场营销\n4.9\n(11人)\n2\n化学类\n4.8\n(10人)\n3\n信息与计算科学\n4.8\n(20人)\n4\n能源与动力工程\n4.7\n(10人)\n5\n机械设计制造及其自动化\n4.6\n(184人)\n6\n工商管理\n4.6\n(989人)\n7\n会计学\n4.6\n(488人)\n8\n法学\n4.6\n(145人)\n9\n行政管理\n4.6\n(386人)\n10\n电气工程及其自动化\n4.6\n(144人)\n查看更多\n考生咨询\nQ\n对物化二组生物、化工不敢碰，想问问有没有保专业政策\nQ\n在北京的招生是否有保专业政策（如六保一）\nQ\n北京617分8762名，冲物化2组有希望吗？有保专业政策吗？\nQ\n咨询\nQ\n转专业的难易程度\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "华东理工大学",
+        "11028人关注",
+        "教育行政主管部门：",
+        "教育部",
+        "“双一流”建设高校",
+        "所在地：上海",
+        "详细地址：学校地址： 上海市徐汇区梅陇路130号（邮编：200237，徐汇校区） 上海市奉贤区海思路999号（邮编：201424，奉贤校区）",
+        "官方网址：",
+        "https://www.ecust.edu.cn/",
+        "招生网址：",
+        "https://zsb.ecust.edu.cn/",
+        "官方电话：021-64252763",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "招办访谈",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "宣传视频",
+        "华东理工大学本科招生宣传视频",
+        "热忱欢迎广大考生报考华东理工大学！",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：华东理工招生",
+        "微信号：joinECUST",
+        "院校满意度",
+        "4.1",
+        "2144人",
+        "综合满意度",
+        "4",
+        "2561人",
+        "环境满意度",
+        "3.6",
+        "2164人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "市场营销",
+        "4.9",
+        "(11人)",
+        "2",
+        "化学类",
+        "4.8",
+        "(10人)",
+        "3",
+        "信息与计算科学",
+        "4.8",
+        "(20人)",
+        "4",
+        "能源与动力工程",
+        "4.7",
+        "(10人)",
+        "5",
+        "机械设计制造及其自动化",
+        "4.6",
+        "(184人)",
+        "6",
+        "工商管理",
+        "4.6",
+        "(989人)",
+        "7",
+        "会计学",
+        "4.6",
+        "(488人)",
+        "8",
+        "法学",
+        "4.6",
+        "(145人)",
+        "9",
+        "行政管理",
+        "4.6",
+        "(386人)",
+        "10",
+        "电气工程及其自动化",
+        "4.6",
+        "(144人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "对物化二组生物、化工不敢碰，想问问有没有保专业政策",
+        "Q",
+        "在北京的招生是否有保专业政策（如六保一）",
+        "Q",
+        "北京617分8762名，冲物化2组有希望吗？有保专业政策吗？",
+        "Q",
+        "咨询",
+        "Q",
+        "转专业的难易程度",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "上海"
+        ],
+        "详细地址": [
+          "学校地址： 上海市徐汇区梅陇路130号（邮编：200237，徐汇校区） 上海市奉贤区海思路999号（邮编：201424，奉贤校区）"
+        ],
+        "https": [
+          "//www.ecust.edu.cn/",
+          "//zsb.ecust.edu.cn/"
+        ],
+        "官方电话": [
+          "021-64252763"
+        ],
+        "名称": [
+          "华东理工招生"
+        ],
+        "微信号": [
+          "joinECUST"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/xh/10251.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10251/yb0co4pivky52e6y"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.ecust.edu.cn/",
+          "链接": "https://www.ecust.edu.cn/"
+        },
+        {
+          "名称": "https://zsb.ecust.edu.cn/",
+          "链接": "https://zsb.ecust.edu.cn/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "市场营销",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395276&specId=73385280"
+        },
+        {
+          "名称": "信息与计算科学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395276&specId=73383779"
+        },
+        {
+          "名称": "能源与动力工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395276&specId=437286996"
+        },
+        {
+          "名称": "机械设计制造及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395276&specId=73384204"
+        },
+        {
+          "名称": "工商管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395276&specId=73385276"
+        },
+        {
+          "名称": "会计学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395276&specId=73385284"
+        },
+        {
+          "名称": "法学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395276&specId=73381155"
+        },
+        {
+          "名称": "行政管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395276&specId=73385356"
+        },
+        {
+          "名称": "电气工程及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395276&specId=73384320"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=36520"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.ecust.edu.cn/",
+        "招生网址": "https://zsb.ecust.edu.cn/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.ecust.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zsb.ecust.edu.cn/"
+        }
+      ],
+      "官方电话": "021-64252763",
+      "抓取时间": "2026-11-07T00:24:56.194497+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:24:56.194497+08:00"
+}

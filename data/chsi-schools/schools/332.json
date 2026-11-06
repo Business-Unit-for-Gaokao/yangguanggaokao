@@ -1,0 +1,299 @@
+{
+  "schId": "332",
+  "学校名称": "苏州科技大学",
+  "列表信息": {
+    "schId": "332",
+    "学校代码": "10332",
+    "学校名称": "苏州科技大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/332",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 77,
+    "页码": 4,
+    "所在地": "江苏",
+    "教育行政主管部门": "江苏省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "3.9"
+  },
+  "网站字段": {
+    "官方网址": "https://www.sdust.edu.cn/",
+    "招生网址": "https://zs.sdust.edu.cn/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.sdust.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zs.sdust.edu.cn/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/332",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "332"
+      },
+      "标题": "苏州科技大学",
+      "原始文本": "院校库\n山东科技大学\n2831人关注\n教育行政主管部门：\n山东省教育厅\n所在地：山东\n详细地址：学校在青岛、泰安、济南三地办学，主校区在青岛。 青岛校区位于青岛市黄岛区前湾港路579号； 泰安校区位于泰安市泰山区岱宗大街223号和泰安市岱岳区泰山大街中段； 济南校区位于济南市天桥区胜利庄路17号。\n官方网址：\nhttps://www.sdust.edu.cn/\n招生网址：\nhttps://zs.sdust.edu.cn/\n官方电话：0532-86057077（工作日期间8:30-11:30、14:30-17:00）\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：山东科技大学\n微信号：sdust_1951\n院校满意度\n4.5\n6562人\n综合满意度\n4.6\n7499人\n环境满意度\n4.3\n6255人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n智能科学与技术\n5.0\n(12人)\n2\n电气工程与智能控制\n4.7\n(16人)\n3\n遥感科学与技术\n4.7\n(175人)\n4\n产品设计\n4.7\n(15人)\n5\n物流管理\n4.6\n(92人)\n6\n电气工程及其自动化\n4.6\n(468人)\n7\n计算机科学与技术\n4.6\n(407人)\n8\n机械设计制造及其自动化\n4.6\n(521人)\n9\n大数据与会计\n4.6\n(107人)\n10\n过程装备与控制工程\n4.6\n(112人)\n查看更多\n考生咨询\nQ\n中外合作\nQ\n专业咨询\nQ\n专业分数不够，会调剂到视力受限的专业吗，还是避开受限专业\nQ\n专业\nQ\n报考咨询\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "山东科技大学",
+        "2831人关注",
+        "教育行政主管部门：",
+        "山东省教育厅",
+        "所在地：山东",
+        "详细地址：学校在青岛、泰安、济南三地办学，主校区在青岛。 青岛校区位于青岛市黄岛区前湾港路579号； 泰安校区位于泰安市泰山区岱宗大街223号和泰安市岱岳区泰山大街中段； 济南校区位于济南市天桥区胜利庄路17号。",
+        "官方网址：",
+        "https://www.sdust.edu.cn/",
+        "招生网址：",
+        "https://zs.sdust.edu.cn/",
+        "官方电话：0532-86057077（工作日期间8:30-11:30、14:30-17:00）",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：山东科技大学",
+        "微信号：sdust_1951",
+        "院校满意度",
+        "4.5",
+        "6562人",
+        "综合满意度",
+        "4.6",
+        "7499人",
+        "环境满意度",
+        "4.3",
+        "6255人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "智能科学与技术",
+        "5.0",
+        "(12人)",
+        "2",
+        "电气工程与智能控制",
+        "4.7",
+        "(16人)",
+        "3",
+        "遥感科学与技术",
+        "4.7",
+        "(175人)",
+        "4",
+        "产品设计",
+        "4.7",
+        "(15人)",
+        "5",
+        "物流管理",
+        "4.6",
+        "(92人)",
+        "6",
+        "电气工程及其自动化",
+        "4.6",
+        "(468人)",
+        "7",
+        "计算机科学与技术",
+        "4.6",
+        "(407人)",
+        "8",
+        "机械设计制造及其自动化",
+        "4.6",
+        "(521人)",
+        "9",
+        "大数据与会计",
+        "4.6",
+        "(107人)",
+        "10",
+        "过程装备与控制工程",
+        "4.6",
+        "(112人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "中外合作",
+        "Q",
+        "专业咨询",
+        "Q",
+        "专业分数不够，会调剂到视力受限的专业吗，还是避开受限专业",
+        "Q",
+        "专业",
+        "Q",
+        "报考咨询",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "山东"
+        ],
+        "详细地址": [
+          "学校在青岛、泰安、济南三地办学，主校区在青岛。 青岛校区位于青岛市黄岛区前湾港路579号； 泰安校区位于泰安市泰山区岱宗大街223号和泰安市岱岳区泰山大街中段； 济南校区位于济南市天桥区胜利庄路17号。"
+        ],
+        "https": [
+          "//www.sdust.edu.cn/",
+          "//zs.sdust.edu.cn/"
+        ],
+        "官方电话": [
+          "0532-86057077（工作日期间8:30-11:30、14:30-17:00）"
+        ],
+        "名称": [
+          "山东科技大学"
+        ],
+        "微信号": [
+          "sdust_1951"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/xh/10424.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10424/qgooptwhn3l61uzu"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.sdust.edu.cn/",
+          "链接": "https://www.sdust.edu.cn/"
+        },
+        {
+          "名称": "https://zs.sdust.edu.cn/",
+          "链接": "https://zs.sdust.edu.cn/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "遥感科学与技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395760&specId=73384548"
+        },
+        {
+          "名称": "产品设计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395760&specId=421209035"
+        },
+        {
+          "名称": "电气工程及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395760&specId=73384320"
+        },
+        {
+          "名称": "计算机科学与技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395760&specId=73384336"
+        },
+        {
+          "名称": "机械设计制造及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395760&specId=73384204"
+        },
+        {
+          "名称": "大数据与会计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395760&specId=73387693"
+        },
+        {
+          "名称": "过程装备与控制工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395760&specId=73384216"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=16001"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.sdust.edu.cn/",
+        "招生网址": "https://zs.sdust.edu.cn/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.sdust.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zs.sdust.edu.cn/"
+        }
+      ],
+      "官方电话": "0532-86057077（工作日期间8:30-11:30、14:30-17:00）",
+      "抓取时间": "2026-11-07T00:31:14.998440+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:31:14.998440+08:00"
+}

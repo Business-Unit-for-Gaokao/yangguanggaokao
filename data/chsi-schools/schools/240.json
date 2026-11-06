@@ -1,0 +1,315 @@
+{
+  "schId": "240",
+  "学校名称": "哈尔滨商业大学",
+  "列表信息": {
+    "schId": "240",
+    "学校代码": "10240",
+    "学校名称": "哈尔滨商业大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/240",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 61,
+    "页码": 4,
+    "所在地": "黑龙江",
+    "教育行政主管部门": "黑龙江省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.3"
+  },
+  "网站字段": {
+    "官方网址": "https://www.ycit.cn/",
+    "招生网址": "https://zjb.ycit.edu.cn/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.ycit.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zjb.ycit.edu.cn/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/240",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "240"
+      },
+      "标题": "哈尔滨商业大学",
+      "原始文本": "院校库\n盐城工学院\n550人关注\n教育行政主管部门：\n江苏省教育厅\n所在地：江苏\n详细地址：希望大道校区：江苏省盐城市亭湖区希望大道中路1号\n建军东路校区：江苏省盐城市亭湖区建军东路211号\n官方网址：\nhttps://www.ycit.cn/\n招生网址：\nhttps://zjb.ycit.edu.cn/\n官方电话：0515-88298060\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：盐工招办\n微信号：ycitzsb\n院校满意度\n4.3\n1952人\n综合满意度\n4.3\n2582人\n环境满意度\n4.2\n1843人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n服装与服饰设计\n4.9\n(10人)\n2\n土木工程\n4.7\n(138人)\n3\n过程装备与控制工程\n4.6\n(26人)\n4\n车辆工程\n4.6\n(19人)\n5\n交通工程\n4.6\n(26人)\n6\n电气工程及其自动化\n4.6\n(74人)\n7\n会计学\n4.5\n(43人)\n8\n机械设计制造及其自动化\n4.5\n(119人)\n9\n金融工程\n4.5\n(10人)\n10\n给排水科学与工程\n4.5\n(11人)\n查看更多\n考生咨询\nQ\n江苏历史 文化496 美术208 投档506 位次6766\nQ\n咨询\nQ\n高考咨询\nQ\n保研\nQ\n录取\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "盐城工学院",
+        "550人关注",
+        "教育行政主管部门：",
+        "江苏省教育厅",
+        "所在地：江苏",
+        "详细地址：希望大道校区：江苏省盐城市亭湖区希望大道中路1号",
+        "建军东路校区：江苏省盐城市亭湖区建军东路211号",
+        "官方网址：",
+        "https://www.ycit.cn/",
+        "招生网址：",
+        "https://zjb.ycit.edu.cn/",
+        "官方电话：0515-88298060",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：盐工招办",
+        "微信号：ycitzsb",
+        "院校满意度",
+        "4.3",
+        "1952人",
+        "综合满意度",
+        "4.3",
+        "2582人",
+        "环境满意度",
+        "4.2",
+        "1843人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "服装与服饰设计",
+        "4.9",
+        "(10人)",
+        "2",
+        "土木工程",
+        "4.7",
+        "(138人)",
+        "3",
+        "过程装备与控制工程",
+        "4.6",
+        "(26人)",
+        "4",
+        "车辆工程",
+        "4.6",
+        "(19人)",
+        "5",
+        "交通工程",
+        "4.6",
+        "(26人)",
+        "6",
+        "电气工程及其自动化",
+        "4.6",
+        "(74人)",
+        "7",
+        "会计学",
+        "4.5",
+        "(43人)",
+        "8",
+        "机械设计制造及其自动化",
+        "4.5",
+        "(119人)",
+        "9",
+        "金融工程",
+        "4.5",
+        "(10人)",
+        "10",
+        "给排水科学与工程",
+        "4.5",
+        "(11人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "江苏历史 文化496 美术208 投档506 位次6766",
+        "Q",
+        "咨询",
+        "Q",
+        "高考咨询",
+        "Q",
+        "保研",
+        "Q",
+        "录取",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "江苏"
+        ],
+        "详细地址": [
+          "希望大道校区：江苏省盐城市亭湖区希望大道中路1号"
+        ],
+        "建军东路校区": [
+          "江苏省盐城市亭湖区建军东路211号"
+        ],
+        "https": [
+          "//www.ycit.cn/",
+          "//zjb.ycit.edu.cn/"
+        ],
+        "官方电话": [
+          "0515-88298060"
+        ],
+        "名称": [
+          "盐工招办"
+        ],
+        "微信号": [
+          "ycitzsb"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t3.chei.com.cn/common/xh/10305.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10305/axhcanzhtr5vndqi"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.ycit.cn/",
+          "链接": "https://www.ycit.cn/"
+        },
+        {
+          "名称": "https://zjb.ycit.edu.cn/",
+          "链接": "https://zjb.ycit.edu.cn/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "服装与服饰设计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395426&specId=421209031"
+        },
+        {
+          "名称": "土木工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395426&specId=73384468"
+        },
+        {
+          "名称": "过程装备与控制工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395426&specId=73384216"
+        },
+        {
+          "名称": "车辆工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395426&specId=73384224"
+        },
+        {
+          "名称": "交通工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395426&specId=73384628"
+        },
+        {
+          "名称": "电气工程及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395426&specId=73384320"
+        },
+        {
+          "名称": "会计学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395426&specId=73385284"
+        },
+        {
+          "名称": "机械设计制造及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395426&specId=73384204"
+        },
+        {
+          "名称": "金融工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395426&specId=73381107"
+        },
+        {
+          "名称": "给排水科学与工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395426&specId=73384500"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=64370"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.ycit.cn/",
+        "招生网址": "https://zjb.ycit.edu.cn/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.ycit.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zjb.ycit.edu.cn/"
+        }
+      ],
+      "官方电话": "0515-88298060",
+      "抓取时间": "2026-11-07T00:27:03.809179+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:27:03.809179+08:00"
+}

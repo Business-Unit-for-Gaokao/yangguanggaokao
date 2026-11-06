@@ -1,0 +1,309 @@
+{
+  "schId": "650",
+  "学校名称": "四川外国语大学",
+  "列表信息": {
+    "schId": "650",
+    "学校代码": "10650",
+    "学校名称": "四川外国语大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/650",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 230,
+    "页码": 12,
+    "所在地": "重庆",
+    "教育行政主管部门": "重庆市教育委员会",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "3.9"
+  },
+  "网站字段": {
+    "官方网址": "https://www.gxcme.edu.cn/",
+    "招生网址": "http://zs.gxcme.edu.cn/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.gxcme.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "http://zs.gxcme.edu.cn/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/650",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "650"
+      },
+      "标题": "四川外国语大学",
+      "原始文本": "院校库\n广西机电职业技术学院\n90人关注\n教育行政主管部门：\n广西壮族自治区教育厅\n所在地：广西\n详细地址：广西南宁大学东路101号 （相思湖校区）邮政编码：530007 广西南宁市下津路12号（江南校区）\n官方网址：\nhttps://www.gxcme.edu.cn/\n招生网址：\nhttp://zs.gxcme.edu.cn/\n官方电话：0771-3279781\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：广西机电招生办\n微信号：GXJDXYZSB\n院校满意度\n4.1\n3956人\n综合满意度\n4.2\n5931人\n环境满意度\n3.9\n3848人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n家具艺术设计\n4.8\n(10人)\n2\n智能制造装备技术\n4.8\n(16人)\n3\n工业机器人技术\n4.7\n(12人)\n4\n大数据与会计\n4.7\n(25人)\n5\n人力资源管理\n4.6\n(61人)\n6\n汽车检测与维修技术\n4.6\n(48人)\n7\n大数据技术\n4.5\n(12人)\n8\n人工智能技术应用\n4.5\n(15人)\n9\n新能源汽车技术\n4.5\n(20人)\n10\n机械制造及自动化\n4.4\n(16人)\n查看更多\n考生咨询\nQ\n江西\nQ\n咨询\nQ\n录取\nQ\n广东考生\nQ\n录取\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "广西机电职业技术学院",
+        "90人关注",
+        "教育行政主管部门：",
+        "广西壮族自治区教育厅",
+        "所在地：广西",
+        "详细地址：广西南宁大学东路101号 （相思湖校区）邮政编码：530007 广西南宁市下津路12号（江南校区）",
+        "官方网址：",
+        "https://www.gxcme.edu.cn/",
+        "招生网址：",
+        "http://zs.gxcme.edu.cn/",
+        "官方电话：0771-3279781",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：广西机电招生办",
+        "微信号：GXJDXYZSB",
+        "院校满意度",
+        "4.1",
+        "3956人",
+        "综合满意度",
+        "4.2",
+        "5931人",
+        "环境满意度",
+        "3.9",
+        "3848人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "家具艺术设计",
+        "4.8",
+        "(10人)",
+        "2",
+        "智能制造装备技术",
+        "4.8",
+        "(16人)",
+        "3",
+        "工业机器人技术",
+        "4.7",
+        "(12人)",
+        "4",
+        "大数据与会计",
+        "4.7",
+        "(25人)",
+        "5",
+        "人力资源管理",
+        "4.6",
+        "(61人)",
+        "6",
+        "汽车检测与维修技术",
+        "4.6",
+        "(48人)",
+        "7",
+        "大数据技术",
+        "4.5",
+        "(12人)",
+        "8",
+        "人工智能技术应用",
+        "4.5",
+        "(15人)",
+        "9",
+        "新能源汽车技术",
+        "4.5",
+        "(20人)",
+        "10",
+        "机械制造及自动化",
+        "4.4",
+        "(16人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "江西",
+        "Q",
+        "咨询",
+        "Q",
+        "录取",
+        "Q",
+        "广东考生",
+        "Q",
+        "录取",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "广西"
+        ],
+        "详细地址": [
+          "广西南宁大学东路101号 （相思湖校区）邮政编码：530007 广西南宁市下津路12号（江南校区）"
+        ],
+        "https": [
+          "//www.gxcme.edu.cn/"
+        ],
+        "http": [
+          "//zs.gxcme.edu.cn/"
+        ],
+        "官方电话": [
+          "0771-3279781"
+        ],
+        "名称": [
+          "广西机电招生办"
+        ],
+        "微信号": [
+          "GXJDXYZSB"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t3.chei.com.cn/common/xh/10867.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10867/jf2q66rohuxa0ek3"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.gxcme.edu.cn/",
+          "链接": "https://www.gxcme.edu.cn/"
+        },
+        {
+          "名称": "http://zs.gxcme.edu.cn/",
+          "链接": "http://zs.gxcme.edu.cn/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "家具艺术设计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396957&specId=pj1q9eeyc8qiixk2"
+        },
+        {
+          "名称": "工业机器人技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396957&specId=320924786"
+        },
+        {
+          "名称": "大数据与会计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396957&specId=73387693"
+        },
+        {
+          "名称": "人力资源管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396957&specId=73388117"
+        },
+        {
+          "名称": "汽车检测与维修技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396957&specId=j93f60nfer3d3cbm"
+        },
+        {
+          "名称": "大数据技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396957&specId=ztd2bt71ai1otj6o"
+        },
+        {
+          "名称": "人工智能技术应用",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396957&specId=jqndxmgalvvjrtif"
+        },
+        {
+          "名称": "新能源汽车技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396957&specId=213780873"
+        },
+        {
+          "名称": "机械制造及自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396957&specId=f0020ewdymqx9paz"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=5483973"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.gxcme.edu.cn/",
+        "招生网址": "http://zs.gxcme.edu.cn/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.gxcme.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "http://zs.gxcme.edu.cn/"
+        }
+      ],
+      "官方电话": "0771-3279781",
+      "抓取时间": "2026-11-07T01:20:30.567748+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T01:20:30.567748+08:00"
+}

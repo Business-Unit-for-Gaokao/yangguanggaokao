@@ -1,0 +1,310 @@
+{
+  "schId": "500",
+  "学校名称": "湖北工业大学",
+  "列表信息": {
+    "schId": "500",
+    "学校代码": "10500",
+    "学校名称": "湖北工业大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/500",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 173,
+    "页码": 9,
+    "所在地": "湖北",
+    "教育行政主管部门": "湖北省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.3"
+  },
+  "网站字段": {
+    "官方网址": "https://www.yznu.cn/",
+    "招生网址": "https://zsb.yznu.edu.cn/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.yznu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zsb.yznu.edu.cn/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/500",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "500"
+      },
+      "标题": "湖北工业大学",
+      "原始文本": "院校库\n长江师范学院\n313人关注\n教育行政主管部门：\n重庆市教育委员会\n所在地：重庆\n详细地址：重庆市涪陵区聚贤大道16号\n官方网址：\nhttps://www.yznu.cn/\n招生网址：\nhttps://zsb.yznu.edu.cn/\n官方电话：023-72791999；023-72792000；023-72790137\n高招咨询\n招生章程\n高校专业选科要求\n招办访谈\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n宣传视频\n长江师范学院校歌\n微信\n微博\n百家号\n新媒体\n名称：-\n微信号：-\n院校满意度\n4.2\n3894人\n综合满意度\n4.4\n4514人\n环境满意度\n4.1\n3674人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n物理学\n4.7\n(112人)\n2\n体育教育\n4.7\n(296人)\n3\n舞蹈学\n4.6\n(136人)\n4\n园林\n4.6\n(26人)\n5\n音乐学\n4.6\n(409人)\n6\n汉语言文学\n4.6\n(549人)\n7\n数学教育\n4.6\n(11人)\n8\n美术学\n4.5\n(235人)\n9\n音乐表演\n4.5\n(168人)\n10\n数学与应用数学\n4.5\n(313人)\n查看更多\n考生咨询\nQ\n重庆\nQ\n江西\nQ\n咨询\nQ\n录取\nQ\n新疆考生\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "长江师范学院",
+        "313人关注",
+        "教育行政主管部门：",
+        "重庆市教育委员会",
+        "所在地：重庆",
+        "详细地址：重庆市涪陵区聚贤大道16号",
+        "官方网址：",
+        "https://www.yznu.cn/",
+        "招生网址：",
+        "https://zsb.yznu.edu.cn/",
+        "官方电话：023-72791999；023-72792000；023-72790137",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "招办访谈",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "宣传视频",
+        "长江师范学院校歌",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：-",
+        "微信号：-",
+        "院校满意度",
+        "4.2",
+        "3894人",
+        "综合满意度",
+        "4.4",
+        "4514人",
+        "环境满意度",
+        "4.1",
+        "3674人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "物理学",
+        "4.7",
+        "(112人)",
+        "2",
+        "体育教育",
+        "4.7",
+        "(296人)",
+        "3",
+        "舞蹈学",
+        "4.6",
+        "(136人)",
+        "4",
+        "园林",
+        "4.6",
+        "(26人)",
+        "5",
+        "音乐学",
+        "4.6",
+        "(409人)",
+        "6",
+        "汉语言文学",
+        "4.6",
+        "(549人)",
+        "7",
+        "数学教育",
+        "4.6",
+        "(11人)",
+        "8",
+        "美术学",
+        "4.5",
+        "(235人)",
+        "9",
+        "音乐表演",
+        "4.5",
+        "(168人)",
+        "10",
+        "数学与应用数学",
+        "4.5",
+        "(313人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "重庆",
+        "Q",
+        "江西",
+        "Q",
+        "咨询",
+        "Q",
+        "录取",
+        "Q",
+        "新疆考生",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "重庆"
+        ],
+        "详细地址": [
+          "重庆市涪陵区聚贤大道16号"
+        ],
+        "https": [
+          "//www.yznu.cn/",
+          "//zsb.yznu.edu.cn/"
+        ],
+        "官方电话": [
+          "023-72791999；023-72792000；023-72790137"
+        ],
+        "名称": [
+          "-"
+        ],
+        "微信号": [
+          "-"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t3.chei.com.cn/common/xh/10647.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.yznu.cn/",
+          "链接": "https://www.yznu.cn/"
+        },
+        {
+          "名称": "https://zsb.yznu.edu.cn/",
+          "链接": "https://zsb.yznu.edu.cn/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "物理学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396429&specId=73383799"
+        },
+        {
+          "名称": "体育教育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396429&specId=73383331"
+        },
+        {
+          "名称": "舞蹈学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396429&specId=73383659"
+        },
+        {
+          "名称": "园林",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396429&specId=73384980"
+        },
+        {
+          "名称": "音乐学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396429&specId=73383627"
+        },
+        {
+          "名称": "汉语言文学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396429&specId=73383455"
+        },
+        {
+          "名称": "数学教育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396429&specId=73388325"
+        },
+        {
+          "名称": "美术学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396429&specId=73383647"
+        },
+        {
+          "名称": "音乐表演",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396429&specId=73383635"
+        },
+        {
+          "名称": "数学与应用数学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396429&specId=73383775"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=61607"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.yznu.cn/",
+        "招生网址": "https://zsb.yznu.edu.cn/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.yznu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zsb.yznu.edu.cn/"
+        }
+      ],
+      "官方电话": "023-72791999；023-72792000；023-72790137",
+      "抓取时间": "2026-11-07T00:55:53.527257+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:55:53.527257+08:00"
+}

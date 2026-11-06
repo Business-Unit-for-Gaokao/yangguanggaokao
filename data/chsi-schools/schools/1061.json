@@ -1,0 +1,311 @@
+{
+  "schId": "1061",
+  "学校名称": "芜湖职业技术大学",
+  "列表信息": {
+    "schId": "1061",
+    "学校代码": "11061",
+    "学校名称": "芜湖职业技术大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/1061",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 105,
+    "页码": 6,
+    "所在地": "安徽",
+    "教育行政主管部门": "安徽省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.4"
+  },
+  "网站字段": {
+    "官方网址": "http://www.lctvu.sd.cn/",
+    "招生网址": "http://zsjyw.lcvtc.edu.cn/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "http://www.lctvu.sd.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "http://zsjyw.lcvtc.edu.cn/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/1061",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "1061"
+      },
+      "标题": "芜湖职业技术大学",
+      "原始文本": "院校库\n聊城职业技术学院\n95人关注\n教育行政主管部门：\n山东省教育厅\n所在地：山东\n详细地址：招生咨询电话：0635-8334937，8334338 QQ群：1092696590/882699975 学校地址：山东省聊城市花园北路133号 邮编：252000\n官方网址：\nhttp://www.lctvu.sd.cn/\n招生网址：\nhttp://zsjyw.lcvtc.edu.cn/\n官方电话：0635-8334937\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：聊城职业技术学院\n微信号：lczyjsxy2014\n院校满意度\n4\n1468人\n综合满意度\n4\n2049人\n环境满意度\n3.8\n1366人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n康复治疗技术\n4.8\n(63人)\n2\n计算机网络技术\n4.6\n(30人)\n3\n药学\n4.6\n(23人)\n4\n旅游管理\n4.5\n(19人)\n5\n园林技术\n4.5\n(11人)\n6\n医学检验技术\n4.4\n(34人)\n7\n护理\n4.3\n(312人)\n8\n软件技术\n4.3\n(31人)\n9\n计算机应用技术\n4.2\n(63人)\n10\n机电一体化技术\n4.2\n(86人)\n查看更多\n考生咨询\nQ\n机电一体化\nQ\n春季高考\nQ\n山东\nQ\n录取\nQ\n报考\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "聊城职业技术学院",
+        "95人关注",
+        "教育行政主管部门：",
+        "山东省教育厅",
+        "所在地：山东",
+        "详细地址：招生咨询电话：0635-8334937，8334338 QQ群：1092696590/882699975 学校地址：山东省聊城市花园北路133号 邮编：252000",
+        "官方网址：",
+        "http://www.lctvu.sd.cn/",
+        "招生网址：",
+        "http://zsjyw.lcvtc.edu.cn/",
+        "官方电话：0635-8334937",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：聊城职业技术学院",
+        "微信号：lczyjsxy2014",
+        "院校满意度",
+        "4",
+        "1468人",
+        "综合满意度",
+        "4",
+        "2049人",
+        "环境满意度",
+        "3.8",
+        "1366人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "康复治疗技术",
+        "4.8",
+        "(63人)",
+        "2",
+        "计算机网络技术",
+        "4.6",
+        "(30人)",
+        "3",
+        "药学",
+        "4.6",
+        "(23人)",
+        "4",
+        "旅游管理",
+        "4.5",
+        "(19人)",
+        "5",
+        "园林技术",
+        "4.5",
+        "(11人)",
+        "6",
+        "医学检验技术",
+        "4.4",
+        "(34人)",
+        "7",
+        "护理",
+        "4.3",
+        "(312人)",
+        "8",
+        "软件技术",
+        "4.3",
+        "(31人)",
+        "9",
+        "计算机应用技术",
+        "4.2",
+        "(63人)",
+        "10",
+        "机电一体化技术",
+        "4.2",
+        "(86人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "机电一体化",
+        "Q",
+        "春季高考",
+        "Q",
+        "山东",
+        "Q",
+        "录取",
+        "Q",
+        "报考",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "山东"
+        ],
+        "详细地址": [
+          "招生咨询电话：0635-8334937，8334338 QQ群：1092696590/882699975 学校地址：山东省聊城市花园北路133号 邮编：252000"
+        ],
+        "http": [
+          "//www.lctvu.sd.cn/",
+          "//zsjyw.lcvtc.edu.cn/"
+        ],
+        "官方电话": [
+          "0635-8334937"
+        ],
+        "名称": [
+          "聊城职业技术学院"
+        ],
+        "微信号": [
+          "lczyjsxy2014"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/xh/12441.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/12441/4i5s87wtbox4fjbf"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "http://www.lctvu.sd.cn/",
+          "链接": "http://www.lctvu.sd.cn/"
+        },
+        {
+          "名称": "http://zsjyw.lcvtc.edu.cn/",
+          "链接": "http://zsjyw.lcvtc.edu.cn/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "康复治疗技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398386&specId=73387933"
+        },
+        {
+          "名称": "计算机网络技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398386&specId=73387052"
+        },
+        {
+          "名称": "药学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398386&specId=73387889"
+        },
+        {
+          "名称": "旅游管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398386&specId=73388001"
+        },
+        {
+          "名称": "园林技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398386&specId=73385544"
+        },
+        {
+          "名称": "医学检验技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398386&specId=73387917"
+        },
+        {
+          "名称": "护理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398386&specId=73387873"
+        },
+        {
+          "名称": "软件技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398386&specId=73387076"
+        },
+        {
+          "名称": "计算机应用技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398386&specId=73387048"
+        },
+        {
+          "名称": "机电一体化技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398386&specId=73386880"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=80220"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "http://www.lctvu.sd.cn/",
+        "招生网址": "http://zsjyw.lcvtc.edu.cn/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "http://www.lctvu.sd.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "http://zsjyw.lcvtc.edu.cn/"
+        }
+      ],
+      "官方电话": "0635-8334937",
+      "抓取时间": "2026-11-07T00:38:36.076895+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:38:36.076895+08:00"
+}

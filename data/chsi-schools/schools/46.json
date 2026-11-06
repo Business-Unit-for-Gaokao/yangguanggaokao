@@ -1,0 +1,285 @@
+{
+  "schId": "46",
+  "学校名称": "中国音乐学院",
+  "列表信息": {
+    "schId": "46",
+    "学校代码": "10046",
+    "学校名称": "中国音乐学院",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/46",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 4,
+    "页码": 1,
+    "所在地": "北京",
+    "教育行政主管部门": "北京市教育委员会",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科",
+      "“双一流”建设高校"
+    ],
+    "满意度": ""
+  },
+  "网站字段": {
+    "官方网址": "https://www.muc.edu.cn/",
+    "招生网址": "https://zb.muc.edu.cn"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.muc.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zb.muc.edu.cn"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/46",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "46"
+      },
+      "标题": "中国音乐学院",
+      "原始文本": "院校库\n中央民族大学\n4808人关注\n教育行政主管部门：\n国家民族事务委员会\n“双一流”建设高校\n所在地：北京\n详细地址：北京市海淀区中关村南大街27号\n官方网址：\nhttps://www.muc.edu.cn/\n招生网址：\nhttps://zb.muc.edu.cn\n官方电话：010-68932902\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：中央民族大学本科招生\n微信号：MUC-ADMISSION\n院校满意度\n4.2\n2516人\n综合满意度\n4.3\n2930人\n环境满意度\n4\n2453人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n舞蹈学\n5.0\n(31人)\n2\n环境设计\n4.9\n(12人)\n3\n音乐表演\n4.8\n(46人)\n4\n光电信息科学与工程\n4.6\n(16人)\n5\n绘画\n4.5\n(22人)\n6\n工商管理\n4.5\n(26人)\n7\n人力资源管理\n4.5\n(34人)\n8\n社会工作\n4.5\n(43人)\n9\n汉语言文学\n4.5\n(126人)\n10\n日语\n4.4\n(14人)\n查看更多\n考生咨询\nQ\n高校专项计划\nQ\n专业分流\nQ\n中外合作咨询\nQ\n工商管理类(含工商管理、会计学、财务管理、人力资源管理专业；\nQ\n北京艺术生高考咨询中外合办视觉传达\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "中央民族大学",
+        "4808人关注",
+        "教育行政主管部门：",
+        "国家民族事务委员会",
+        "“双一流”建设高校",
+        "所在地：北京",
+        "详细地址：北京市海淀区中关村南大街27号",
+        "官方网址：",
+        "https://www.muc.edu.cn/",
+        "招生网址：",
+        "https://zb.muc.edu.cn",
+        "官方电话：010-68932902",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：中央民族大学本科招生",
+        "微信号：MUC-ADMISSION",
+        "院校满意度",
+        "4.2",
+        "2516人",
+        "综合满意度",
+        "4.3",
+        "2930人",
+        "环境满意度",
+        "4",
+        "2453人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "舞蹈学",
+        "5.0",
+        "(31人)",
+        "2",
+        "环境设计",
+        "4.9",
+        "(12人)",
+        "3",
+        "音乐表演",
+        "4.8",
+        "(46人)",
+        "4",
+        "光电信息科学与工程",
+        "4.6",
+        "(16人)",
+        "5",
+        "绘画",
+        "4.5",
+        "(22人)",
+        "6",
+        "工商管理",
+        "4.5",
+        "(26人)",
+        "7",
+        "人力资源管理",
+        "4.5",
+        "(34人)",
+        "8",
+        "社会工作",
+        "4.5",
+        "(43人)",
+        "9",
+        "汉语言文学",
+        "4.5",
+        "(126人)",
+        "10",
+        "日语",
+        "4.4",
+        "(14人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "高校专项计划",
+        "Q",
+        "专业分流",
+        "Q",
+        "中外合作咨询",
+        "Q",
+        "工商管理类(含工商管理、会计学、财务管理、人力资源管理专业；",
+        "Q",
+        "北京艺术生高考咨询中外合办视觉传达",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "北京"
+        ],
+        "详细地址": [
+          "北京市海淀区中关村南大街27号"
+        ],
+        "https": [
+          "//www.muc.edu.cn/",
+          "//zb.muc.edu.cn"
+        ],
+        "官方电话": [
+          "010-68932902"
+        ],
+        "名称": [
+          "中央民族大学本科招生"
+        ],
+        "微信号": [
+          "MUC-ADMISSION"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/xh/10052.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10052/c40ei0ymn5htdytk"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.muc.edu.cn/",
+          "链接": "https://www.muc.edu.cn/"
+        },
+        {
+          "名称": "https://zb.muc.edu.cn",
+          "链接": "https://zb.muc.edu.cn"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "社会工作",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394666&specId=73383183"
+        },
+        {
+          "名称": "汉语言文学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394666&specId=73383455"
+        },
+        {
+          "名称": "日语",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394666&specId=73383507"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=22013"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.muc.edu.cn/",
+        "招生网址": "https://zb.muc.edu.cn"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.muc.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zb.muc.edu.cn"
+        }
+      ],
+      "官方电话": "010-68932902",
+      "抓取时间": "2026-11-07T00:12:19.554353+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:12:19.554353+08:00"
+}

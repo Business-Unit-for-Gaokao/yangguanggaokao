@@ -1,0 +1,310 @@
+{
+  "schId": "385",
+  "学校名称": "华侨大学",
+  "列表信息": {
+    "schId": "385",
+    "学校代码": "10385",
+    "学校名称": "华侨大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/385",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 115,
+    "页码": 6,
+    "所在地": "福建",
+    "教育行政主管部门": "国务院侨务办公室",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.4"
+  },
+  "网站字段": {
+    "官方网址": "https://www.wust.edu.cn/",
+    "招生网址": "http://zs.wust.edu.cn"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.wust.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "http://zs.wust.edu.cn"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/385",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "385"
+      },
+      "标题": "华侨大学",
+      "原始文本": "院校库\n武汉科技大学\n1600人关注\n教育行政主管部门：\n湖北省教育厅\n所在地：湖北\n详细地址：青山校区位于武汉市青山区和平大道947号，黄家湖校区位于武汉市洪山区青菱街黄家湖西路10号\n官方网址：\nhttps://www.wust.edu.cn/\n招生网址：\nhttp://zs.wust.edu.cn\n官方电话：027-59370111，027-68862888\n高招咨询\n招生章程\n高校专业选科要求\n招办访谈\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：武汉科技大学\n微信号：wustwx\n院校满意度\n4.2\n4817人\n综合满意度\n4.2\n5546人\n环境满意度\n3.8\n4677人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n建筑环境与能源应用工程\n4.8\n(18人)\n2\n会计\n4.6\n(13人)\n3\n建筑工程技术\n4.5\n(172人)\n4\n物流工程\n4.4\n(13人)\n5\n翻译\n4.4\n(14人)\n6\n网络工程\n4.4\n(87人)\n7\n工商管理类\n4.4\n(14人)\n8\n材料化学\n4.4\n(10人)\n9\n机械类\n4.4\n(72人)\n10\n人力资源管理\n4.3\n(106人)\n查看更多\n考生咨询\nQ\n红绿色盲\nQ\n中外合办\nQ\n网络空间安全专业\nQ\n录取\nQ\n录取咨询\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "武汉科技大学",
+        "1600人关注",
+        "教育行政主管部门：",
+        "湖北省教育厅",
+        "所在地：湖北",
+        "详细地址：青山校区位于武汉市青山区和平大道947号，黄家湖校区位于武汉市洪山区青菱街黄家湖西路10号",
+        "官方网址：",
+        "https://www.wust.edu.cn/",
+        "招生网址：",
+        "http://zs.wust.edu.cn",
+        "官方电话：027-59370111，027-68862888",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "招办访谈",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：武汉科技大学",
+        "微信号：wustwx",
+        "院校满意度",
+        "4.2",
+        "4817人",
+        "综合满意度",
+        "4.2",
+        "5546人",
+        "环境满意度",
+        "3.8",
+        "4677人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "建筑环境与能源应用工程",
+        "4.8",
+        "(18人)",
+        "2",
+        "会计",
+        "4.6",
+        "(13人)",
+        "3",
+        "建筑工程技术",
+        "4.5",
+        "(172人)",
+        "4",
+        "物流工程",
+        "4.4",
+        "(13人)",
+        "5",
+        "翻译",
+        "4.4",
+        "(14人)",
+        "6",
+        "网络工程",
+        "4.4",
+        "(87人)",
+        "7",
+        "工商管理类",
+        "4.4",
+        "(14人)",
+        "8",
+        "材料化学",
+        "4.4",
+        "(10人)",
+        "9",
+        "机械类",
+        "4.4",
+        "(72人)",
+        "10",
+        "人力资源管理",
+        "4.3",
+        "(106人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "红绿色盲",
+        "Q",
+        "中外合办",
+        "Q",
+        "网络空间安全专业",
+        "Q",
+        "录取",
+        "Q",
+        "录取咨询",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "湖北"
+        ],
+        "详细地址": [
+          "青山校区位于武汉市青山区和平大道947号，黄家湖校区位于武汉市洪山区青菱街黄家湖西路10号"
+        ],
+        "https": [
+          "//www.wust.edu.cn/"
+        ],
+        "http": [
+          "//zs.wust.edu.cn"
+        ],
+        "官方电话": [
+          "027-59370111，027-68862888"
+        ],
+        "名称": [
+          "武汉科技大学"
+        ],
+        "微信号": [
+          "wustwx"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t4.chei.com.cn/common/xh/10488.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10488/28oqgqp1ndjl2b6y"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.wust.edu.cn/",
+          "链接": "https://www.wust.edu.cn/"
+        },
+        {
+          "名称": "http://zs.wust.edu.cn",
+          "链接": "http://zs.wust.edu.cn"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "建筑环境与能源应用工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395977&specId=427392401"
+        },
+        {
+          "名称": "建筑工程技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395977&specId=73386572"
+        },
+        {
+          "名称": "物流工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395977&specId=73384648"
+        },
+        {
+          "名称": "翻译",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395977&specId=73383587"
+        },
+        {
+          "名称": "网络工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395977&specId=73384364"
+        },
+        {
+          "名称": "工商管理类",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395977&specId=73385272"
+        },
+        {
+          "名称": "材料化学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395977&specId=73384040"
+        },
+        {
+          "名称": "机械类",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395977&specId=73384200"
+        },
+        {
+          "名称": "人力资源管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395977&specId=73385292"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=55611"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.wust.edu.cn/",
+        "招生网址": "http://zs.wust.edu.cn"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.wust.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "http://zs.wust.edu.cn"
+        }
+      ],
+      "官方电话": "027-59370111，027-68862888",
+      "抓取时间": "2026-11-07T00:41:04.648004+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:41:04.648004+08:00"
+}

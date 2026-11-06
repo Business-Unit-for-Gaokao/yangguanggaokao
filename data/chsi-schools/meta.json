@@ -1,6 +1,10 @@
 {
-  "抓取时间": "2026-04-13T14:22:57.055493+00:00",
+  "抓取时间": "2026-11-07T02:03:13.892677+08:00",
+  "run_id": "56ebb9ac8e92424db71c04ca749d8af2",
+  "source_mode": "wap",
   "来源": {
+    "移动版院校列表": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "移动版院校详情模板": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/{sch_id}",
     "搜索首页": "https://gaokao.chsi.com.cn/sch/search.do",
     "搜索页模板": "https://gaokao.chsi.com.cn/sch/search--ss-on,option-qg,searchType-1,start-{start}.dhtml",
     "已知页面模式": [
@@ -22,7 +26,9 @@
     "start_max": 2900,
     "page_step": 20
   },
-  "学校总数": 0,
+  "学校总数": 2933,
+  "网址记录数": 1680,
+  "网址验证状态": "未独立验证；仅记录阳光高考页面声明/展示的网址",
   "是否覆盖已存在文件": false,
   "是否保存原始HTML": false,
   "是否保存调试文件": false

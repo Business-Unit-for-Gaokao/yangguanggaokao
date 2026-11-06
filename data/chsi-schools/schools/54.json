@@ -1,0 +1,314 @@
+{
+  "schId": "54",
+  "学校名称": "华北电力大学(北京)",
+  "列表信息": {
+    "schId": "54",
+    "学校代码": "10054",
+    "学校名称": "华北电力大学(北京)",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/54",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 4,
+    "页码": 1,
+    "所在地": "北京",
+    "教育行政主管部门": "教育部",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科",
+      "“双一流”建设高校"
+    ],
+    "满意度": "4.3"
+  },
+  "网站字段": {
+    "官方网址": "https://www.tjau.edu.cn/",
+    "招生网址": "https://bkzs.tjau.edu.cn/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.tjau.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://bkzs.tjau.edu.cn/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/54",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "54"
+      },
+      "标题": "华北电力大学(北京)",
+      "原始文本": "院校库\n天津农学院\n495人关注\n教育行政主管部门：\n天津市教育委员会\n所在地：天津\n详细地址：东校区：西青区津静路22号，邮编：300392 西校区：西青区津同路19号，邮编：300380 蓟州校区：蓟州区五百户镇青池一村东侧，邮编：301936 蓟州校区（盘山地块）：蓟州区蓟莲路4号，邮编：301915\n官方网址：\nhttps://www.tjau.edu.cn/\n招生网址：\nhttps://bkzs.tjau.edu.cn/\n官方电话：022-23799551\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n宣传视频\n天农宣传片\n微信\n微博\n百家号\n新媒体\n名称：天津农学院官微平台\n微信号：天津农学院官微平台\n院校满意度\n3.7\n1968人\n综合满意度\n3.6\n2459人\n环境满意度\n3.6\n1877人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n水产养殖技术\n4.7\n(30人)\n2\n水利水电工程\n4.6\n(126人)\n3\n动物药学\n4.6\n(11人)\n4\n水文与水资源技术\n4.6\n(45人)\n5\n物联网工程\n4.6\n(18人)\n6\n人力资源管理\n4.5\n(54人)\n7\n水文与水资源工程\n4.5\n(137人)\n8\n农业机械化及其自动化\n4.4\n(80人)\n9\n国际经济与贸易\n4.4\n(132人)\n10\n植物保护\n4.4\n(77人)\n查看更多\n考生咨询\nQ\n礼貌提问\nQ\n河南咨询\nQ\n院校报考\nQ\n视力咨询\nQ\n广东省物理类普通批录取\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "天津农学院",
+        "495人关注",
+        "教育行政主管部门：",
+        "天津市教育委员会",
+        "所在地：天津",
+        "详细地址：东校区：西青区津静路22号，邮编：300392 西校区：西青区津同路19号，邮编：300380 蓟州校区：蓟州区五百户镇青池一村东侧，邮编：301936 蓟州校区（盘山地块）：蓟州区蓟莲路4号，邮编：301915",
+        "官方网址：",
+        "https://www.tjau.edu.cn/",
+        "招生网址：",
+        "https://bkzs.tjau.edu.cn/",
+        "官方电话：022-23799551",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "宣传视频",
+        "天农宣传片",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：天津农学院官微平台",
+        "微信号：天津农学院官微平台",
+        "院校满意度",
+        "3.7",
+        "1968人",
+        "综合满意度",
+        "3.6",
+        "2459人",
+        "环境满意度",
+        "3.6",
+        "1877人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "水产养殖技术",
+        "4.7",
+        "(30人)",
+        "2",
+        "水利水电工程",
+        "4.6",
+        "(126人)",
+        "3",
+        "动物药学",
+        "4.6",
+        "(11人)",
+        "4",
+        "水文与水资源技术",
+        "4.6",
+        "(45人)",
+        "5",
+        "物联网工程",
+        "4.6",
+        "(18人)",
+        "6",
+        "人力资源管理",
+        "4.5",
+        "(54人)",
+        "7",
+        "水文与水资源工程",
+        "4.5",
+        "(137人)",
+        "8",
+        "农业机械化及其自动化",
+        "4.4",
+        "(80人)",
+        "9",
+        "国际经济与贸易",
+        "4.4",
+        "(132人)",
+        "10",
+        "植物保护",
+        "4.4",
+        "(77人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "礼貌提问",
+        "Q",
+        "河南咨询",
+        "Q",
+        "院校报考",
+        "Q",
+        "视力咨询",
+        "Q",
+        "广东省物理类普通批录取",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "天津"
+        ],
+        "详细地址": [
+          "东校区：西青区津静路22号，邮编：300392 西校区：西青区津同路19号，邮编：300380 蓟州校区：蓟州区五百户镇青池一村东侧，邮编：301936 蓟州校区（盘山地块）：蓟州区蓟莲路4号，邮编：301915"
+        ],
+        "https": [
+          "//www.tjau.edu.cn/",
+          "//bkzs.tjau.edu.cn/"
+        ],
+        "官方电话": [
+          "022-23799551"
+        ],
+        "名称": [
+          "天津农学院官微平台"
+        ],
+        "微信号": [
+          "天津农学院官微平台"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/xh/10061.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10061/8rhdmu2y6z5xfab3"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.tjau.edu.cn/",
+          "链接": "https://www.tjau.edu.cn/"
+        },
+        {
+          "名称": "https://bkzs.tjau.edu.cn/",
+          "链接": "https://bkzs.tjau.edu.cn/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "水产养殖技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394703&specId=73385660"
+        },
+        {
+          "名称": "水利水电工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394703&specId=73384528"
+        },
+        {
+          "名称": "动物药学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394703&specId=73385020"
+        },
+        {
+          "名称": "水文与水资源技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394703&specId=73386688"
+        },
+        {
+          "名称": "物联网工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394703&specId=164251912"
+        },
+        {
+          "名称": "人力资源管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394703&specId=73388117"
+        },
+        {
+          "名称": "水文与水资源工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394703&specId=73384532"
+        },
+        {
+          "名称": "农业机械化及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394703&specId=73384840"
+        },
+        {
+          "名称": "国际经济与贸易",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394703&specId=73381083"
+        },
+        {
+          "名称": "植物保护",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394703&specId=73384912"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=8259"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.tjau.edu.cn/",
+        "招生网址": "https://bkzs.tjau.edu.cn/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.tjau.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://bkzs.tjau.edu.cn/"
+        }
+      ],
+      "官方电话": "022-23799551",
+      "抓取时间": "2026-11-07T00:12:31.822963+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:12:31.822963+08:00"
+}

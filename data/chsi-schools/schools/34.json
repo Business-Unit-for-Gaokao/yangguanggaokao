@@ -1,0 +1,316 @@
+{
+  "schId": "34",
+  "学校名称": "中央财经大学",
+  "列表信息": {
+    "schId": "34",
+    "学校代码": "10034",
+    "学校名称": "中央财经大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/34",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 3,
+    "页码": 1,
+    "所在地": "北京",
+    "教育行政主管部门": "教育部",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科",
+      "“双一流”建设高校"
+    ],
+    "满意度": "4.0"
+  },
+  "网站字段": {
+    "官方网址": "https://www.cueb.edu.cn/",
+    "招生网址": "https://zs.cueb.edu.cn"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.cueb.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zs.cueb.edu.cn"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/34",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "34"
+      },
+      "标题": "中央财经大学",
+      "原始文本": "院校库\n首都经济贸易大学\n3625人关注\n教育行政主管部门：\n北京市教育委员会\n所在地：北京\n详细地址：北京市丰台区花乡张家路口121号\n官方网址：\nhttps://www.cueb.edu.cn/\n招生网址：\nhttps://zs.cueb.edu.cn\n官方电话：010-83952090/1799\n高招咨询\n招生章程\n高校专业选科要求\n招办访谈\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n宣传视频\n2025年 首都经济贸易大学招生宣传片\n在首经贸，遇见更好的自己！\n微信\n微博\n百家号\n新媒体\n名称：首都经济贸易大学招生办\n微信号：zs_cueb\n院校满意度\n4.1\n790人\n综合满意度\n4.1\n1023人\n环境满意度\n4\n774人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n财务管理\n4.9\n(13人)\n2\n市场营销\n4.8\n(10人)\n3\n人力资源管理\n4.8\n(29人)\n4\n会计学\n4.5\n(45人)\n5\n安全工程\n4.3\n(20人)\n6\n税收学\n4.3\n(13人)\n7\n劳动与社会保障\n4.2\n(13人)\n8\n经济学\n4.2\n(29人)\n9\n保险学\n4.2\n(10人)\n10\n法学\n4.0\n(22人)\n查看更多\n考生咨询\nQ\n老师好，报考问题\nQ\n提前批报考\nQ\n转专业和保研政策\nQ\n专业咨询\nQ\n工商管理（青海大学生态专业联培）专业咨询\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "首都经济贸易大学",
+        "3625人关注",
+        "教育行政主管部门：",
+        "北京市教育委员会",
+        "所在地：北京",
+        "详细地址：北京市丰台区花乡张家路口121号",
+        "官方网址：",
+        "https://www.cueb.edu.cn/",
+        "招生网址：",
+        "https://zs.cueb.edu.cn",
+        "官方电话：010-83952090/1799",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "招办访谈",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "宣传视频",
+        "2025年 首都经济贸易大学招生宣传片",
+        "在首经贸，遇见更好的自己！",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：首都经济贸易大学招生办",
+        "微信号：zs_cueb",
+        "院校满意度",
+        "4.1",
+        "790人",
+        "综合满意度",
+        "4.1",
+        "1023人",
+        "环境满意度",
+        "4",
+        "774人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "财务管理",
+        "4.9",
+        "(13人)",
+        "2",
+        "市场营销",
+        "4.8",
+        "(10人)",
+        "3",
+        "人力资源管理",
+        "4.8",
+        "(29人)",
+        "4",
+        "会计学",
+        "4.5",
+        "(45人)",
+        "5",
+        "安全工程",
+        "4.3",
+        "(20人)",
+        "6",
+        "税收学",
+        "4.3",
+        "(13人)",
+        "7",
+        "劳动与社会保障",
+        "4.2",
+        "(13人)",
+        "8",
+        "经济学",
+        "4.2",
+        "(29人)",
+        "9",
+        "保险学",
+        "4.2",
+        "(10人)",
+        "10",
+        "法学",
+        "4.0",
+        "(22人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "老师好，报考问题",
+        "Q",
+        "提前批报考",
+        "Q",
+        "转专业和保研政策",
+        "Q",
+        "专业咨询",
+        "Q",
+        "工商管理（青海大学生态专业联培）专业咨询",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "北京"
+        ],
+        "详细地址": [
+          "北京市丰台区花乡张家路口121号"
+        ],
+        "https": [
+          "//www.cueb.edu.cn/",
+          "//zs.cueb.edu.cn"
+        ],
+        "官方电话": [
+          "010-83952090/1799"
+        ],
+        "名称": [
+          "首都经济贸易大学招生办"
+        ],
+        "微信号": [
+          "zs_cueb"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t4.chei.com.cn/common/xh/10038.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10038/um3bn3r63anrrkcy"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.cueb.edu.cn/",
+          "链接": "https://www.cueb.edu.cn/"
+        },
+        {
+          "名称": "https://zs.cueb.edu.cn",
+          "链接": "https://zs.cueb.edu.cn"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "财务管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394642&specId=73385288"
+        },
+        {
+          "名称": "市场营销",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394642&specId=73385280"
+        },
+        {
+          "名称": "人力资源管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394642&specId=73385292"
+        },
+        {
+          "名称": "会计学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394642&specId=73385284"
+        },
+        {
+          "名称": "安全工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394642&specId=73384564"
+        },
+        {
+          "名称": "税收学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394642&specId=73381111"
+        },
+        {
+          "名称": "劳动与社会保障",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394642&specId=73385364"
+        },
+        {
+          "名称": "经济学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394642&specId=73381079"
+        },
+        {
+          "名称": "保险学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394642&specId=73381103"
+        },
+        {
+          "名称": "法学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73394642&specId=73381155"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=11501"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.cueb.edu.cn/",
+        "招生网址": "https://zs.cueb.edu.cn"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.cueb.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zs.cueb.edu.cn"
+        }
+      ],
+      "官方电话": "010-83952090/1799",
+      "抓取时间": "2026-11-07T00:12:04.132250+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:12:04.132250+08:00"
+}

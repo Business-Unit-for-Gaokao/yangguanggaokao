@@ -1,0 +1,310 @@
+{
+  "schId": "201",
+  "学校名称": "北华大学",
+  "列表信息": {
+    "schId": "201",
+    "学校代码": "10201",
+    "学校名称": "北华大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/201",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 53,
+    "页码": 3,
+    "所在地": "吉林",
+    "教育行政主管部门": "吉林省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.1"
+  },
+  "网站字段": {
+    "官方网址": "https://www.usst.edu.cn",
+    "招生网址": "https://zhaoban.usst.edu.cn"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.usst.edu.cn"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zhaoban.usst.edu.cn"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/201",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "201"
+      },
+      "标题": "北华大学",
+      "原始文本": "院校库\n上海理工大学\n2880人关注\n教育行政主管部门：\n上海市教育委员会\n所在地：上海\n详细地址：地址：上海市军工路516号 邮编：200093\n官方网址：\nhttps://www.usst.edu.cn\n招生网址：\nhttps://zhaoban.usst.edu.cn\n官方电话：021-55270799\n高招咨询\n招生章程\n高校专业选科要求\n招办访谈\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n宣传视频\n遇见这里\n微信\n微博\n百家号\n新媒体\n名称：上海理工大学本科招生\n微信号：USST-ZS\n院校满意度\n4\n2508人\n综合满意度\n4.3\n2995人\n环境满意度\n3.7\n2454人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n能源动力类\n4.9\n(12人)\n2\n网络工程\n4.8\n(18人)\n3\n产品设计\n4.5\n(13人)\n4\n电气工程及其自动化\n4.5\n(114人)\n5\n管理科学\n4.5\n(55人)\n6\n广告学\n4.4\n(26人)\n7\n自动化\n4.4\n(27人)\n8\n应用化学\n4.3\n(22人)\n9\n土木工程\n4.3\n(81人)\n10\n工商管理\n4.3\n(92人)\n查看更多\n考生咨询\nQ\n色觉问题\nQ\n安徽招生咨询\nQ\n有校企合作专业（校内选拔，送去企业的）吗？对接的企业，岗位？\nQ\n录取咨询\nQ\n中外合作办学是4+0吗？对英语单科成绩有无要求？每年学费是多\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "上海理工大学",
+        "2880人关注",
+        "教育行政主管部门：",
+        "上海市教育委员会",
+        "所在地：上海",
+        "详细地址：地址：上海市军工路516号 邮编：200093",
+        "官方网址：",
+        "https://www.usst.edu.cn",
+        "招生网址：",
+        "https://zhaoban.usst.edu.cn",
+        "官方电话：021-55270799",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "招办访谈",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "宣传视频",
+        "遇见这里",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：上海理工大学本科招生",
+        "微信号：USST-ZS",
+        "院校满意度",
+        "4",
+        "2508人",
+        "综合满意度",
+        "4.3",
+        "2995人",
+        "环境满意度",
+        "3.7",
+        "2454人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "能源动力类",
+        "4.9",
+        "(12人)",
+        "2",
+        "网络工程",
+        "4.8",
+        "(18人)",
+        "3",
+        "产品设计",
+        "4.5",
+        "(13人)",
+        "4",
+        "电气工程及其自动化",
+        "4.5",
+        "(114人)",
+        "5",
+        "管理科学",
+        "4.5",
+        "(55人)",
+        "6",
+        "广告学",
+        "4.4",
+        "(26人)",
+        "7",
+        "自动化",
+        "4.4",
+        "(27人)",
+        "8",
+        "应用化学",
+        "4.3",
+        "(22人)",
+        "9",
+        "土木工程",
+        "4.3",
+        "(81人)",
+        "10",
+        "工商管理",
+        "4.3",
+        "(92人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "色觉问题",
+        "Q",
+        "安徽招生咨询",
+        "Q",
+        "有校企合作专业（校内选拔，送去企业的）吗？对接的企业，岗位？",
+        "Q",
+        "录取咨询",
+        "Q",
+        "中外合作办学是4+0吗？对英语单科成绩有无要求？每年学费是多",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "上海"
+        ],
+        "详细地址": [
+          "地址：上海市军工路516号 邮编：200093"
+        ],
+        "https": [
+          "//www.usst.edu.cn",
+          "//zhaoban.usst.edu.cn"
+        ],
+        "官方电话": [
+          "021-55270799"
+        ],
+        "名称": [
+          "上海理工大学本科招生"
+        ],
+        "微信号": [
+          "USST-ZS"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/xh/10252.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10252/6f7l96iwxq3ofjw6"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.usst.edu.cn",
+          "链接": "https://www.usst.edu.cn"
+        },
+        {
+          "名称": "https://zhaoban.usst.edu.cn",
+          "链接": "https://zhaoban.usst.edu.cn"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "网络工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395281&specId=73384364"
+        },
+        {
+          "名称": "产品设计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395281&specId=421209035"
+        },
+        {
+          "名称": "电气工程及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395281&specId=73384320"
+        },
+        {
+          "名称": "管理科学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395281&specId=73385236"
+        },
+        {
+          "名称": "广告学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395281&specId=73383607"
+        },
+        {
+          "名称": "自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395281&specId=73384324"
+        },
+        {
+          "名称": "应用化学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395281&specId=73383823"
+        },
+        {
+          "名称": "土木工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395281&specId=73384468"
+        },
+        {
+          "名称": "工商管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395281&specId=73385276"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=66404"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.usst.edu.cn",
+        "招生网址": "https://zhaoban.usst.edu.cn"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.usst.edu.cn"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zhaoban.usst.edu.cn"
+        }
+      ],
+      "官方电话": "021-55270799",
+      "抓取时间": "2026-11-07T00:24:57.691495+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:24:57.691495+08:00"
+}

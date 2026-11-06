@@ -1,0 +1,312 @@
+{
+  "schId": "412",
+  "学校名称": "江西中医药大学",
+  "列表信息": {
+    "schId": "412",
+    "学校代码": "10412",
+    "学校名称": "江西中医药大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/412",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 125,
+    "页码": 7,
+    "所在地": "江西",
+    "教育行政主管部门": "江西省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "3.9"
+  },
+  "网站字段": {
+    "官方网址": "https://www.hnust.edu.cn/",
+    "招生网址": "https://zs.hnust.edu.cn"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.hnust.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zs.hnust.edu.cn"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/412",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "412"
+      },
+      "标题": "江西中医药大学",
+      "原始文本": "院校库\n湖南科技大学\n1461人关注\n教育行政主管部门：\n湖南省教育厅\n所在地：湖南\n详细地址：地 址：湖南省湘潭市桃园路 邮政编码：411201 联系电话：0731-58290670 咨询电话：0731-58889999（6月到9月开通）\n官方网址：\nhttps://www.hnust.edu.cn/\n招生网址：\nhttps://zs.hnust.edu.cn\n官方电话：0731-58290670(办公电话) 58889999（高考后咨询电话）\n高招咨询\n招生章程\n高校专业选科要求\n招办访谈\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：湖南科技大学\n微信号：湖南科技大学\n院校满意度\n4.2\n5499人\n综合满意度\n4.4\n6783人\n环境满意度\n4\n5265人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n软件工程\n5.0\n(34人)\n2\n建筑环境与能源应用工程\n4.6\n(34人)\n3\n产品设计\n4.6\n(16人)\n4\n电气工程及其自动化\n4.5\n(366人)\n5\n舞蹈表演\n4.5\n(30人)\n6\n土木工程\n4.5\n(733人)\n7\n应用统计学\n4.4\n(11人)\n8\n光电信息科学与工程\n4.4\n(40人)\n9\n历史学\n4.4\n(138人)\n10\n美术学\n4.4\n(174人)\n查看更多\n考生咨询\nQ\n录取\nQ\n湖南考生\nQ\n咨询\nQ\n报考\nQ\n专业相关\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "湖南科技大学",
+        "1461人关注",
+        "教育行政主管部门：",
+        "湖南省教育厅",
+        "所在地：湖南",
+        "详细地址：地 址：湖南省湘潭市桃园路 邮政编码：411201 联系电话：0731-58290670 咨询电话：0731-58889999（6月到9月开通）",
+        "官方网址：",
+        "https://www.hnust.edu.cn/",
+        "招生网址：",
+        "https://zs.hnust.edu.cn",
+        "官方电话：0731-58290670(办公电话) 58889999（高考后咨询电话）",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "招办访谈",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：湖南科技大学",
+        "微信号：湖南科技大学",
+        "院校满意度",
+        "4.2",
+        "5499人",
+        "综合满意度",
+        "4.4",
+        "6783人",
+        "环境满意度",
+        "4",
+        "5265人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "软件工程",
+        "5.0",
+        "(34人)",
+        "2",
+        "建筑环境与能源应用工程",
+        "4.6",
+        "(34人)",
+        "3",
+        "产品设计",
+        "4.6",
+        "(16人)",
+        "4",
+        "电气工程及其自动化",
+        "4.5",
+        "(366人)",
+        "5",
+        "舞蹈表演",
+        "4.5",
+        "(30人)",
+        "6",
+        "土木工程",
+        "4.5",
+        "(733人)",
+        "7",
+        "应用统计学",
+        "4.4",
+        "(11人)",
+        "8",
+        "光电信息科学与工程",
+        "4.4",
+        "(40人)",
+        "9",
+        "历史学",
+        "4.4",
+        "(138人)",
+        "10",
+        "美术学",
+        "4.4",
+        "(174人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "录取",
+        "Q",
+        "湖南考生",
+        "Q",
+        "咨询",
+        "Q",
+        "报考",
+        "Q",
+        "专业相关",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "湖南"
+        ],
+        "详细地址": [
+          "地 址：湖南省湘潭市桃园路 邮政编码：411201 联系电话：0731-58290670 咨询电话：0731-58889999（6月到9月开通）"
+        ],
+        "https": [
+          "//www.hnust.edu.cn/",
+          "//zs.hnust.edu.cn"
+        ],
+        "官方电话": [
+          "0731-58290670(办公电话) 58889999（高考后咨询电话）"
+        ],
+        "名称": [
+          "湖南科技大学"
+        ],
+        "微信号": [
+          "湖南科技大学"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/xh/10534.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10534/51sjjx4qbw9q3ii6"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.hnust.edu.cn/",
+          "链接": "https://www.hnust.edu.cn/"
+        },
+        {
+          "名称": "https://zs.hnust.edu.cn",
+          "链接": "https://zs.hnust.edu.cn"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "软件工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396085&specId=73384356"
+        },
+        {
+          "名称": "建筑环境与能源应用工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396085&specId=427392401"
+        },
+        {
+          "名称": "产品设计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396085&specId=421209035"
+        },
+        {
+          "名称": "电气工程及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396085&specId=73384320"
+        },
+        {
+          "名称": "舞蹈表演",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396085&specId=433435864"
+        },
+        {
+          "名称": "土木工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396085&specId=73384468"
+        },
+        {
+          "名称": "应用统计学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396085&specId=437286976"
+        },
+        {
+          "名称": "光电信息科学与工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396085&specId=437287064"
+        },
+        {
+          "名称": "历史学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396085&specId=73383743"
+        },
+        {
+          "名称": "美术学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396085&specId=73383647"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=5650"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.hnust.edu.cn/",
+        "招生网址": "https://zs.hnust.edu.cn"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.hnust.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zs.hnust.edu.cn"
+        }
+      ],
+      "官方电话": "0731-58290670(办公电话) 58889999（高考后咨询电话）",
+      "抓取时间": "2026-11-07T00:43:36.016069+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:43:36.016069+08:00"
+}

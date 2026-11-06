@@ -1,0 +1,311 @@
+{
+  "schId": "465",
+  "学校名称": "中原工学院",
+  "列表信息": {
+    "schId": "465",
+    "学校代码": "10465",
+    "学校名称": "中原工学院",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/465",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 154,
+    "页码": 8,
+    "所在地": "河南",
+    "教育行政主管部门": "河南省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.3"
+  },
+  "网站字段": {
+    "官方网址": "https://www.ylu.cn/",
+    "招生网址": "https://zjw.ylu.edu.cn/zsw.htm"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.ylu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zjw.ylu.edu.cn/zsw.htm"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/465",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "465"
+      },
+      "标题": "中原工学院",
+      "原始文本": "院校库\n玉林师范学院\n131人关注\n教育行政主管部门：\n广西壮族自治区教育厅\n所在地：广西\n详细地址：学校通信地址：广西玉林市教育东路东1303号玉林师范学院东校区\n官方网址：\nhttps://www.ylu.cn/\n招生网址：\nhttps://zjw.ylu.edu.cn/zsw.htm\n官方电话：07752666516\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：玉师招就\n微信号：ylsfxyzsjyc\n院校满意度\n4.1\n1410人\n综合满意度\n4.2\n1971人\n环境满意度\n4\n1343人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n数学与应用数学\n4.7\n(32人)\n2\n体育教育\n4.6\n(62人)\n3\n思想政治教育\n4.6\n(26人)\n4\n生物科学\n4.6\n(34人)\n5\n小学教育\n4.5\n(25人)\n6\n舞蹈学\n4.5\n(12人)\n7\n计算机应用技术\n4.5\n(12人)\n8\n计算机科学与技术\n4.4\n(52人)\n9\n运动康复\n4.4\n(20人)\n10\n应用心理学\n4.4\n(21人)\n查看更多\n考生咨询\nQ\n录取\nQ\n调剂\nQ\n录取\nQ\n地方公费师范生\nQ\n咨询\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "玉林师范学院",
+        "131人关注",
+        "教育行政主管部门：",
+        "广西壮族自治区教育厅",
+        "所在地：广西",
+        "详细地址：学校通信地址：广西玉林市教育东路东1303号玉林师范学院东校区",
+        "官方网址：",
+        "https://www.ylu.cn/",
+        "招生网址：",
+        "https://zjw.ylu.edu.cn/zsw.htm",
+        "官方电话：07752666516",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：玉师招就",
+        "微信号：ylsfxyzsjyc",
+        "院校满意度",
+        "4.1",
+        "1410人",
+        "综合满意度",
+        "4.2",
+        "1971人",
+        "环境满意度",
+        "4",
+        "1343人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "数学与应用数学",
+        "4.7",
+        "(32人)",
+        "2",
+        "体育教育",
+        "4.6",
+        "(62人)",
+        "3",
+        "思想政治教育",
+        "4.6",
+        "(26人)",
+        "4",
+        "生物科学",
+        "4.6",
+        "(34人)",
+        "5",
+        "小学教育",
+        "4.5",
+        "(25人)",
+        "6",
+        "舞蹈学",
+        "4.5",
+        "(12人)",
+        "7",
+        "计算机应用技术",
+        "4.5",
+        "(12人)",
+        "8",
+        "计算机科学与技术",
+        "4.4",
+        "(52人)",
+        "9",
+        "运动康复",
+        "4.4",
+        "(20人)",
+        "10",
+        "应用心理学",
+        "4.4",
+        "(21人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "录取",
+        "Q",
+        "调剂",
+        "Q",
+        "录取",
+        "Q",
+        "地方公费师范生",
+        "Q",
+        "咨询",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "广西"
+        ],
+        "详细地址": [
+          "学校通信地址：广西玉林市教育东路东1303号玉林师范学院东校区"
+        ],
+        "https": [
+          "//www.ylu.cn/",
+          "//zjw.ylu.edu.cn/zsw.htm"
+        ],
+        "官方电话": [
+          "07752666516"
+        ],
+        "名称": [
+          "玉师招就"
+        ],
+        "微信号": [
+          "ylsfxyzsjyc"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t3.chei.com.cn/common/xh/10606.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10606/dodqf9cyw76gptfq"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.ylu.cn/",
+          "链接": "https://www.ylu.cn/"
+        },
+        {
+          "名称": "https://zjw.ylu.edu.cn/zsw.htm",
+          "链接": "https://zjw.ylu.edu.cn/zsw.htm"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "数学与应用数学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396293&specId=73383775"
+        },
+        {
+          "名称": "体育教育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396293&specId=73383331"
+        },
+        {
+          "名称": "思想政治教育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396293&specId=73383215"
+        },
+        {
+          "名称": "生物科学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396293&specId=73383847"
+        },
+        {
+          "名称": "小学教育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396293&specId=213808572"
+        },
+        {
+          "名称": "舞蹈学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396293&specId=73383659"
+        },
+        {
+          "名称": "计算机应用技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396293&specId=73387048"
+        },
+        {
+          "名称": "计算机科学与技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396293&specId=73384336"
+        },
+        {
+          "名称": "运动康复",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396293&specId=73383351"
+        },
+        {
+          "名称": "应用心理学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396293&specId=73384080"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=6343"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.ylu.cn/",
+        "招生网址": "https://zjw.ylu.edu.cn/zsw.htm"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.ylu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zjw.ylu.edu.cn/zsw.htm"
+        }
+      ],
+      "官方电话": "07752666516",
+      "抓取时间": "2026-11-07T00:51:03.879639+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:51:03.879639+08:00"
+}

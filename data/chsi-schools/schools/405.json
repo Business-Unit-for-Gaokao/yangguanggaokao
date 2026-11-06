@@ -1,0 +1,295 @@
+{
+  "schId": "405",
+  "学校名称": "东华理工大学",
+  "列表信息": {
+    "schId": "405",
+    "学校代码": "10405",
+    "学校名称": "东华理工大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/405",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 124,
+    "页码": 7,
+    "所在地": "江西",
+    "教育行政主管部门": "江西省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.1"
+  },
+  "网站字段": {
+    "官方网址": "https://www.scuec.edu.cn",
+    "招生网址": "https://zsb.scuec.edu.cn"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.scuec.edu.cn"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zsb.scuec.edu.cn"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/405",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "405"
+      },
+      "标题": "东华理工大学",
+      "原始文本": "院校库\n中南民族大学\n1141人关注\n教育行政主管部门：\n国家民族事务委员会\n所在地：湖北\n详细地址：地址：湖北省武汉市洪山区民族大道182号 邮编：430074\n官方网址：\nhttps://www.scuec.edu.cn\n招生网址：\nhttps://zsb.scuec.edu.cn\n官方电话：027-67842763\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：中南民族大学\n微信号：scuec1951\n院校满意度\n4.4\n4935人\n综合满意度\n4.7\n6176人\n环境满意度\n4.3\n5062人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n人力资源管理\n4.9\n(49人)\n2\n商务英语\n4.9\n(14人)\n3\n工商管理\n4.7\n(25人)\n4\n历史学\n4.6\n(22人)\n5\n化学工程与工艺\n4.6\n(36人)\n6\n材料化学\n4.6\n(52人)\n7\n通信工程\n4.6\n(102人)\n8\n法学\n4.5\n(172人)\n9\n软件工程\n4.5\n(68人)\n10\n水文与水资源工程\n4.5\n(13人)\n查看更多\n考生咨询\nQ\n外语语种限制\nQ\n红绿色盲\nQ\n录取\nQ\n中南艺考\nQ\n广西物理518\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "中南民族大学",
+        "1141人关注",
+        "教育行政主管部门：",
+        "国家民族事务委员会",
+        "所在地：湖北",
+        "详细地址：地址：湖北省武汉市洪山区民族大道182号 邮编：430074",
+        "官方网址：",
+        "https://www.scuec.edu.cn",
+        "招生网址：",
+        "https://zsb.scuec.edu.cn",
+        "官方电话：027-67842763",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：中南民族大学",
+        "微信号：scuec1951",
+        "院校满意度",
+        "4.4",
+        "4935人",
+        "综合满意度",
+        "4.7",
+        "6176人",
+        "环境满意度",
+        "4.3",
+        "5062人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "人力资源管理",
+        "4.9",
+        "(49人)",
+        "2",
+        "商务英语",
+        "4.9",
+        "(14人)",
+        "3",
+        "工商管理",
+        "4.7",
+        "(25人)",
+        "4",
+        "历史学",
+        "4.6",
+        "(22人)",
+        "5",
+        "化学工程与工艺",
+        "4.6",
+        "(36人)",
+        "6",
+        "材料化学",
+        "4.6",
+        "(52人)",
+        "7",
+        "通信工程",
+        "4.6",
+        "(102人)",
+        "8",
+        "法学",
+        "4.5",
+        "(172人)",
+        "9",
+        "软件工程",
+        "4.5",
+        "(68人)",
+        "10",
+        "水文与水资源工程",
+        "4.5",
+        "(13人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "外语语种限制",
+        "Q",
+        "红绿色盲",
+        "Q",
+        "录取",
+        "Q",
+        "中南艺考",
+        "Q",
+        "广西物理518",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "湖北"
+        ],
+        "详细地址": [
+          "地址：湖北省武汉市洪山区民族大道182号 邮编：430074"
+        ],
+        "https": [
+          "//www.scuec.edu.cn",
+          "//zsb.scuec.edu.cn"
+        ],
+        "官方电话": [
+          "027-67842763"
+        ],
+        "名称": [
+          "中南民族大学"
+        ],
+        "微信号": [
+          "scuec1951"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/xh/10524.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10524/wujbh8g3twqkjzyi"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.scuec.edu.cn",
+          "链接": "https://www.scuec.edu.cn"
+        },
+        {
+          "名称": "https://zsb.scuec.edu.cn",
+          "链接": "https://zsb.scuec.edu.cn"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "工商管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396057&specId=73385276"
+        },
+        {
+          "名称": "历史学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396057&specId=73383743"
+        },
+        {
+          "名称": "通信工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396057&specId=73384332"
+        },
+        {
+          "名称": "法学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396057&specId=73381155"
+        },
+        {
+          "名称": "软件工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396057&specId=73384356"
+        },
+        {
+          "名称": "水文与水资源工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73396057&specId=73384532"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=86838"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.scuec.edu.cn",
+        "招生网址": "https://zsb.scuec.edu.cn"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.scuec.edu.cn"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zsb.scuec.edu.cn"
+        }
+      ],
+      "官方电话": "027-67842763",
+      "抓取时间": "2026-11-07T00:43:27.257566+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:43:27.257566+08:00"
+}

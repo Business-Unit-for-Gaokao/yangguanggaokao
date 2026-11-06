@@ -1,0 +1,283 @@
+{
+  "schId": "1116",
+  "学校名称": "成都工业学院",
+  "列表信息": {
+    "schId": "1116",
+    "学校代码": "11116",
+    "学校名称": "成都工业学院",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/1116",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 240,
+    "页码": 13,
+    "所在地": "四川",
+    "教育行政主管部门": "四川省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.0"
+  },
+  "网站字段": {
+    "官方网址": "https://www.sada.edu.cn",
+    "招生网址": "https://zs.sada.edu.cn"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.sada.edu.cn"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zs.sada.edu.cn"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/1116",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "1116"
+      },
+      "标题": "成都工业学院",
+      "原始文本": "院校库\n上海工艺美术职业学院\n82人关注\n教育行政主管部门：\n上海市教育委员会\n所在地：上海\n详细地址：学院总部地址：嘉行公路851号\n招办地址：上海市漕溪北路502号\n官方网址：\nhttps://www.sada.edu.cn\n招生网址：\nhttps://zs.sada.edu.cn\n官方电话：021-64398515\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：上海工艺美院招生办公室\n微信号：sadazsb\n院校满意度\n3.9\n675人\n综合满意度\n4\n816人\n环境满意度\n3.4\n669人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n广告艺术设计\n3.9\n(291人)\n2\n环境艺术设计\n3.9\n(169人)\n3\n游戏艺术设计\n3.8\n(216人)\n4\n室内艺术设计\n3.7\n(241人)\n5\n影视多媒体技术\n3.6\n(22人)\n6\n艺术设计\n3.2\n(94人)\n查看更多\n考生咨询\nQ\n广西美术生\nQ\n贵校您好，美术生咨询\nQ\n招生疑问\nQ\n招录\nQ\n贵校您好 美术生志愿咨询\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "上海工艺美术职业学院",
+        "82人关注",
+        "教育行政主管部门：",
+        "上海市教育委员会",
+        "所在地：上海",
+        "详细地址：学院总部地址：嘉行公路851号",
+        "招办地址：上海市漕溪北路502号",
+        "官方网址：",
+        "https://www.sada.edu.cn",
+        "招生网址：",
+        "https://zs.sada.edu.cn",
+        "官方电话：021-64398515",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：上海工艺美院招生办公室",
+        "微信号：sadazsb",
+        "院校满意度",
+        "3.9",
+        "675人",
+        "综合满意度",
+        "4",
+        "816人",
+        "环境满意度",
+        "3.4",
+        "669人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "广告艺术设计",
+        "3.9",
+        "(291人)",
+        "2",
+        "环境艺术设计",
+        "3.9",
+        "(169人)",
+        "3",
+        "游戏艺术设计",
+        "3.8",
+        "(216人)",
+        "4",
+        "室内艺术设计",
+        "3.7",
+        "(241人)",
+        "5",
+        "影视多媒体技术",
+        "3.6",
+        "(22人)",
+        "6",
+        "艺术设计",
+        "3.2",
+        "(94人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "广西美术生",
+        "Q",
+        "贵校您好，美术生咨询",
+        "Q",
+        "招生疑问",
+        "Q",
+        "招录",
+        "Q",
+        "贵校您好 美术生志愿咨询",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "上海"
+        ],
+        "详细地址": [
+          "学院总部地址：嘉行公路851号"
+        ],
+        "招办地址": [
+          "上海市漕溪北路502号"
+        ],
+        "https": [
+          "//www.sada.edu.cn",
+          "//zs.sada.edu.cn"
+        ],
+        "官方电话": [
+          "021-64398515"
+        ],
+        "名称": [
+          "上海工艺美院招生办公室"
+        ],
+        "微信号": [
+          "sadazsb"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t4.chei.com.cn/common/xh/12588.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/12588/p473n5k93zyakt6v"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.sada.edu.cn",
+          "链接": "https://www.sada.edu.cn"
+        },
+        {
+          "名称": "https://zs.sada.edu.cn",
+          "链接": "https://zs.sada.edu.cn"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "广告艺术设计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398582&specId=73388533"
+        },
+        {
+          "名称": "环境艺术设计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398582&specId=73386544"
+        },
+        {
+          "名称": "游戏艺术设计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398582&specId=164253447"
+        },
+        {
+          "名称": "室内艺术设计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398582&specId=164253443"
+        },
+        {
+          "名称": "影视多媒体技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398582&specId=73388653"
+        },
+        {
+          "名称": "艺术设计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398582&specId=73388489"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=31089"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.sada.edu.cn",
+        "招生网址": "https://zs.sada.edu.cn"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.sada.edu.cn"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zs.sada.edu.cn"
+        }
+      ],
+      "官方电话": "021-64398515",
+      "抓取时间": "2026-11-07T01:23:06.940909+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T01:23:06.940909+08:00"
+}

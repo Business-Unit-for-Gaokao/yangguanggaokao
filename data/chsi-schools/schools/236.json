@@ -1,0 +1,312 @@
+{
+  "schId": "236",
+  "学校名称": "绥化学院",
+  "列表信息": {
+    "schId": "236",
+    "学校代码": "10236",
+    "学校名称": "绥化学院",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/236",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 61,
+    "页码": 4,
+    "所在地": "黑龙江",
+    "教育行政主管部门": "黑龙江省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.3"
+  },
+  "网站字段": {
+    "官方网址": "https://www.ujs.edu.cn/",
+    "招生网址": "https://zb.ujs.edu.cn/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.ujs.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zb.ujs.edu.cn/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/236",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "236"
+      },
+      "标题": "绥化学院",
+      "原始文本": "院校库\n江苏大学\n4432人关注\n教育行政主管部门：\n江苏省教育厅\n所在地：江苏\n详细地址：江苏省镇江市学府路301号\n官方网址：\nhttps://www.ujs.edu.cn/\n招生网址：\nhttps://zb.ujs.edu.cn/\n官方电话：051188780048\n高招咨询\n招生章程\n高校专业选科要求\n招办访谈\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：江苏大学本科招生\n微信号：ujszsb\n院校满意度\n4.3\n3302人\n综合满意度\n4.5\n4308人\n环境满意度\n4\n3196人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n产品设计\n4.9\n(10人)\n2\n农业机械化及其自动化\n4.8\n(19人)\n3\n保险学\n4.7\n(11人)\n4\n通信工程\n4.7\n(45人)\n5\n工商管理\n4.7\n(38人)\n6\n机械电子工程\n4.7\n(36人)\n7\n医学检验技术\n4.7\n(53人)\n8\n电气工程及其自动化\n4.6\n(100人)\n9\n国际经济与贸易\n4.5\n(29人)\n10\n土木工程\n4.5\n(89人)\n查看更多\n考生咨询\nQ\n体检\nQ\n金融学（中澳学分互认联合培养项目）\nQ\n能源与动力工程\nQ\n甘肃女生，物理458分，位次49426，能否报贵校\nQ\n红绿色盲\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "江苏大学",
+        "4432人关注",
+        "教育行政主管部门：",
+        "江苏省教育厅",
+        "所在地：江苏",
+        "详细地址：江苏省镇江市学府路301号",
+        "官方网址：",
+        "https://www.ujs.edu.cn/",
+        "招生网址：",
+        "https://zb.ujs.edu.cn/",
+        "官方电话：051188780048",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "招办访谈",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：江苏大学本科招生",
+        "微信号：ujszsb",
+        "院校满意度",
+        "4.3",
+        "3302人",
+        "综合满意度",
+        "4.5",
+        "4308人",
+        "环境满意度",
+        "4",
+        "3196人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "产品设计",
+        "4.9",
+        "(10人)",
+        "2",
+        "农业机械化及其自动化",
+        "4.8",
+        "(19人)",
+        "3",
+        "保险学",
+        "4.7",
+        "(11人)",
+        "4",
+        "通信工程",
+        "4.7",
+        "(45人)",
+        "5",
+        "工商管理",
+        "4.7",
+        "(38人)",
+        "6",
+        "机械电子工程",
+        "4.7",
+        "(36人)",
+        "7",
+        "医学检验技术",
+        "4.7",
+        "(53人)",
+        "8",
+        "电气工程及其自动化",
+        "4.6",
+        "(100人)",
+        "9",
+        "国际经济与贸易",
+        "4.5",
+        "(29人)",
+        "10",
+        "土木工程",
+        "4.5",
+        "(89人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "体检",
+        "Q",
+        "金融学（中澳学分互认联合培养项目）",
+        "Q",
+        "能源与动力工程",
+        "Q",
+        "甘肃女生，物理458分，位次49426，能否报贵校",
+        "Q",
+        "红绿色盲",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "江苏"
+        ],
+        "详细地址": [
+          "江苏省镇江市学府路301号"
+        ],
+        "https": [
+          "//www.ujs.edu.cn/",
+          "//zb.ujs.edu.cn/"
+        ],
+        "官方电话": [
+          "051188780048"
+        ],
+        "名称": [
+          "江苏大学本科招生"
+        ],
+        "微信号": [
+          "ujszsb"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t4.chei.com.cn/common/xh/10299.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10299/k4bjhjbvmhq6e1td"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.ujs.edu.cn/",
+          "链接": "https://www.ujs.edu.cn/"
+        },
+        {
+          "名称": "https://zb.ujs.edu.cn/",
+          "链接": "https://zb.ujs.edu.cn/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "产品设计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395414&specId=421209035"
+        },
+        {
+          "名称": "农业机械化及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395414&specId=73384840"
+        },
+        {
+          "名称": "保险学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395414&specId=73381103"
+        },
+        {
+          "名称": "通信工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395414&specId=73384332"
+        },
+        {
+          "名称": "工商管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395414&specId=73385276"
+        },
+        {
+          "名称": "机械电子工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395414&specId=73384228"
+        },
+        {
+          "名称": "医学检验技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395414&specId=73385084"
+        },
+        {
+          "名称": "电气工程及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395414&specId=73384320"
+        },
+        {
+          "名称": "国际经济与贸易",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395414&specId=73381083"
+        },
+        {
+          "名称": "土木工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395414&specId=73384468"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=14419"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.ujs.edu.cn/",
+        "招生网址": "https://zb.ujs.edu.cn/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.ujs.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zb.ujs.edu.cn/"
+        }
+      ],
+      "官方电话": "051188780048",
+      "抓取时间": "2026-11-07T00:27:00.764733+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:27:00.764733+08:00"
+}

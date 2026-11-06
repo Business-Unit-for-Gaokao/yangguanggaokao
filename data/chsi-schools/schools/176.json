@@ -1,0 +1,313 @@
+{
+  "schId": "176",
+  "学校名称": "沈阳体育学院",
+  "列表信息": {
+    "schId": "176",
+    "学校代码": "10176",
+    "学校名称": "沈阳体育学院",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/176",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 44,
+    "页码": 3,
+    "所在地": "辽宁",
+    "教育行政主管部门": "辽宁省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.6"
+  },
+  "网站字段": {
+    "官方网址": "http://www.ysu.edu.cn",
+    "招生网址": "https://zsjyc.ysu.edu.cn"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "http://www.ysu.edu.cn"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zsjyc.ysu.edu.cn"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/176",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "176"
+      },
+      "标题": "沈阳体育学院",
+      "原始文本": "院校库\n燕山大学\n2237人关注\n教育行政主管部门：\n河北省教育厅\n所在地：河北\n详细地址：河北省秦皇岛市河北大街438号\n官方网址：\nhttp://www.ysu.edu.cn\n招生网址：\nhttps://zsjyc.ysu.edu.cn\n官方电话：0335-8057069\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：燕山大学\n微信号：ysugfwx\n院校满意度\n4.3\n4227人\n综合满意度\n4.5\n5170人\n环境满意度\n3.5\n4190人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n产品设计\n5.0\n(14人)\n2\n雕塑\n4.8\n(12人)\n3\n会计学\n4.7\n(371人)\n4\n机械设计制造及其自动化\n4.7\n(788人)\n5\n社会体育指导与管理\n4.7\n(26人)\n6\n材料成型及控制工程\n4.6\n(111人)\n7\n视觉传达设计\n4.6\n(10人)\n8\n过程装备与控制工程\n4.6\n(41人)\n9\n金属材料工程\n4.6\n(141人)\n10\n电气工程及其自动化\n4.5\n(499人)\n查看更多\n考生咨询\nQ\n外语语种限制\nQ\n能源与动力工程\nQ\n退档\nQ\n中外合作办学\nQ\n高校专项计划\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "燕山大学",
+        "2237人关注",
+        "教育行政主管部门：",
+        "河北省教育厅",
+        "所在地：河北",
+        "详细地址：河北省秦皇岛市河北大街438号",
+        "官方网址：",
+        "http://www.ysu.edu.cn",
+        "招生网址：",
+        "https://zsjyc.ysu.edu.cn",
+        "官方电话：0335-8057069",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：燕山大学",
+        "微信号：ysugfwx",
+        "院校满意度",
+        "4.3",
+        "4227人",
+        "综合满意度",
+        "4.5",
+        "5170人",
+        "环境满意度",
+        "3.5",
+        "4190人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "产品设计",
+        "5.0",
+        "(14人)",
+        "2",
+        "雕塑",
+        "4.8",
+        "(12人)",
+        "3",
+        "会计学",
+        "4.7",
+        "(371人)",
+        "4",
+        "机械设计制造及其自动化",
+        "4.7",
+        "(788人)",
+        "5",
+        "社会体育指导与管理",
+        "4.7",
+        "(26人)",
+        "6",
+        "材料成型及控制工程",
+        "4.6",
+        "(111人)",
+        "7",
+        "视觉传达设计",
+        "4.6",
+        "(10人)",
+        "8",
+        "过程装备与控制工程",
+        "4.6",
+        "(41人)",
+        "9",
+        "金属材料工程",
+        "4.6",
+        "(141人)",
+        "10",
+        "电气工程及其自动化",
+        "4.5",
+        "(499人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "外语语种限制",
+        "Q",
+        "能源与动力工程",
+        "Q",
+        "退档",
+        "Q",
+        "中外合作办学",
+        "Q",
+        "高校专项计划",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "河北"
+        ],
+        "详细地址": [
+          "河北省秦皇岛市河北大街438号"
+        ],
+        "http": [
+          "//www.ysu.edu.cn"
+        ],
+        "https": [
+          "//zsjyc.ysu.edu.cn"
+        ],
+        "官方电话": [
+          "0335-8057069"
+        ],
+        "名称": [
+          "燕山大学"
+        ],
+        "微信号": [
+          "ysugfwx"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t3.chei.com.cn/common/xh/10216.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10216/wfpx80j2809e54vi"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "http://www.ysu.edu.cn",
+          "链接": "http://www.ysu.edu.cn"
+        },
+        {
+          "名称": "https://zsjyc.ysu.edu.cn",
+          "链接": "https://zsjyc.ysu.edu.cn"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "产品设计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395180&specId=421209035"
+        },
+        {
+          "名称": "雕塑",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395180&specId=73383643"
+        },
+        {
+          "名称": "会计学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395180&specId=73385284"
+        },
+        {
+          "名称": "机械设计制造及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395180&specId=73384204"
+        },
+        {
+          "名称": "社会体育指导与管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395180&specId=73383339"
+        },
+        {
+          "名称": "材料成型及控制工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395180&specId=73384208"
+        },
+        {
+          "名称": "视觉传达设计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395180&specId=421209027"
+        },
+        {
+          "名称": "过程装备与控制工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395180&specId=73384216"
+        },
+        {
+          "名称": "金属材料工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395180&specId=73384144"
+        },
+        {
+          "名称": "电气工程及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395180&specId=73384320"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=51745"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "http://www.ysu.edu.cn",
+        "招生网址": "https://zsjyc.ysu.edu.cn"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "http://www.ysu.edu.cn"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zsjyc.ysu.edu.cn"
+        }
+      ],
+      "官方电话": "0335-8057069",
+      "抓取时间": "2026-11-07T00:22:43.095424+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:22:43.095424+08:00"
+}

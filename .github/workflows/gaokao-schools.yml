@@ -50,6 +50,8 @@ jobs:
         id: run-automation
         continue-on-error: true
         env:
+          SOURCE_MODE: "wap"
+          OUTPUT_DIR: "output"
           START_MIN: "0"
           START_MAX: "2900"
           PAGE_STEP: "20"
@@ -65,6 +67,13 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+
+          if [ "${{ steps.run-automation.outcome }}" != "success" ]; then
+            echo "status=run_failed" >> "$GITHUB_OUTPUT"
+            echo "file_count=0" >> "$GITHUB_OUTPUT"
+            echo "The scraper run failed; cached output will not be promoted."
+            exit 0
+          fi
 
           if [ -d output ] && [ "$(find output -type f | wc -l)" -gt 0 ]; then
             file_count=$(find output -type f | wc -l | tr -d ' ')
@@ -83,7 +92,12 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p data/chsi-schools
-          rsync -av --delete output/ data/chsi-schools/
+          rsync -av --delete --delete-excluded \
+            --exclude='*.partial.json' \
+            --exclude='*.log' \
+            --exclude='*.html' \
+            --exclude='*.png' \
+            output/ data/chsi-schools/
 
       - name: Show changed files
         if: steps.check-results.outputs.status == 'success'

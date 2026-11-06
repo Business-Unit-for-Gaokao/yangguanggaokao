@@ -1,0 +1,316 @@
+{
+  "schId": "1437",
+  "学校名称": "长春工程学院",
+  "列表信息": {
+    "schId": "1437",
+    "学校代码": "11437",
+    "学校名称": "长春工程学院",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/1437",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 54,
+    "页码": 3,
+    "所在地": "吉林",
+    "教育行政主管部门": "吉林省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.0"
+  },
+  "网站字段": {
+    "官方网址": "https://www.cdnkxy.com/",
+    "招生网址": "https://zs.cdnkxy.edu.cn/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "https://www.cdnkxy.com/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://zs.cdnkxy.edu.cn/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/1437",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "1437"
+      },
+      "标题": "长春工程学院",
+      "原始文本": "院校库\n成都农业科技职业学院\n48人关注\n教育行政主管部门：\n四川省教育厅\n所在地：四川\n详细地址：四川省成都市温江区德通桥路392号\n官方网址：\nhttps://www.cdnkxy.com/\n招生网址：\nhttps://zs.cdnkxy.edu.cn/\n官方电话：028-82732146、82732147\n高招咨询\n招生章程\n高校专业选科要求\n直播信息\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：成都农业科技职业学院招生办公室\n微信号：000000\n院校满意度\n3.9\n1531人\n综合满意度\n3.9\n2250人\n环境满意度\n3.6\n1446人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n电气自动化技术\n4.4\n(34人)\n2\n动物营养与饲料\n4.4\n(63人)\n3\n畜牧兽医\n4.4\n(273人)\n4\n园林技术\n4.4\n(68人)\n5\n水产养殖技术\n4.3\n(31人)\n6\n园林工程技术\n4.2\n(114人)\n7\n市场营销\n4.2\n(60人)\n8\n旅游管理\n4.1\n(32人)\n9\n园艺技术\n4.1\n(77人)\n10\n建筑工程技术\n4.1\n(126人)\n查看更多\n考生咨询\nQ\n报考\nQ\n报名\nQ\n报考\nQ\n录取\nQ\n报考\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "成都农业科技职业学院",
+        "48人关注",
+        "教育行政主管部门：",
+        "四川省教育厅",
+        "所在地：四川",
+        "详细地址：四川省成都市温江区德通桥路392号",
+        "官方网址：",
+        "https://www.cdnkxy.com/",
+        "招生网址：",
+        "https://zs.cdnkxy.edu.cn/",
+        "官方电话：028-82732146、82732147",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "直播信息",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：成都农业科技职业学院招生办公室",
+        "微信号：000000",
+        "院校满意度",
+        "3.9",
+        "1531人",
+        "综合满意度",
+        "3.9",
+        "2250人",
+        "环境满意度",
+        "3.6",
+        "1446人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "电气自动化技术",
+        "4.4",
+        "(34人)",
+        "2",
+        "动物营养与饲料",
+        "4.4",
+        "(63人)",
+        "3",
+        "畜牧兽医",
+        "4.4",
+        "(273人)",
+        "4",
+        "园林技术",
+        "4.4",
+        "(68人)",
+        "5",
+        "水产养殖技术",
+        "4.3",
+        "(31人)",
+        "6",
+        "园林工程技术",
+        "4.2",
+        "(114人)",
+        "7",
+        "市场营销",
+        "4.2",
+        "(60人)",
+        "8",
+        "旅游管理",
+        "4.1",
+        "(32人)",
+        "9",
+        "园艺技术",
+        "4.1",
+        "(77人)",
+        "10",
+        "建筑工程技术",
+        "4.1",
+        "(126人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "报考",
+        "Q",
+        "报名",
+        "Q",
+        "报考",
+        "Q",
+        "录取",
+        "Q",
+        "报考",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "四川"
+        ],
+        "详细地址": [
+          "四川省成都市温江区德通桥路392号"
+        ],
+        "https": [
+          "//www.cdnkxy.com/",
+          "//zs.cdnkxy.edu.cn/"
+        ],
+        "官方电话": [
+          "028-82732146、82732147"
+        ],
+        "名称": [
+          "成都农业科技职业学院招生办公室"
+        ],
+        "微信号": [
+          "000000"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t3.chei.com.cn/common/xh/12965.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/gaokao/2026/wap/assets/images/yxxx_header_zb.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/12965/blcdb5dnhpanjwmt"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "https://www.cdnkxy.com/",
+          "链接": "https://www.cdnkxy.com/"
+        },
+        {
+          "名称": "https://zs.cdnkxy.edu.cn/",
+          "链接": "https://zs.cdnkxy.edu.cn/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "电气自动化技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73389900&specId=73386884"
+        },
+        {
+          "名称": "动物营养与饲料",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73389900&specId=73385600"
+        },
+        {
+          "名称": "畜牧兽医",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73389900&specId=73385592"
+        },
+        {
+          "名称": "园林技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73389900&specId=73385544"
+        },
+        {
+          "名称": "水产养殖技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73389900&specId=73385660"
+        },
+        {
+          "名称": "园林工程技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73389900&specId=73386548"
+        },
+        {
+          "名称": "市场营销",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73389900&specId=73387757"
+        },
+        {
+          "名称": "旅游管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73389900&specId=73388001"
+        },
+        {
+          "名称": "园艺技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73389900&specId=73385480"
+        },
+        {
+          "名称": "建筑工程技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73389900&specId=73386572"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=5394263"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "https://www.cdnkxy.com/",
+        "招生网址": "https://zs.cdnkxy.edu.cn/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "https://www.cdnkxy.com/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://zs.cdnkxy.edu.cn/"
+        }
+      ],
+      "官方电话": "028-82732146、82732147",
+      "抓取时间": "2026-11-07T00:25:19.763048+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:25:19.763048+08:00"
+}

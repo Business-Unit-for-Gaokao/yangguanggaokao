@@ -1,0 +1,318 @@
+{
+  "schId": "1802",
+  "学校名称": "黑龙江工程学院",
+  "列表信息": {
+    "schId": "1802",
+    "学校代码": "11802",
+    "学校名称": "黑龙江工程学院",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/1802",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 62,
+    "页码": 4,
+    "所在地": "黑龙江",
+    "教育行政主管部门": "黑龙江省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.0"
+  },
+  "网站字段": {
+    "官方网址": "http://www.sxct.edu.cn",
+    "招生网址": "https://bkzsw.sxct.edu.cn"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "http://www.sxct.edu.cn"
+    },
+    {
+      "site_type": "admissions",
+      "url": "https://bkzsw.sxct.edu.cn"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/1802",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "1802"
+      },
+      "标题": "黑龙江工程学院",
+      "原始文本": "院校库\n山西工学院\n295人关注\n教育行政主管部门：\n山西省教育厅\n所在地：山西\n详细地址：山西省朔州市开发区长宁街11号\n官方网址：\nhttp://www.sxct.edu.cn\n招生网址：\nhttps://bkzsw.sxct.edu.cn\n官方电话：0349-5686167\n高招咨询\n招生章程\n高校专业选科要求\n直播信息\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：山西工学院本科招生\n微信号：gh_653d0df2e678\n院校满意度\n3.7\n1045人\n综合满意度\n3.6\n1427人\n环境满意度\n3.1\n1016人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n体育教育\n4.7\n(16人)\n2\n水文与水资源工程\n4.7\n(10人)\n3\n电气工程及其自动化\n4.7\n(109人)\n4\n能源与动力工程\n4.6\n(19人)\n5\n法学\n4.5\n(32人)\n6\n化学工程与工艺\n4.5\n(25人)\n7\n国际经济与贸易\n4.4\n(39人)\n8\n车辆工程\n4.4\n(44人)\n9\n通信工程\n4.3\n(35人)\n10\n会计学\n4.3\n(49人)\n查看更多\n考生咨询\nQ\n录取\nQ\n1\nQ\n1\nQ\n物化生男470\nQ\n录取\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "山西工学院",
+        "295人关注",
+        "教育行政主管部门：",
+        "山西省教育厅",
+        "所在地：山西",
+        "详细地址：山西省朔州市开发区长宁街11号",
+        "官方网址：",
+        "http://www.sxct.edu.cn",
+        "招生网址：",
+        "https://bkzsw.sxct.edu.cn",
+        "官方电话：0349-5686167",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "直播信息",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：山西工学院本科招生",
+        "微信号：gh_653d0df2e678",
+        "院校满意度",
+        "3.7",
+        "1045人",
+        "综合满意度",
+        "3.6",
+        "1427人",
+        "环境满意度",
+        "3.1",
+        "1016人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "体育教育",
+        "4.7",
+        "(16人)",
+        "2",
+        "水文与水资源工程",
+        "4.7",
+        "(10人)",
+        "3",
+        "电气工程及其自动化",
+        "4.7",
+        "(109人)",
+        "4",
+        "能源与动力工程",
+        "4.6",
+        "(19人)",
+        "5",
+        "法学",
+        "4.5",
+        "(32人)",
+        "6",
+        "化学工程与工艺",
+        "4.5",
+        "(25人)",
+        "7",
+        "国际经济与贸易",
+        "4.4",
+        "(39人)",
+        "8",
+        "车辆工程",
+        "4.4",
+        "(44人)",
+        "9",
+        "通信工程",
+        "4.3",
+        "(35人)",
+        "10",
+        "会计学",
+        "4.3",
+        "(49人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "录取",
+        "Q",
+        "1",
+        "Q",
+        "1",
+        "Q",
+        "物化生男470",
+        "Q",
+        "录取",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "山西"
+        ],
+        "详细地址": [
+          "山西省朔州市开发区长宁街11号"
+        ],
+        "http": [
+          "//www.sxct.edu.cn"
+        ],
+        "https": [
+          "//bkzsw.sxct.edu.cn"
+        ],
+        "官方电话": [
+          "0349-5686167"
+        ],
+        "名称": [
+          "山西工学院本科招生"
+        ],
+        "微信号": [
+          "gh_653d0df2e678"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/xh/13534.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/gaokao/2026/wap/assets/images/yxxx_header_zb.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/13534/4cesg8byyyx9rptz"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "http://www.sxct.edu.cn",
+          "链接": "http://www.sxct.edu.cn"
+        },
+        {
+          "名称": "https://bkzsw.sxct.edu.cn",
+          "链接": "https://bkzsw.sxct.edu.cn"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "体育教育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73391104&specId=73383331"
+        },
+        {
+          "名称": "水文与水资源工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73391104&specId=73384532"
+        },
+        {
+          "名称": "电气工程及其自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73391104&specId=73384320"
+        },
+        {
+          "名称": "能源与动力工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73391104&specId=437286996"
+        },
+        {
+          "名称": "法学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73391104&specId=73381155"
+        },
+        {
+          "名称": "化学工程与工艺",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73391104&specId=73384596"
+        },
+        {
+          "名称": "国际经济与贸易",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73391104&specId=73381083"
+        },
+        {
+          "名称": "车辆工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73391104&specId=73384224"
+        },
+        {
+          "名称": "通信工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73391104&specId=73384332"
+        },
+        {
+          "名称": "会计学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73391104&specId=73385284"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=1237651"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "http://www.sxct.edu.cn",
+        "招生网址": "https://bkzsw.sxct.edu.cn"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "http://www.sxct.edu.cn"
+        },
+        {
+          "site_type": "admissions",
+          "url": "https://bkzsw.sxct.edu.cn"
+        }
+      ],
+      "官方电话": "0349-5686167",
+      "抓取时间": "2026-11-07T00:27:19.675641+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:27:19.675641+08:00"
+}

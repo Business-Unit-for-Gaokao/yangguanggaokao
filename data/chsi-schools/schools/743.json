@@ -1,0 +1,284 @@
+{
+  "schId": "743",
+  "学校名称": "青海大学",
+  "列表信息": {
+    "schId": "743",
+    "学校代码": "10743",
+    "学校名称": "青海大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/743",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 285,
+    "页码": 15,
+    "所在地": "青海",
+    "教育行政主管部门": "青海省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科",
+      "“双一流”建设高校"
+    ],
+    "满意度": "3.9"
+  },
+  "网站字段": {
+    "官方网址": "http://www.hepec.edu.cn",
+    "招生网址": "http://zsxx.hepec.edu.cn"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "http://www.hepec.edu.cn"
+    },
+    {
+      "site_type": "admissions",
+      "url": "http://zsxx.hepec.edu.cn"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/743",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "743"
+      },
+      "标题": "青海大学",
+      "原始文本": "院校库\n河北体育学院\n69人关注\n教育行政主管部门：\n河北省教育厅\n所在地：河北\n详细地址：河北省石家庄市学府路82号(邮编050041)\n官方网址：\nhttp://www.hepec.edu.cn\n招生网址：\nhttp://zsxx.hepec.edu.cn\n官方电话：031189849188\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n院校满意度\n4.3\n978人\n综合满意度\n4.3\n1292人\n环境满意度\n4.2\n912人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n运动训练\n4.9\n(46人)\n2\n武术与民族传统体育\n4.8\n(55人)\n3\n运动训练\n4.8\n(437人)\n4\n体育教育\n4.6\n(711人)\n5\n舞蹈表演\n4.6\n(39人)\n6\n体育教育\n4.5\n(48人)\n7\n社会体育指导与管理\n4.4\n(308人)\n8\n休闲体育\n4.0\n(23人)\n9\n英语\n3.8\n(71人)\n10\n运动人体科学\n3.4\n(45人)\n查看更多\n考生咨询\nQ\n石家庄舞蹈表演专业咨询\nQ\n湖南物理类体育生\nQ\n可以录取吗\nQ\n录取问题\nQ\n是否能录\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "河北体育学院",
+        "69人关注",
+        "教育行政主管部门：",
+        "河北省教育厅",
+        "所在地：河北",
+        "详细地址：河北省石家庄市学府路82号(邮编050041)",
+        "官方网址：",
+        "http://www.hepec.edu.cn",
+        "招生网址：",
+        "http://zsxx.hepec.edu.cn",
+        "官方电话：031189849188",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "院校满意度",
+        "4.3",
+        "978人",
+        "综合满意度",
+        "4.3",
+        "1292人",
+        "环境满意度",
+        "4.2",
+        "912人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "运动训练",
+        "4.9",
+        "(46人)",
+        "2",
+        "武术与民族传统体育",
+        "4.8",
+        "(55人)",
+        "3",
+        "运动训练",
+        "4.8",
+        "(437人)",
+        "4",
+        "体育教育",
+        "4.6",
+        "(711人)",
+        "5",
+        "舞蹈表演",
+        "4.6",
+        "(39人)",
+        "6",
+        "体育教育",
+        "4.5",
+        "(48人)",
+        "7",
+        "社会体育指导与管理",
+        "4.4",
+        "(308人)",
+        "8",
+        "休闲体育",
+        "4.0",
+        "(23人)",
+        "9",
+        "英语",
+        "3.8",
+        "(71人)",
+        "10",
+        "运动人体科学",
+        "3.4",
+        "(45人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "石家庄舞蹈表演专业咨询",
+        "Q",
+        "湖南物理类体育生",
+        "Q",
+        "可以录取吗",
+        "Q",
+        "录取问题",
+        "Q",
+        "是否能录",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "河北"
+        ],
+        "详细地址": [
+          "河北省石家庄市学府路82号(邮编050041)"
+        ],
+        "http": [
+          "//www.hepec.edu.cn",
+          "//zsxx.hepec.edu.cn"
+        ],
+        "官方电话": [
+          "031189849188"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t3.chei.com.cn/common/xh/11236.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "http://www.hepec.edu.cn",
+          "链接": "http://www.hepec.edu.cn"
+        },
+        {
+          "名称": "http://zsxx.hepec.edu.cn",
+          "链接": "http://zsxx.hepec.edu.cn"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "运动训练",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73397278&specId=73383335"
+        },
+        {
+          "名称": "体育教育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73397278&specId=73383331"
+        },
+        {
+          "名称": "体育教育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73397278&specId=73388361"
+        },
+        {
+          "名称": "社会体育指导与管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73397278&specId=73383339"
+        },
+        {
+          "名称": "休闲体育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73397278&specId=73383355"
+        },
+        {
+          "名称": "英语",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73397278&specId=73383483"
+        },
+        {
+          "名称": "运动人体科学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73397278&specId=73383343"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=488833"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "http://www.hepec.edu.cn",
+        "招生网址": "http://zsxx.hepec.edu.cn"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "http://www.hepec.edu.cn"
+        },
+        {
+          "site_type": "admissions",
+          "url": "http://zsxx.hepec.edu.cn"
+        }
+      ],
+      "官方电话": "031189849188",
+      "抓取时间": "2026-11-07T01:35:06.180390+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T01:35:06.180390+08:00"
+}

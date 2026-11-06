@@ -1,0 +1,316 @@
+{
+  "schId": "1035",
+  "学校名称": "沈阳大学",
+  "列表信息": {
+    "schId": "1035",
+    "学校代码": "11035",
+    "学校名称": "沈阳大学",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/1035",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 45,
+    "页码": 3,
+    "所在地": "辽宁",
+    "教育行政主管部门": "辽宁省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.3"
+  },
+  "网站字段": {
+    "官方网址": "http://www.whsw.edu.cn/",
+    "招生网址": "http://www.whsw.edu.cn/zsw/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "http://www.whsw.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "http://www.whsw.edu.cn/zsw/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/1035",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "1035"
+      },
+      "标题": "沈阳大学",
+      "原始文本": "院校库\n武汉生物工程学院\n164人关注\n教育行政主管部门：\n湖北省教育厅\n所在地：湖北\n详细地址：湖北省武汉长江新区汉施路1号 邮编：430415\n官方网址：\nhttp://www.whsw.edu.cn/\n招生网址：\nhttp://www.whsw.edu.cn/zsw/\n官方电话：027-89646001 89646002、89646003、89646004、89646005、89646006、89646007、89646008\n高招咨询\n招生章程\n高校专业选科要求\n直播信息\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n微信\n微博\n百家号\n新媒体\n名称：武汉生物工程学院招生就业\n微信号：whswzsjy\n院校满意度\n4\n3970人\n综合满意度\n4.5\n4908人\n环境满意度\n3.7\n3841人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n社会体育\n4.4\n(71人)\n2\n汉语言文学\n4.3\n(11人)\n3\n工程造价\n4.2\n(23人)\n4\n环境设计\n4.2\n(26人)\n5\n生物工程\n4.1\n(615人)\n6\n药品经营与管理\n4.1\n(129人)\n7\n市场营销\n4.1\n(168人)\n8\n制药工程\n4.1\n(470人)\n9\n视觉传达设计\n4.0\n(21人)\n10\n计算机应用技术\n4.0\n(128人)\n查看更多\n考生咨询\nQ\n代码\nQ\n录取\nQ\n录取\nQ\n录取\nQ\n报考\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "武汉生物工程学院",
+        "164人关注",
+        "教育行政主管部门：",
+        "湖北省教育厅",
+        "所在地：湖北",
+        "详细地址：湖北省武汉长江新区汉施路1号 邮编：430415",
+        "官方网址：",
+        "http://www.whsw.edu.cn/",
+        "招生网址：",
+        "http://www.whsw.edu.cn/zsw/",
+        "官方电话：027-89646001 89646002、89646003、89646004、89646005、89646006、89646007、89646008",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "直播信息",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：武汉生物工程学院招生就业",
+        "微信号：whswzsjy",
+        "院校满意度",
+        "4",
+        "3970人",
+        "综合满意度",
+        "4.5",
+        "4908人",
+        "环境满意度",
+        "3.7",
+        "3841人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "社会体育",
+        "4.4",
+        "(71人)",
+        "2",
+        "汉语言文学",
+        "4.3",
+        "(11人)",
+        "3",
+        "工程造价",
+        "4.2",
+        "(23人)",
+        "4",
+        "环境设计",
+        "4.2",
+        "(26人)",
+        "5",
+        "生物工程",
+        "4.1",
+        "(615人)",
+        "6",
+        "药品经营与管理",
+        "4.1",
+        "(129人)",
+        "7",
+        "市场营销",
+        "4.1",
+        "(168人)",
+        "8",
+        "制药工程",
+        "4.1",
+        "(470人)",
+        "9",
+        "视觉传达设计",
+        "4.0",
+        "(21人)",
+        "10",
+        "计算机应用技术",
+        "4.0",
+        "(128人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "代码",
+        "Q",
+        "录取",
+        "Q",
+        "录取",
+        "Q",
+        "录取",
+        "Q",
+        "报考",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "湖北"
+        ],
+        "详细地址": [
+          "湖北省武汉长江新区汉施路1号 邮编：430415"
+        ],
+        "http": [
+          "//www.whsw.edu.cn/",
+          "//www.whsw.edu.cn/zsw/"
+        ],
+        "官方电话": [
+          "027-89646001 89646002、89646003、89646004、89646005、89646006、89646007、89646008"
+        ],
+        "名称": [
+          "武汉生物工程学院招生就业"
+        ],
+        "微信号": [
+          "whswzsjy"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/xh/12362.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/gaokao/2026/wap/assets/images/yxxx_header_zb.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/12362/anhdsl9wxgbtjhpu"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "http://www.whsw.edu.cn/",
+          "链接": "http://www.whsw.edu.cn/"
+        },
+        {
+          "名称": "http://www.whsw.edu.cn/zsw/",
+          "链接": "http://www.whsw.edu.cn/zsw/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "社会体育",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398298&specId=73388457"
+        },
+        {
+          "名称": "汉语言文学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398298&specId=73383455"
+        },
+        {
+          "名称": "工程造价",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398298&specId=73385252"
+        },
+        {
+          "名称": "环境设计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398298&specId=421209023"
+        },
+        {
+          "名称": "生物工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398298&specId=73384828"
+        },
+        {
+          "名称": "药品经营与管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398298&specId=73386116"
+        },
+        {
+          "名称": "市场营销",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398298&specId=73387757"
+        },
+        {
+          "名称": "制药工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398298&specId=73384600"
+        },
+        {
+          "名称": "视觉传达设计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398298&specId=421209027"
+        },
+        {
+          "名称": "计算机应用技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73398298&specId=73387048"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=401368"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "http://www.whsw.edu.cn/",
+        "招生网址": "http://www.whsw.edu.cn/zsw/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "http://www.whsw.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "http://www.whsw.edu.cn/zsw/"
+        }
+      ],
+      "官方电话": "027-89646001 89646002、89646003、89646004、89646005、89646006、89646007、89646008",
+      "抓取时间": "2026-11-07T00:22:57.115732+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:22:57.115732+08:00"
+}

@@ -1,0 +1,295 @@
+{
+  "schId": "1534",
+  "学校名称": "湖南警察学院",
+  "列表信息": {
+    "schId": "1534",
+    "学校代码": "11534",
+    "学校名称": "湖南警察学院",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/1534",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 188,
+    "页码": 10,
+    "所在地": "湖南",
+    "教育行政主管部门": "湖南省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "3.8"
+  },
+  "网站字段": {
+    "官方网址": "http://www.jsafc.edu.cn",
+    "招生网址": "http://zsw.jsafc.edu.cn"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "http://www.jsafc.edu.cn"
+    },
+    {
+      "site_type": "admissions",
+      "url": "http://zsw.jsafc.edu.cn"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/1534",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "1534"
+      },
+      "标题": "湖南警察学院",
+      "原始文本": "院校库\n江苏农林职业技术学院\n64人关注\n教育行政主管部门：\n江苏省教育厅\n所在地：江苏\n详细地址：江苏省句容市文昌东路19号\n官方网址：\nhttp://www.jsafc.edu.cn\n招生网址：\nhttp://zsw.jsafc.edu.cn\n官方电话：4001056166\n高招咨询\n招生章程\n高校专业选科要求\n微信\n微博\n百家号\n新媒体\n名称：江苏农林\n微信号：jsafc-admin\n院校满意度\n4.4\n1445人\n综合满意度\n4.5\n2018人\n环境满意度\n4.2\n1378人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n作物生产与经营管理\n4.7\n(27人)\n2\n畜牧兽医\n4.6\n(64人)\n3\n环境艺术设计\n4.6\n(17人)\n4\n园林工程技术\n4.6\n(29人)\n5\n动物医学\n4.6\n(18人)\n6\n工程造价\n4.6\n(14人)\n7\n园艺技术\n4.5\n(41人)\n8\n园林技术\n4.5\n(71人)\n9\n电气自动化技术\n4.5\n(25人)\n10\n物联网应用技术\n4.4\n(12人)\n查看更多\n考生咨询\nQ\n宿舍与山东考生报考\nQ\n江苏物理431分\nQ\n咨询\nQ\n新疆\nQ\n咨询\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "江苏农林职业技术学院",
+        "64人关注",
+        "教育行政主管部门：",
+        "江苏省教育厅",
+        "所在地：江苏",
+        "详细地址：江苏省句容市文昌东路19号",
+        "官方网址：",
+        "http://www.jsafc.edu.cn",
+        "招生网址：",
+        "http://zsw.jsafc.edu.cn",
+        "官方电话：4001056166",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：江苏农林",
+        "微信号：jsafc-admin",
+        "院校满意度",
+        "4.4",
+        "1445人",
+        "综合满意度",
+        "4.5",
+        "2018人",
+        "环境满意度",
+        "4.2",
+        "1378人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "作物生产与经营管理",
+        "4.7",
+        "(27人)",
+        "2",
+        "畜牧兽医",
+        "4.6",
+        "(64人)",
+        "3",
+        "环境艺术设计",
+        "4.6",
+        "(17人)",
+        "4",
+        "园林工程技术",
+        "4.6",
+        "(29人)",
+        "5",
+        "动物医学",
+        "4.6",
+        "(18人)",
+        "6",
+        "工程造价",
+        "4.6",
+        "(14人)",
+        "7",
+        "园艺技术",
+        "4.5",
+        "(41人)",
+        "8",
+        "园林技术",
+        "4.5",
+        "(71人)",
+        "9",
+        "电气自动化技术",
+        "4.5",
+        "(25人)",
+        "10",
+        "物联网应用技术",
+        "4.4",
+        "(12人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "宿舍与山东考生报考",
+        "Q",
+        "江苏物理431分",
+        "Q",
+        "咨询",
+        "Q",
+        "新疆",
+        "Q",
+        "咨询",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "江苏"
+        ],
+        "详细地址": [
+          "江苏省句容市文昌东路19号"
+        ],
+        "http": [
+          "//www.jsafc.edu.cn",
+          "//zsw.jsafc.edu.cn"
+        ],
+        "官方电话": [
+          "4001056166"
+        ],
+        "名称": [
+          "江苏农林"
+        ],
+        "微信号": [
+          "jsafc-admin"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/xh/13103.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/13103/xalte9khih6wrerk"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "http://www.jsafc.edu.cn",
+          "链接": "http://www.jsafc.edu.cn"
+        },
+        {
+          "名称": "http://zsw.jsafc.edu.cn",
+          "链接": "http://zsw.jsafc.edu.cn"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "作物生产与经营管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73390268&specId=73385464"
+        },
+        {
+          "名称": "畜牧兽医",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73390268&specId=73385592"
+        },
+        {
+          "名称": "环境艺术设计",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73390268&specId=73386544"
+        },
+        {
+          "名称": "园林工程技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73390268&specId=73386548"
+        },
+        {
+          "名称": "动物医学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73390268&specId=73385624"
+        },
+        {
+          "名称": "工程造价",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73390268&specId=73386624"
+        },
+        {
+          "名称": "园艺技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73390268&specId=73385480"
+        },
+        {
+          "名称": "园林技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73390268&specId=73385544"
+        },
+        {
+          "名称": "电气自动化技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73390268&specId=73386884"
+        },
+        {
+          "名称": "物联网应用技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73390268&specId=213805389"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=81099"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "http://www.jsafc.edu.cn",
+        "招生网址": "http://zsw.jsafc.edu.cn"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "http://www.jsafc.edu.cn"
+        },
+        {
+          "site_type": "admissions",
+          "url": "http://zsw.jsafc.edu.cn"
+        }
+      ],
+      "官方电话": "4001056166",
+      "抓取时间": "2026-11-07T01:00:03.352557+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T01:00:03.352557+08:00"
+}

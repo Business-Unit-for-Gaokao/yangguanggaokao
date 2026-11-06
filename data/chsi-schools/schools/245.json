@@ -1,0 +1,317 @@
+{
+  "schId": "245",
+  "学校名称": "哈尔滨金融学院",
+  "列表信息": {
+    "schId": "245",
+    "学校代码": "10245",
+    "学校名称": "哈尔滨金融学院",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/245",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 61,
+    "页码": 4,
+    "所在地": "黑龙江",
+    "教育行政主管部门": "黑龙江省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "3.9"
+  },
+  "网站字段": {
+    "官方网址": "http://www.cpu.edu.cn/",
+    "招生网址": "http://zb.cpu.edu.cn/"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "http://www.cpu.edu.cn/"
+    },
+    {
+      "site_type": "admissions",
+      "url": "http://zb.cpu.edu.cn/"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/245",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "245"
+      },
+      "标题": "哈尔滨金融学院",
+      "原始文本": "院校库\n中国药科大学\n3326人关注\n教育行政主管部门：\n教育部\n“双一流”建设高校\n所在地：江苏\n详细地址：江苏省南京市鼓楼区中央路童家巷24号（玄武门校区）\n江苏省南京市江宁区龙眠大道639号（江宁校区）\n官方网址：\nhttp://www.cpu.edu.cn/\n招生网址：\nhttp://zb.cpu.edu.cn/\n官方电话：025-83271319、83271422\n高招咨询\n招生章程\n高校专业选科要求\n招办访谈\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n宣传视频\n星耀未来\n中国药科大学本科招生宣传大片《星耀未来》\n微信\n微博\n百家号\n新媒体\n名称：中国药科大学本科招生办\n微信号：cpuzsb\n院校满意度\n4.3\n1510人\n综合满意度\n4.4\n1790人\n环境满意度\n4.2\n1467人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n药事管理\n4.6\n(33人)\n2\n药学类\n4.6\n(30人)\n3\n药品经营与管理\n4.5\n(13人)\n4\n临床药学\n4.4\n(31人)\n5\n药物化学\n4.4\n(51人)\n6\n制药工程\n4.4\n(53人)\n7\n药学\n4.4\n(203人)\n8\n药物制剂\n4.3\n(112人)\n9\n国际经济与贸易\n4.2\n(45人)\n10\n药物分析\n4.1\n(34人)\n查看更多\n考生咨询\nQ\n报考\nQ\n同一专业组的不同专业录取分数相同吗\nQ\n山西考生位次7485上生物制药拔尖创新班希望大吗\nQ\n中药学类分流\nQ\n报考\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "中国药科大学",
+        "3326人关注",
+        "教育行政主管部门：",
+        "教育部",
+        "“双一流”建设高校",
+        "所在地：江苏",
+        "详细地址：江苏省南京市鼓楼区中央路童家巷24号（玄武门校区）",
+        "江苏省南京市江宁区龙眠大道639号（江宁校区）",
+        "官方网址：",
+        "http://www.cpu.edu.cn/",
+        "招生网址：",
+        "http://zb.cpu.edu.cn/",
+        "官方电话：025-83271319、83271422",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "招办访谈",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "宣传视频",
+        "星耀未来",
+        "中国药科大学本科招生宣传大片《星耀未来》",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：中国药科大学本科招生办",
+        "微信号：cpuzsb",
+        "院校满意度",
+        "4.3",
+        "1510人",
+        "综合满意度",
+        "4.4",
+        "1790人",
+        "环境满意度",
+        "4.2",
+        "1467人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "药事管理",
+        "4.6",
+        "(33人)",
+        "2",
+        "药学类",
+        "4.6",
+        "(30人)",
+        "3",
+        "药品经营与管理",
+        "4.5",
+        "(13人)",
+        "4",
+        "临床药学",
+        "4.4",
+        "(31人)",
+        "5",
+        "药物化学",
+        "4.4",
+        "(51人)",
+        "6",
+        "制药工程",
+        "4.4",
+        "(53人)",
+        "7",
+        "药学",
+        "4.4",
+        "(203人)",
+        "8",
+        "药物制剂",
+        "4.3",
+        "(112人)",
+        "9",
+        "国际经济与贸易",
+        "4.2",
+        "(45人)",
+        "10",
+        "药物分析",
+        "4.1",
+        "(34人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "报考",
+        "Q",
+        "同一专业组的不同专业录取分数相同吗",
+        "Q",
+        "山西考生位次7485上生物制药拔尖创新班希望大吗",
+        "Q",
+        "中药学类分流",
+        "Q",
+        "报考",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "江苏"
+        ],
+        "详细地址": [
+          "江苏省南京市鼓楼区中央路童家巷24号（玄武门校区）"
+        ],
+        "http": [
+          "//www.cpu.edu.cn/",
+          "//zb.cpu.edu.cn/"
+        ],
+        "官方电话": [
+          "025-83271319、83271422"
+        ],
+        "名称": [
+          "中国药科大学本科招生办"
+        ],
+        "微信号": [
+          "cpuzsb"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t3.chei.com.cn/common/xh/10316.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10316/nmscphs16x1n3gnl"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "http://www.cpu.edu.cn/",
+          "链接": "http://www.cpu.edu.cn/"
+        },
+        {
+          "名称": "http://zb.cpu.edu.cn/",
+          "链接": "http://zb.cpu.edu.cn/"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "药事管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395446&specId=73385220"
+        },
+        {
+          "名称": "药学类",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395446&specId=73385180"
+        },
+        {
+          "名称": "药品经营与管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395446&specId=73386116"
+        },
+        {
+          "名称": "临床药学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395446&specId=73385212"
+        },
+        {
+          "名称": "药物化学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395446&specId=213778898"
+        },
+        {
+          "名称": "制药工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395446&specId=73384600"
+        },
+        {
+          "名称": "药学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395446&specId=73385188"
+        },
+        {
+          "名称": "药物制剂",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395446&specId=73385196"
+        },
+        {
+          "名称": "国际经济与贸易",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395446&specId=73381083"
+        },
+        {
+          "名称": "药物分析",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395446&specId=213778894"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=63530"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "http://www.cpu.edu.cn/",
+        "招生网址": "http://zb.cpu.edu.cn/"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "http://www.cpu.edu.cn/"
+        },
+        {
+          "site_type": "admissions",
+          "url": "http://zb.cpu.edu.cn/"
+        }
+      ],
+      "官方电话": "025-83271319、83271422",
+      "抓取时间": "2026-11-07T00:27:07.172948+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:27:07.172948+08:00"
+}

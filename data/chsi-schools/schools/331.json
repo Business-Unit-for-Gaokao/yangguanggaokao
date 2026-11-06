@@ -1,0 +1,319 @@
+{
+  "schId": "331",
+  "学校名称": "南京艺术学院",
+  "列表信息": {
+    "schId": "331",
+    "学校代码": "10331",
+    "学校名称": "南京艺术学院",
+    "主页链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/331",
+    "搜索页": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+    "start": 77,
+    "页码": 4,
+    "所在地": "江苏",
+    "教育行政主管部门": "江苏省教育厅",
+    "办学层次": "本科",
+    "院校特性": [
+      "本科"
+    ],
+    "满意度": "4.4"
+  },
+  "网站字段": {
+    "官方网址": "http://www.ouc.edu.cn/main.htm",
+    "招生网址": "http://bkzs.ouc.edu.cn/main.htm"
+  },
+  "网站链接": [
+    {
+      "site_type": "official",
+      "url": "http://www.ouc.edu.cn/main.htm"
+    },
+    {
+      "site_type": "admissions",
+      "url": "http://bkzs.ouc.edu.cn/main.htm"
+    }
+  ],
+  "详情页总数": 1,
+  "页面类型统计": {
+    "wap_school_detail": 1
+  },
+  "页面列表": [
+    {
+      "链接": "https://gaokao.chsi.com.cn/wap/sch/schinfomain/331",
+      "发现来源": "https://gaokao.chsi.com.cn/wap/sch/schlist",
+      "页面标识": {
+        "page_type": "wap_school_detail",
+        "page_family": "wap",
+        "schId": "331"
+      },
+      "标题": "南京艺术学院",
+      "原始文本": "院校库\n中国海洋大学\n9393人关注\n教育行政主管部门：\n教育部\n“双一流”建设高校\n所在地：山东\n详细地址：地址：山东省青岛市松岭路238号\n邮编：266100\n官方网址：\nhttp://www.ouc.edu.cn/main.htm\n招生网址：\nhttp://bkzs.ouc.edu.cn/main.htm\n官方电话：0532-66782426/66782478/66781723\n高招咨询\n招生章程\n高校专业选科要求\n学校首页\n学校简介\n院系设置\n专业介绍\n录取规则\n奖学金设置\n食宿条件\n联系办法\n答考生问\n收费项目\n毕业生就业\n基础设施\n公示栏\n体检要求\n录取结果公示\n其他\n宣传视频\n中国海洋大学2026年招生宣传视频\n中国海洋大学2026年招生宣传视频\n微信\n微博\n百家号\n新媒体\n名称：中国海洋大学本科招生\n微信号：ouc_zsb\n院校满意度\n4.2\n3289人\n综合满意度\n4.5\n3855人\n环境满意度\n3.7\n3246人\n生活满意度\n查看更多\n专业满意度\n专业推荐指数\n专业推荐人数\n1\n运动训练\n4.8\n(52人)\n2\n财务管理\n4.6\n(130人)\n3\n工程管理\n4.5\n(77人)\n4\n音乐表演\n4.5\n(94人)\n5\n自动化\n4.5\n(151人)\n6\n港口航道与海岸工程\n4.5\n(151人)\n7\n轮机工程\n4.5\n(15人)\n8\n会计学\n4.4\n(313人)\n9\n电子信息工程\n4.3\n(119人)\n10\n计算机科学与技术\n4.3\n(285人)\n查看更多\n考生咨询\nQ\n青海少数民族预科班咨询\nQ\n提前批轮机工程\nQ\n关于志愿填报\nQ\n安徽物化生624分排名15462，能上理工类吗\nQ\n提前批轮机工程\n查看更多\n主办单位：\n教育部学生服务与素质发展中心\nCopyright © 2003-\n2026\n学信网\nAll Rights Reserved\n加载中...",
+      "文本行": [
+        "院校库",
+        "中国海洋大学",
+        "9393人关注",
+        "教育行政主管部门：",
+        "教育部",
+        "“双一流”建设高校",
+        "所在地：山东",
+        "详细地址：地址：山东省青岛市松岭路238号",
+        "邮编：266100",
+        "官方网址：",
+        "http://www.ouc.edu.cn/main.htm",
+        "招生网址：",
+        "http://bkzs.ouc.edu.cn/main.htm",
+        "官方电话：0532-66782426/66782478/66781723",
+        "高招咨询",
+        "招生章程",
+        "高校专业选科要求",
+        "学校首页",
+        "学校简介",
+        "院系设置",
+        "专业介绍",
+        "录取规则",
+        "奖学金设置",
+        "食宿条件",
+        "联系办法",
+        "答考生问",
+        "收费项目",
+        "毕业生就业",
+        "基础设施",
+        "公示栏",
+        "体检要求",
+        "录取结果公示",
+        "其他",
+        "宣传视频",
+        "中国海洋大学2026年招生宣传视频",
+        "中国海洋大学2026年招生宣传视频",
+        "微信",
+        "微博",
+        "百家号",
+        "新媒体",
+        "名称：中国海洋大学本科招生",
+        "微信号：ouc_zsb",
+        "院校满意度",
+        "4.2",
+        "3289人",
+        "综合满意度",
+        "4.5",
+        "3855人",
+        "环境满意度",
+        "3.7",
+        "3246人",
+        "生活满意度",
+        "查看更多",
+        "专业满意度",
+        "专业推荐指数",
+        "专业推荐人数",
+        "1",
+        "运动训练",
+        "4.8",
+        "(52人)",
+        "2",
+        "财务管理",
+        "4.6",
+        "(130人)",
+        "3",
+        "工程管理",
+        "4.5",
+        "(77人)",
+        "4",
+        "音乐表演",
+        "4.5",
+        "(94人)",
+        "5",
+        "自动化",
+        "4.5",
+        "(151人)",
+        "6",
+        "港口航道与海岸工程",
+        "4.5",
+        "(151人)",
+        "7",
+        "轮机工程",
+        "4.5",
+        "(15人)",
+        "8",
+        "会计学",
+        "4.4",
+        "(313人)",
+        "9",
+        "电子信息工程",
+        "4.3",
+        "(119人)",
+        "10",
+        "计算机科学与技术",
+        "4.3",
+        "(285人)",
+        "查看更多",
+        "考生咨询",
+        "Q",
+        "青海少数民族预科班咨询",
+        "Q",
+        "提前批轮机工程",
+        "Q",
+        "关于志愿填报",
+        "Q",
+        "安徽物化生624分排名15462，能上理工类吗",
+        "Q",
+        "提前批轮机工程",
+        "查看更多",
+        "主办单位：",
+        "教育部学生服务与素质发展中心",
+        "Copyright © 2003-",
+        "2026",
+        "学信网",
+        "All Rights Reserved",
+        "加载中..."
+      ],
+      "结构化字段": {
+        "所在地": [
+          "山东"
+        ],
+        "详细地址": [
+          "地址：山东省青岛市松岭路238号"
+        ],
+        "邮编": [
+          "266100"
+        ],
+        "http": [
+          "//www.ouc.edu.cn/main.htm",
+          "//bkzs.ouc.edu.cn/main.htm"
+        ],
+        "官方电话": [
+          "0532-66782426/66782478/66781723"
+        ],
+        "名称": [
+          "中国海洋大学本科招生"
+        ],
+        "微信号": [
+          "ouc_zsb"
+        ]
+      },
+      "表格": [],
+      "图片": [
+        {
+          "alt": "阳光高考",
+          "src": "https://t1.chei.com.cn/common/wap/images/news_logo_gk.png"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/icon-search-wap.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-menu.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/xh/10423.jpg"
+        },
+        {
+          "alt": "",
+          "src": "https://gaokao.chsi.com.cn/wap/gdwz/downloadjbxxfile/10423/pjb6rbdfl7vzo4em"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/wap-icon/nav-close.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t2.chei.com.cn/common/images/wap-icon/nav-next.svg"
+        },
+        {
+          "alt": "",
+          "src": "https://t1.chei.com.cn/common/images/icon-back.svg"
+        }
+      ],
+      "同校页面链接": [],
+      "其他链接": [
+        {
+          "名称": "",
+          "链接": "https://gaokao.chsi.com.cn/wap/"
+        },
+        {
+          "名称": "http://www.ouc.edu.cn/main.htm",
+          "链接": "http://www.ouc.edu.cn/main.htm"
+        },
+        {
+          "名称": "http://bkzs.ouc.edu.cn/main.htm",
+          "链接": "http://bkzs.ouc.edu.cn/main.htm"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/schAppraisalTop.action"
+        },
+        {
+          "名称": "运动训练",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395756&specId=73383335"
+        },
+        {
+          "名称": "财务管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395756&specId=73385288"
+        },
+        {
+          "名称": "工程管理",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395756&specId=73385248"
+        },
+        {
+          "名称": "音乐表演",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395756&specId=73383635"
+        },
+        {
+          "名称": "自动化",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395756&specId=73384324"
+        },
+        {
+          "名称": "港口航道与海岸工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395756&specId=73384536"
+        },
+        {
+          "名称": "轮机工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395756&specId=73384644"
+        },
+        {
+          "名称": "会计学",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395756&specId=73385284"
+        },
+        {
+          "名称": "电子信息工程",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395756&specId=73384328"
+        },
+        {
+          "名称": "计算机科学与技术",
+          "链接": "https://gaokao.chsi.com.cn/wap/sch/viewzyjs?dicCurId=73395756&specId=73384336"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/zyk/pub/myd/specAppraisalTop.action"
+        },
+        {
+          "名称": "查看更多",
+          "链接": "https://gaokao.chsi.com.cn/wap/zxdy/xxwd?year=2026&forumId=6091"
+        },
+        {
+          "名称": "教育部学生服务与素质发展中心",
+          "链接": "https://chesicc.chsi.com.cn/"
+        }
+      ],
+      "列表项": [],
+      "子详情链接": [],
+      "网站字段": {
+        "官方网址": "http://www.ouc.edu.cn/main.htm",
+        "招生网址": "http://bkzs.ouc.edu.cn/main.htm"
+      },
+      "网站链接": [
+        {
+          "site_type": "official",
+          "url": "http://www.ouc.edu.cn/main.htm"
+        },
+        {
+          "site_type": "admissions",
+          "url": "http://bkzs.ouc.edu.cn/main.htm"
+        }
+      ],
+      "官方电话": "0532-66782426/66782478/66781723",
+      "抓取时间": "2026-11-07T00:31:13.471564+08:00"
+    }
+  ],
+  "错误": [],
+  "抓取时间": "2026-11-07T00:31:13.471564+08:00"
+}

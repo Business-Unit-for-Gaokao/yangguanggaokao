@@ -52,6 +52,9 @@ data/*.xlsx
 # Playwright
 .playwright/
 
+# Local scraper runtime output
+/output/
+
 # macOS
 .DS_Store
 
